@@ -1346,8 +1346,9 @@ K
 	Elizaveta
 Rastegaeva"1265*Ñ¬2Ô:okBD20J2000RVladimirZ
 1¡
-6
-MichelleAbeni"1272*Ï‚:okBD20J1999ROLG Chur
+@
+MichelleAbeni"1272*Ï‚:okBD20J1999ROLG ChurZ
+1∑
 1
 RosaLerf"1273*ƒÁ:okBD20J2000ROLG Bern
 5
@@ -1749,6 +1750,9 @@ CARE VeveyZ
 F
 MariannaSenina"1366*à´2ı:okBDAMJ1983RFryazinoZ
 1ª
+J
+NathalieJulmy"1402*¯Ë:okBDAMJ1990ROLC Omstr√∂m SenseZ
+1≈
 8
 Monika	Mazalov√°"1348*êå:okBDAMJ1992RMVD Team
 :
@@ -1761,8 +1765,6 @@ F
 NelliS√•ger"1400*‘Â:okBDAMJ1984RBemb√∂le OK
 <
 AnnaBigolin"1401*àÁ:okBDAMJ1989RBucheggberger OL
-@
-NathalieJulmy"1402*¯Ë:okBDAMJ1990ROLC Omstr√∂m Sense
 6
 AlineFrank"1403*ËÍ:okBDAMJ1986ROLG Skandia
 ;
@@ -3082,9 +3084,15 @@ V
 AnnaHertin"1778*å≤2…:okBD50J1966RIK HakarpspojkarnaZ
 1≈	Z
 2Æ
+D
+Jarmila	Nemeckova"1818*¨Í:okBD50J1966R	USK PrahaZ
+1ä
 I
 	EkaterinaKrasilnikova"1816*ƒÁ:okBD50J1969R	NORD WESTZ
 1ü
+K
+	FranziskaStuber"1815*êÊ:okBD50J1967RCO Lausanne-JoratZ
+1É	
 9
 PetraWeber"1783*êπ:okBD50J1965ROLG Regensburg
 E
@@ -3092,12 +3100,8 @@ E
 ;
 Eva
 Smedegaard"1796*¥À:okBD50J1966RS√∏ller√∏d OK
-A
-	FranziskaStuber"1815*êÊ:okBD50J1967RCO Lausanne-Jorat
 ;
 MarketaBlahova"1817*¯Ë:okBD50J1969REkonom Praha
-:
-Jarmila	Nemeckova"1818*¨Í:okBD50J1966R	USK Praha
 8
 SusanneMaibach"1819*‡Î:okBD50J1963R	ol norska
 ;
@@ -3599,15 +3603,16 @@ T
 B
 	PhillippaPoole"1980*ÄË:okBD60J1958R	NORD WESTZ
 1
+D
+MargritSiegrist"1979*ÃÊ:okBD60J1956R
+OLG GoldauZ
+1¡
 :
 HeidiH√§nni"1905*ƒ˛:okBD60J1959ROLV Langenthal
 3
 IrisAndres"1922*∏ñ:okBD60J1955ROLG Chur
 E
 	ElisabethSteinlechner"1971*¨€:okBD60J1959ROC F√ºrstenfeld
-:
-MargritSiegrist"1979*ÃÊ:okBD60J1956R
-OLG Goldau
 ?
 SusiDuppenthaler"1982*ËÍ:okBD60J1958ROLV Hindelbank
 B
@@ -5004,6 +5009,9 @@ I
 M
 AndrinBenz"2376*¸§2É:okBH18J2001ROLG St. Gallen/App.Z
 1Ù
+@
+TomasJanovsky"2411*ÃÊ2ñ:okBH18J2001RMFPZ
+1Ö
 H
 DavisSolmanis"2358*úÉ2õ:okBH18J2001RAuseklis IKZ
 1å
@@ -5133,9 +5141,6 @@ L
 F
 MartinDittmann"2359*åÖ2Ù:okBH18J2001RUSV JenaZ
 1·
-;
-TomasJanovsky"2411*ÃÊ:okBH18J2001RMFPZ
-1Ö
 @
 AndrinSutter"2374*ú°:okBH18J2002ROLG St. Gallen/App.
 9
@@ -5227,16 +5232,18 @@ P
 NiklasEkstr√∂m"2429*Ïƒ2ƒ:okBH20J2002RMS ParmaZ
 1≠Z
 2∂
-J
+T
 MichalBoranek"2436*‘Â:okBH20J2000RCzech Trimtex teamZ
-1ö
+1öZ
+2¿	
+C
+JacobBritz"2437*¨Í:okBH20J1999RTV OberbexbachZ
+1ë
 <
 DavidZ√ºrcher"2418*§ë:okBH20J2000ROLV Hindelbank
 4
 BenStoyer"2422*Ñ§:okBH20J2000R
 OLG St√§fa
-9
-JacobBritz"2437*¨Í:okBH20J1999RTV Oberbexbach
 N
 TimonBurkhart"2425*å≤:mpBH20J1999ROL Regio WilZ
 1ÖZ
@@ -5530,6 +5537,11 @@ U
 JanSchmid"2507*Äé2»:okBHALJ1983RTeam Pez & SnappleZ
 1¥Z
 2µ
+R
+ThomasSchilter"2545*àÁ2÷:okBHALJ1990R
+OLG GoldauZ
+1“Z
+2«
 Q
 DanielRohr"2510*Ñï2˝:okBHALJ1990ROL ZimmerbergZ
 1ÀZ
@@ -5665,24 +5677,22 @@ T
 ThomasScherer"2522*î±2„:okBHALJ1984ROLG S√§uliamtZ
 1—Z
 2–
-M
-ThomasSchilter"2545*àÁ:okBHALJ1990R
-OLG GoldauZ
-1“Z
-2«
+O
+MoritzTorgau"2544*‹‰:okBHALJ1987RTV OberbexbachZ
+1ÈZ
+2À
+
+J
+ThomasR√∂thlisberger"2547*‡Î:okBHALJ1988ROLG SkandiaZ
+1œ
 D
 NoahLubasch"2546*¥È:okBHALJ2000ROLV HindelbankZ
 1±
-E
-MoritzTorgau"2544*‹‰:okBHALJ1987RTV OberbexbachZ
-1È
 5
 FelixBentz"2506*‘ã:okBHALJ1979R
 OLG St√§fa
 ?
 SamuelImriska"2519*ê™:okBHALJ1982RNaturfreunde Wien
-@
-ThomasR√∂thlisberger"2547*‡Î:okBHALJ1988ROLG Skandia
 Q
 JiriLuznicky"2518*‰ß:mpBHALJ1985RTJ KOTVA Bran√≠kZ
 1≤Z
@@ -6170,6 +6180,9 @@ Wittenberg"2649*‡Ø2 :okBHAKJ1966ROL Regio WilZ
 I
 HeiniHabermacher"2679*†’2å:okBHAKJ1967R	OLK ArgusZ
 1Û
+D
+MartinSalzmann"2694*ÄË:okBHAKJ1986ROLG SkandiaZ
+1ï
 I
 SamuelMeyer"2692*‘Â:okBHAKJ1988ROLG HerzogenbuchseeZ
 1”
@@ -6182,8 +6195,6 @@ F
 RolandSp√∂rri"2691*†‰:okBHAKJ1984ROLC Winterthur
 3
 DanielZoss"2693*àÁ:okBHAKJ1971ROLG Bern
-:
-MartinSalzmann"2694*ÄË:okBHAKJ1986ROLG Skandia
 <
 MischaLubasch"2695*¥È:okBHAKJ1997ROLV Hindelbank
 9
@@ -6430,13 +6441,15 @@ S
 1≥
 Z
 2Æ
+V
+
+ChristopheIngold"2803*†‰:okBH40J1979RCO Lausanne-JoratZ
+1 Z
+2˙
+
 ;
 MartinLerjen"2804*ƒÁ:okBH40J1973RUBOLZ
 1Ú
-L
-
-ChristopheIngold"2803*†‰:okBH40J1979RCO Lausanne-JoratZ
-1 
 4
 DmitrySenin"2784*Ù•:okBH40J1976RFryazino
 9
@@ -8643,6 +8656,9 @@ M√ºhlemann"3445*ËΩ2√:okBH70J1947ROLG ThunZ
 I
 Ren√©M√ºller"3437*¿≥2Ÿ:okBH70J1949ROLG S√§uliamtZ
 1ñ
+A
+ResLuder"3479*ÄË:okBH70J1947ROLV HindelbankZ
+1Ø
 G
 WalterPauli"3476*†‰:okBH70J1945RCO Lausanne-JoratZ
 1Ñ
@@ -8661,8 +8677,6 @@ OLG Kakowa
 OLG Goldau
 5
 PeterWehrli"3464*àÁ:okBH70J1948R	OLK Argus
-7
-ResLuder"3479*ÄË:okBH70J1947ROLV Hindelbank
 6
 WalterKeller"3480*¥È:okBH70J1946R	ol norska
 5
@@ -9815,4 +9829,4 @@ Zimmermann"7045*Íß2®:okBHLJ1949Z
 OLG St√§fa
 H
 Maja SchytteOlsen"5207*ô÷:mpBHLJ2002RS√∏ller√∏d OKZ
-1ü«O
+1ü»O
