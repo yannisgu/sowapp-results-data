@@ -3154,10 +3154,6 @@ Q
 KirstenR√∂hrich"1744*§Ç2∑:okBD50J1968RUSV JenaZ
 1‰Z
 2ú
-T
-MarketaBlahova"1817*¯Ë2œ:okBD50J1969REkonom PrahaZ
-1∞Z
-2Æ
 V
 AnnaHertin"1778*å≤2…:okBD50J1966RIK HakarpspojkarnaZ
 1≈	Z
@@ -3178,6 +3174,10 @@ Q
 ClaudiaRieder"1741*à˛:mpBD50J1968Rol.biel.seelandZ
 1€Z
 2ˇ
+Q
+MarketaBlahova"1817*¯Ë:disqBD50J1969REkonom PrahaZ
+1∞Z
+2Æ
 :
 PetraWeber"1783*êπ:dnsBD50J1965ROLG Regensburg
 F
@@ -5194,9 +5194,6 @@ D
 I
 YannicWild"2373*¨ü2Î	:okBH18J2001ROLG WeisslingenZ
 1‹	
-G
-PerDammeier"2382*ú∞2˚	:okBH18J2002RTSV HirschauZ
-1Ë	
 J
 Lo√ØcBaud"2412*ºË2˛	:okBH18J2002RCO Lausanne-JoratZ
 1Ì	
@@ -5260,6 +5257,9 @@ F
 M
 Halvor T√∏rnqvistHalden"2380*º¨:mpBH18J2001RNydalens SKZ
 1¯
+D
+PerDammeier"2382*ú∞:disqBH18J2002RTSV HirschauZ
+1Ë	
 :
 TomasMilan"2390*úø:dnsBH18J2001RKOS TESLA BRNO
 A
@@ -6570,10 +6570,6 @@ S
 	SebastianPaul"2775*∞à2Ü:okBH40J1977RTeam SachsenZ
 1ÛZ
 2Ô
-\
-Vincenzo	de Simone"2801*ÿ›2Æ:okBH40J1977RCO Lausanne-JoratZ
-1ÖZ
-2ö
 R
 RogerEbert"2802*¸‡2≥:okBH40J1975RTSV JetzendorfZ
 1¸Z
@@ -6604,6 +6600,10 @@ Z
 MarekSestak"2790*Ãπ:mpBH40J1974RSlavia Liberec OrienteerinZ
 1ŒZ
 2ü
+Y
+Vincenzo	de Simone"2801*ÿ›:disqBH40J1977RCO Lausanne-JoratZ
+1ÖZ
+2ö
 :
 PavelMilan"2788*Ñ≥:dnsBH40J1972RKOS TESLA BRNO
 5
@@ -6796,10 +6796,6 @@ R
 JyrkiHaikonen"2882*§‹2Â	:okBH45J1971RUlvilan UraZ
 1ÌZ
 2Õ	
-M
-GregorMoser"2820*¯é2Î	:okBH45J1971ROLG SuhrZ
-1©Z
-2⁄	
 S
 Marcel	Burkhardt"2813*ÑÜ2Ì	:okBH45J1971R
 OLV LuzernZ
@@ -6949,6 +6945,10 @@ L
 	ChristianZettel"2851*Ïµ:mpBH45J1974ROLG ThunZ
 1ÿZ
 2Å	
+J
+GregorMoser"2820*¯é:disqBH45J1971ROLG SuhrZ
+1©Z
+2⁄	
 H
 NickBarrable"2826*∏ñ:dnsBH45J1974RSouth Yorkshire Orienteers
 /
@@ -7466,6 +7466,9 @@ M
 J
 PaoloConsoli"3002*∏¥2∂:okBH50J1969RSCOM MendrisioZ
 1ú
+\
+	ChristophHollenstein"3047*ªË2≈:okBH50J1964ROLG Laufental-ThiersteinZ
+1≠
 A
 TaroUrase"2970*∏ñ2õ:okBH50J1967RTWMU OLKZ
 1˝
@@ -7484,9 +7487,6 @@ C
 F
 BoKonring"3031*–œ2˛:okBH50J1959RS√∏ller√∏d OKZ
 1ø
-\
-	ChristophHollenstein"3047*–ﬁ2∞:okBH50J1964ROLG Laufental-ThiersteinZ
-1ò
 E
 MarkusEtter"3042*¯Ÿ:mpBH50J1964Rol.biel.seelandZ
 1ˆ
@@ -7939,9 +7939,6 @@ W
 LeonhardCapeder"3168*Ù•2Ü:okBH55KJ1945ROL ZimmerbergZ
 1◊Z
 2È
-I
-HansueliL√ºthi"3192*¥È:mpBH55KJ1961ROLG Biberist SOZ
-1û
 Q
 HeinzFeucht"3179*Ïƒ:mpBH55KJ1958ROLG SchaffhausenZ
 1ﬁZ
@@ -7968,6 +7965,9 @@ S
 GerhardRyhiner"3165*ºù:mpBH55KJ1962ROLG WeisslingenZ
 1ÔZ
 2é
+K
+HansueliL√ºthi"3192*¥È:disqBH55KJ1961ROLG Biberist SOZ
+1û
 A
 WernerArnet"3160*¥è:dnsBH55KJ1954ROLG Herzogenbuchsee
 8
@@ -8094,9 +8094,10 @@ G
 C
 PhilippeClapuyt"3279*‡Õ2à	:okBH60J1957RASUBZ
 1Ò
-L
+V
 S√∂nkeBandixen"3224*òö2ä	:okBH60J1957ROLG Pf√§ffikonZ
-1Ò
+1ÍZ
+2Ò
 E
 MartinM√§der"3311*‡Î2î	:okBH60J1955R	ol norskaZ
 1˛
@@ -10049,4 +10050,4 @@ Zimmermann"7045*Íß2®:okBHLJ1949Z
 OLG St√§fa
 H
 Maja SchytteOlsen"5207*ô÷:mpBHLJ2002RS√∏ller√∏d OKZ
-1üËO
+1üÈO
