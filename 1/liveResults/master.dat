@@ -52,6 +52,8 @@ A
 JeanneRenaud"1022*å∫:okBD10J2010RANCO
 6
 AnnaSuwald"1010*Úº:okBD10J2009ROLG Cordoba
+?
+SannaGrendelmeier"1020*≠Ω:okBD10J2009ROLV Baselland
 4
 LinaBehrendt"1021:okBD10J2009ROLV Steinberg
 3
@@ -60,8 +62,6 @@ A
 AmelieDick"1030:okBD10J2010RUBOL
 9
 MaritGrendelmeier"1018:okBD10J2010ROLV Baselland
-9
-SannaGrendelmeier"1020:okBD10J2009ROLV Baselland
 -
 HollyHowe"1015:okBD10J2011R	Saxons OC
 )
@@ -861,6 +861,8 @@ A
 Hostettler"6049*ºª:okBCLJ1988RCO Lausanne-Jorat
 0
 TravisParker"6023*∂º:okBCLJ1974RBAOC
+;
+AnneR√∂hnert"5134*¨Ω:okBCLJ1989RPost SV Dresden
 >Baud Christine + Quentin"5135:okBCLJ0RCO Lausanne-Jorat
 DBaud Sandrine + Ecoffey Pierre"5137:okBCLJ0RCO Lausanne-Jorat
 0
@@ -894,8 +896,6 @@ Jan-ManuelMieske"5225:okBCLJ1999
 (Ott Lea + Stocker Eva"6013:okBCLJ0
 1
 BennoPlanzer"5129:okBCLJ1961ROLG Huttwil
-5
-AnneR√∂hnert"5134:okBCLJ1989RPost SV Dresden
 1
 MonikaScherrer"6047:okBCLJ1960R	OLG Basel
 5
@@ -1137,19 +1137,21 @@ Eksj√∂ SOKZ
 1ΩZ
 2Î
 
+W
+Karolina	Borankova"1283*¸≥:okBDEJ1995RCzech Trimtex teamZ
+1ÈZ
+2‹	
 8
 AliceLeake"1287*‹∑:okBDEJ1991RAIREZ
 1ƒ
+=
+LauraDiener"1288*‘∏:okBDEJ1995ROLG BernZ
+1è
 D
 ThaliaBertschinger"1285*Ïµ:okBDEJ1993ROLG ThunZ
 1¢
-M
-Karolina	Borankova"1283*¸≥:okBDEJ1995RCzech Trimtex teamZ
-1È
 B
 JasmineNeve"1284*Ù¥:okBDEJ1986Rmelbourne forest racers
-3
-LauraDiener"1288*‘∏:okBDEJ1995ROLG Bern
 <
 Sonia
 Fl√ºckiger"1290*ƒ∫:okBDEJ1997ROLK Wiggertal
@@ -1540,11 +1542,12 @@ S
 H
 ElianeF√§h"1421*»î2®	:okBDAKJ1991ROLG Pf√§ffikonZ
 1â	
+C
+Ariane
+Wegm√ºller"1445*®∂:okBDAKJ1981ROLG ThunZ
+1õ
 <
 Andrea	D√§twyler"1434*Ï¶:okBDAKJ1998ROLG Hondrich
-9
-Ariane
-Wegm√ºller"1445*®∂:okBDAKJ1981ROLG Thun
 >
 Barbara	Schweizer"1446*‹∑:okBDAKJ1966ROLV Baselland
 ;
@@ -2094,12 +2097,13 @@ X
 1¶
 Z
 2·
+L
+SandraFrei"1663*Ïµ:okBD45J1970ROLV BasellandZ
+1÷Z
+2ÿ
 A
 AndreaGood"1664*‹∑:okBD45J1974RthurgorientaZ
 1™
-B
-SandraFrei"1663*Ïµ:okBD45J1970ROLV BasellandZ
-1÷
 6
 SabineBr√§uer"1635*¨Å:okBD45J1971RUSV Jena
 @
@@ -3758,31 +3762,34 @@ V
 J√©r√¥meLeutert"2197*¨Å2Ë:okBH14J2006ROLG S√§uliamtZ
 1˜Z
 2’
+L
+MatthieuB√ºhrer"2235*‰∂:okBH14J2006RCA Ros√©Z
+1ØZ
+2”
 R
 YanisL√ºtzelschwab"2231*î±:okBH14J2005ROLG CordobaZ
 1¿Z
 2´
+L
+YuriHonegger"2233*¸≥:okBH14J2005ROLG CordobaZ
+1≥Z
+2›	
 Q
 TobiasSteinlin"2230*‡Ø:okBH14J2006ROLC WinterthurZ
 1†Z
 2î
-B
-MatthieuB√ºhrer"2235*‰∂:okBH14J2006RCA Ros√©Z
-1Ø
+H
+DanielCionoiu"2238*Äª:okBH14J2005RTV Coburg-NeusesZ
+1ﬂ
 D
 Dario	Dauwalder"2236*ò∏:okBH14J2006ROLG CordobaZ
 1˜
-B
-YuriHonegger"2233*¸≥:okBH14J2005ROLG CordobaZ
-1≥
 4
 HansBr√§uer"2202*∞à:okBH14J2005RUSV Jena
 9
 TimBachmann"2227*ƒ´:okBH14J2005ROL Zimmerberg
 @
 Nils	Johansson"2237*Ãπ:okBH14J2006RV√§stv√§rmlands OK
->
-DanielCionoiu"2238*Äª:okBH14J2005RTV Coburg-Neuses
 =
 Dominik	Meyerhans"2239*¥º:okBH14J2006ROL Regio Wil
 ?
@@ -4143,10 +4150,11 @@ L
 F
 MartinDittmann"2359*åÖ2Ù:okBH18J2001RUSV JenaZ
 1·
+?
+NadavNussbaum"2384*¸≥:okBH18J2002RHASHRONZ
+1—	
 @
 AndrinSutter"2374*ú°:okBH18J2002ROLG St. Gallen/App.
-5
-NadavNussbaum"2384*¸≥:okBH18J2002RHASHRON
 <
 Simon	Leisinger"2385*Ïµ:okBH18J2001ROLG S√§uliamt
 :
@@ -4241,9 +4249,10 @@ P
 OleH√§nsel"2419*¸ï2’:okBH20J2000RTeam SachsenZ
 1∞Z
 2¬
-D
+N
 TimonBurkhart"2425*å≤:okBH20J1999ROL Regio WilZ
-1Ö
+1ÖZ
+2Õ
 <
 DavidZ√ºrcher"2418*§ë:okBH20J2000ROLV Hindelbank
 4
@@ -4352,10 +4361,11 @@ T
 YosukeYagami"2448*∞¶2‡:okBHEJ1983RTokiwa SorinkaiZ
 1›Z
 2œ
-O
+Y
 Zolt√°nGyimesi"2455*¯¨:okBHEJ1972RHOD-mentor SEZ
 1◊Z
-2≠
+2≠Z
+3∑
 ?
 ManuelWalss"2466*†∑:okBHEJ1997R
 OLV LuzernZ
@@ -4508,6 +4518,10 @@ Maerkovich"2503*–Ñ2Ø	:okBHALJ1996RCarmelZ
 1¥Z
 2ú	
 X
+JussiNurminen"2523*¿≥2Â	:okBHALJ1988RValkeakosken HakaZ
+1ÑZ
+2–	
+X
 	TakeshigeIshiwa"2520*º¨2ú
 :okBHALJ1988RTokiwa SorinkaiZ
 1…Z
@@ -4527,10 +4541,6 @@ T
 ThomasScherer"2522*î±2„:okBHALJ1984ROLG S√§uliamtZ
 1—Z
 2–
-S
-JussiNurminen"2523*¿≥:okBHALJ1988RValkeakosken HakaZ
-1ÑZ
-2–	
 N
 	ChristianSchellenberg"2525*ò∏:okBHALJ1997ROLK RafzerfeldZ
 1§
@@ -4910,12 +4920,13 @@ D
 SimonSax"2653*Ù¥:okBHAKJ1973R
 bussola okZ
 1Ø
+A
+FabrizioCocco"2652*¿≥:okBHAKJ1988R	OLG BaselZ
+1Ô	
 E
 Lutz
 Wittenberg"2649*‡Ø:okBHAKJ1966ROL Regio WilZ
 1±
-7
-FabrizioCocco"2652*¿≥:okBHAKJ1988R	OLG Basel
 ;
 PeterGisler"2654*®∂:okBHAKJ1968ROLG KTV Altdorf
 >
@@ -5329,6 +5340,10 @@ O
 1’Z
 2
 
+Q
+SimonBienz"2848*å≤2†:okBH45J1970ROLG S√§uliamtZ
+1ÉZ
+2ç
 X
 XiaopingTan"2830*Ãõ2µ:okBH45J1971RLearnjoy O Club  CNZ
 1⁄Z
@@ -5361,10 +5376,6 @@ Y
 GheorgheCionoiu"2839*Ï¶2å:okBH45J1961RTV Coburg-NeusesZ
 1ñZ
 2Ô
-L
-SimonBienz"2848*å≤:okBH45J1970ROLG S√§uliamtZ
-1ÉZ
-2ç
 I
 PeterGrendelmeier"2852*‰∂:okBH45J1974ROLV BasellandZ
 1ô
@@ -5757,6 +5768,9 @@ N
 C
 PeterL√ºthi"2955*∞à2¡:okBH50J1969ROLG SuhrZ
 1≠
+I
+Urs	Leisinger"2998*ÿ∞2≈:okBH50J1969ROLG S√§uliamtZ
+1≠
 O
 Urs	Eisenbart"2975*êõ2◊:okBH50J1965ROLG St. Gallen/App.Z
 1¿
@@ -5775,9 +5789,6 @@ H
 H
 JanisSpektors"2951*–Ñ2†:okBH50J1969RAuseklis IKZ
 1ã
-D
-Urs	Leisinger"2998*ÿ∞:okBH50J1969ROLG S√§uliamtZ
-1≠
 =
 KariHakuli"3001*¿≥:okBH50J1965RKeravan Urheilijat
 ;
@@ -5941,6 +5952,9 @@ K
 H
 MartinKoster"3105*î±2Õ	:okBH55J1962ROL Regio WilZ
 1π	
+H
+HeinzBleiker"3107*¿≥2◊	:okBH55J1964ROL Regio WilZ
+1ƒ	
 D
 MarioGorecki"3070*»Ö2Á	:okBH55J1963RUSV JenaZ
 1‘	
@@ -6049,13 +6063,11 @@ D
 N
 KlemensJ√∂rger"3089*Äù2à:okBH55J1960RTV Kippenheim /DZ
 1Ò
-C
-HeinzBleiker"3107*¿≥:okBH55J1964ROL Regio WilZ
-1ƒ	
+J
+MichaelHertin"3106*»≤:okBH55J1964RIK HakarpspojkarnaZ
+1õ
 ?
 Per-ArneR√∏stadsand"3101*Ä¨:okBH55J1961RNydalens SK
-@
-MichaelHertin"3106*»≤:okBH55J1964RIK Hakarpspojkarna
 >
 Markus	Leutwiler"3108*Ù¥:okBH55J1960ROLG Rymenzburg
 >
@@ -6201,19 +6213,21 @@ W
 LeonhardCapeder"3168*Ù•2Ü:okBH55KJ1945ROL ZimmerbergZ
 1◊Z
 2È
+G
+ResWenger"3174*‰∂:okBH55KJ1961ROLG ThunZ
+1ÁZ
+2˜
 O
 AriKolehmainen"3172*î±:okBH55KJ1962ROC M√ºnchenZ
 1ÂZ
 2¶
-=
-ResWenger"3174*‰∂:okBH55KJ1961ROLG ThunZ
-1Á
+C
+Andr√©Wirz"3175*Ãπ:okBH55KJ1963ROLV BasellandZ
+1Ê
 @
 WernerArnet"3160*¥è:okBH55KJ1954ROLG Herzogenbuchsee
 7
 AkiSaranen"3171*¨Æ:okBH55KJ1963RPihkaniskat
-9
-Andr√©Wirz"3175*Ãπ:okBH55KJ1963ROLV Baselland
 =
 	HansruediH√§ny"3176*¥º:okBH55KJ1962ROLG K√∂lliken
 ;
@@ -6414,10 +6428,18 @@ N
 ?
 SteveKirk"3251*¿≥:okBH60J1956ROLG CordobaZ
 1Æ
+M
+Gregers Helge
+J√∏rgensen"3252*∏¥:okBH60J1957RBallerup OKZ
+1è	
 @
 JohnHofoss"3248*ÿ∞:okBH60J1958RHadeland OLZ
 1‚
 
+D
+	ChristianHoyois"3250*»≤:okBH60J1957R
+CARE VeveyZ
+1ó
 7
 ErwinStalder"3201*–Ñ:okBH60J1956R
 OLV Luzern
@@ -6425,12 +6447,6 @@ OLV Luzern
 GuidoRhyn"3227*Äù:okBH60J1957ROLG Herzogenbuchsee
 ?
 FelixB√ºchi"3242*à´:okBH60J1956ROLG St. Gallen/App.
-:
-	ChristianHoyois"3250*»≤:okBH60J1957R
-CARE Vevey
-C
-Gregers Helge
-J√∏rgensen"3252*∏¥:okBH60J1957RBallerup OK
 :
 AchillesHumbel"3253*∞µ:okBH60J1959ROLG Cordoba
 @
@@ -7749,20 +7765,23 @@ P"Plattner Laurianne + Farrer Annica"5156*ê≤:okBHSJ0R	OLG BaselZ
 @
 PeterL√ºscher"7004*„Ø:okBHSJ1937R	OLK ArgusZ
 1‡	
+6
+Nora
+Rechberger"5170*à≥:okBHSJ2010Z
+1•
+
+M
+Silvia
+Bollhalder"7027*ƒ´:okBHSJ1965ROLG St. Gallen/App.Z
+1ä
 7
 RonjaSpring"7083*ﬂ©:okBHSJ2015Rthurgorienta
-C
-Silvia
-Bollhalder"7027*ƒ´:okBHSJ1965ROLG St. Gallen/App.
 +
 Jan
 Fl√ºckiger"7125*©Ø:okBHSJ1968
 =Holinger Kathrin + Annina"5158*ö±:okBHSJ0R	OLG Basel
 @
 StefaniaPoggiati"5154*‘±:okBHSJ1962RC.O. Aget Lugano
-,
-Nora
-Rechberger"5170*à≥:okBHSJ2010
 7
 SilviaFuchs"5177*∑µ:okBHSJ1950ROLG Galgenen
 >
@@ -7893,4 +7912,4 @@ C(Udovytskyy Vitaliy + Udovytskaya Maiia +"5191:okBHLJ0RSirius
 OLG Kakowa
 1
 StephanZeller"5193:okBHLJ1966R
-OLG St√§fa›N
+OLG St√§faﬁN
