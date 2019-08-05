@@ -322,11 +322,12 @@ E
 L
 AnnikaClavadetscher"1143*òö:okBD16J2003ROLV LangenthalZ
 1ﬁ
+:
+LiaOkle"1144*¯ù:okBD16J2004ROLG BernZ
+1ã
 E
 MalinL√ºthi"1145*àú:okBD16J2004ROLG Biberist SOZ
 1—
-0
-LiaOkle"1144*¯ù:okBD16J2004ROLG Bern
 >
 MireilleGisler"1186*»£:okBD16J2003ROLG KTV Altdorf
 :
@@ -2087,6 +2088,9 @@ C
 C
 LuciaHasler"2046*†®:okBD70J1947ROLG S√§uliamtZ
 1•
+E
+MiriamRosen"2053*ƒ´:okBD70J1949RSouth Ribble OCZ
+1»
 D
 RenateWaser"2055*¸§:okBD70J1949ROLK RafzerfeldZ
 1≠
@@ -2096,8 +2100,6 @@ C
 A
 Seija
 Hurskainen"2047*¥û:okBD70J1945RValkeakosken Haka
-;
-MiriamRosen"2053*ƒ´:okBD70J1949RSouth Ribble OC
 8
 MargaretDearman"2052*ËÆ:okBD70J1949RMoravian
 D
@@ -2307,8 +2309,8 @@ Wegm√ºller"2124:okBH10J2010ROLG Thun
 C
 JamesEbert"2133*¸ù:mpBH10J2011RTSV JetzendorfZ
 1Ï
->
-AndrinMeier"2167*¥û:okBH12J2008ROLG ThunZ
+C
+AndrinMeier"2167*¥û2ß:okBH12J2008ROLG ThunZ
 1¸
 D
 RaphaelKeller"2168*ƒú:okBH12J2007RthurgorientaZ
@@ -2441,14 +2443,16 @@ Q
 D
 Jan	Leisinger"2247*ºù:okBH14J2005ROLG S√§uliamtZ
 1Ñ	
+J
+Livio MatteoM√ºller"2251*ÿ°:okBH14J2005RthurgorientaZ
+1Ω
+C
+ThomasKeller"2249*û:okBH14J2005RthurgorientaZ
+1†
 7
 JulianL√ºdtke"2195*àú:okBH14J2005R	ol norska
-9
-ThomasKeller"2249*û:okBH14J2005Rthurgorienta
 =
 J√©r√¥meLeutert"2197*§†:okBH14J2006ROLG S√§uliamt
-@
-Livio MatteoM√ºller"2251*ÿ°:okBH14J2005Rthurgorienta
 9
 LeoVuorela"2250*å£:okBH14J2005REspoon Akilles
 7
@@ -2604,8 +2608,9 @@ D
 K
 FlurinSchnyder"2352*Äù:okBH16J2003ROLC Omstr√∂m SenseZ
 1¡
-7
-DaniBienz"2304*¥û:okBH16J2004ROLG S√§uliamt
+A
+DaniBienz"2304*¥û:okBH16J2004ROLG S√§uliamtZ
+1‚
 <
 FlavienLeutert"2275*ú°:okBH16J2003ROLG S√§uliamt
 :
@@ -3263,6 +3268,10 @@ B
 ValentinM√ºrner"2549*á:okBHAMJ2000ROLG Skandia
 5
 MichaelWild"2606*‡â:okBHAMJ1986R	OLK Argus
+F
+Rolf
+Br√ºhwiler"2675*Ìó2›:okBHAKJ1968ROLG ThunZ
+1≥
 <
 Lino	Ledermann"2609*òö:okBHAKJ2002ROLV Langenthal
 <
@@ -3367,9 +3376,6 @@ D
 FabianKlein"2627*§‹:okBHAKJ1991ROLG Pf√§ffikon
 A
 RainerM√ºller"2640*ÿ›:okBHAKJ1976ROLG St. Gallen/App.
-@
-MichaelHohl"2628*–ﬁ:okBHAKJ1971ROLG WeisslingenZ
-1
 D
 Martin
 Oberholzer"2637*Ñ‡:okBHAKJ1980ROLG St. Gallen/App.
@@ -5168,6 +5174,8 @@ H
 8Bienz Susanne + Corina"5016:okBCSJ0ROLG S√§uliamt
 "
 InesBisang"5034:okBCSJ1978
+1
+C√©cileBrem"7190:okBCSJ1946ROLG Welsikon
 <
 BarbaraBucher-K√∂nig"7174:okBCSJ1965ROLV Hindelbank
 0
@@ -5773,4 +5781,4 @@ Anna-LydiaVieli"7059:okBHLJ2001ROLG Z√ºrich
 OLG Kakowa
 1
 StephanZeller"5193:okBHLJ1966R
-OLG St√§fa≤N
+OLG St√§fa≥N
