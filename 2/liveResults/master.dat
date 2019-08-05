@@ -317,6 +317,11 @@ E
 MiaHofer"1142*¨à:okBD14J2006ROLV Langenthal
 ?
 AnnaSchneeberger"1152*úä:okBD14J2005ROLV Langenthal
+=
+LiviaSax"1188*ò©:okBD16J2003R
+bussola okZ
+1Û
+
 @
 LenaKoch"1193*ÿ°:okBD16J2003ROLV BasellandZ
 1ô
@@ -340,9 +345,6 @@ E
 1—
 :
 SiriSimonsen"1195*∏•:okBD16J2003ROLV Baselland
-3
-LiviaSax"1188*ò©:okBD16J2003R
-bussola ok
 :
 EmiliaMelender"1187*¯¨:okBD16J2003RRAST-JUSSIT
 :
@@ -1502,14 +1504,15 @@ H
 Anna-M√§rta	Johansson"1717*ºÜ:okBD45KJ1972RV√§stv√§rmlands OK
 D
 MirjamL√ºthi-Probst"1740*Ëà:okBD45KJ1972ROLG Biberist SO
+G
+	LiselotteFreuler"1789*¥û:okBD50J1966RthurgorientaZ
+1 
 8
 SusanneMaibach"1819*òö:okBD50J1963R	ol norska
 8
 VeraAnders"1781*Ãõ:okBD50J1965ROLG S√§uliamt
 8
 EdithStrub"1790*Äù:okBD50J1965ROLV Baselland
-=
-	LiselotteFreuler"1789*¥û:okBD50J1966Rthurgorienta
 E
 	ChristineSch√∂nenberger"1792*Ëü:okBD50J1969ROLV Baselland
 @
@@ -2333,12 +2336,12 @@ J
 Mike
 Rechberger"2166*§†2Ω:okBH12J2007RthurgorientaZ
 1ç
+J
+JannisRiediker"2170*Ñ§2Ω:okBH12J2008RthurgorientaZ
+1ë
 I
 RaphaelKeller"2168*ƒú2ﬁ:okBH12J2007RthurgorientaZ
 1ß
-E
-JannisRiediker"2170*Ñ§:okBH12J2008RthurgorientaZ
-1ë
 /
 FinnDewald"2185*‘ö:okBH12J2008RUBOL
 D
@@ -2625,6 +2628,14 @@ Wittenberg"2241*∏:okBH14J2006ROL Regio Wil
 TobiasNagel"2313*Ï¶:okBH16J2004R
 OLG MurtenZ
 1´	
+A
+FlorianNagel"2311*à´:okBH16J2004R
+OLG MurtenZ
+1Æ	
+B
+LeopoldPaul"2286*‘©:okBH16J2004RTeam SachsenZ
+1€
+
 F
 Jonas	Leisinger"2306*Ãõ:okBH16J2003ROLG S√§uliamtZ
 1à
@@ -2650,11 +2661,6 @@ F
 HenrikMittelholzer"2314*∏•:okBH16J2004ROLK Fricktal
 <
 SaschaBolliger"2312*†®:okBH16J2004ROLG K√∂lliken
-8
-LeopoldPaul"2286*‘©:okBH16J2004RTeam Sachsen
-7
-FlorianNagel"2311*à´:okBH16J2004R
-OLG Murten
 7
 MarekPompe"2284*º¨:okBH16J2003RTeam Sachsen
 8
@@ -4404,8 +4410,8 @@ E
 UeliRyser"3152*á:okBH55J1963ROLV Langenthal
 9
 J√ºrgW√§lchli"3065*§â:okBH55J1962ROLG Skandia
-C
-MarcelSchiess"3154*§†:okBH55KJ1963R
+H
+MarcelSchiess"3154*§†2º:okBH55KJ1963R
 Buchsee OLZ
 1å
 ?
@@ -5215,6 +5221,10 @@ S
 NicoleFlura"7171*üù2Ñ:okBCSJ1970ROLG WeisslingenZ
 1•Z
 2¥
+P
+RudolfSchmid"5026*éú2À:okBCSJ1950ROL TrollelgZ
+1∫Z
+2ã
 @
 No√´lleK√∂chle"5003* :okBCSJ1967ROLG Z√ºrichZ	
 1Œ®
@@ -5329,8 +5339,6 @@ Schatzmann"5013:okBCSJ2004ROLG Cordoba
 ViktorSchilter"5011:okBCSJ1943ROLG St. Gallen/App.
 0
 FranzSchlup"5035:okBCSJ1952ROLG Oberwil
-1
-RudolfSchmid"5026:okBCSJ1950ROL Trollelg
 1
 AnnetteSchmid"7177:okBCSJ1970R
 OLV Luzern
@@ -5620,6 +5628,9 @@ DBaud Sandrine + Ecoffey Pierre"5137:okBCLJ0RCO Lausanne-Jorat
 DieterHulliger"3:okBCLJ1946ROLG Bern
 1
 JanisHutzli"6015:okBCLJ2002ROL Regio Wil
+/
+SamuelImhof"6075:okBCLJ1981R
+OLG Kakowa
 4
 WielandK√§rger"5123:okBCLJ1978RTeam Sachsen
 -
@@ -5853,4 +5864,4 @@ Anna-LydiaVieli"7059:okBHLJ2001ROLG Z√ºrich
 OLG Kakowa
 1
 StephanZeller"5193:okBHLJ1966R
-OLG St√§fa¡N
+OLG St√§fa¬N
