@@ -67,8 +67,9 @@ D
 G
 SinaLexen"1033*œÊ2∏:okBD10J2010RTSV JetzendorfZ
 1ˇ
-=
-SophiePusterla"1013*˙Ë2ø:okBD10J2010R	OLG Basel
+G
+SophiePusterla"1013*˙Ë2ø:okBD10J2010R	OLG BaselZ
+1ì
 E
 LindaPillat"1031*Ê„2¯:okBD10J2009R
 OLG GoldauZ
@@ -383,6 +384,10 @@ I
 AnoukDewald"1135*Ãõ2€@:okBD14J2005RUBOLZ
 1¶Z
 2∏@
+:
+PavlaSimsova"1141*¸Ô:okBD14J2005RMFPZ
+1ô
+
 <
 MargauxTissot"1138*¨Í:okBD14J2006RANCOZ
 1’
@@ -410,8 +415,6 @@ B√ºtikofer"1132*ÃÊ:okBD14J2006Rol.biel.seeland
 VivianeDick"1086*ºË:okBD14J2005RUBOL
 5
 SvetaGuseva"1140*åÓ:okBD14J2006R	NORD WEST
-0
-PavlaSimsova"1141*¸Ô:okBD14J2005RMFP
 <
 
 Annika VanRaaij"1139*ÏÒ:okBD14J2006RHedrum O-lag
@@ -569,6 +572,9 @@ S
 Anne	Hockeborn"1156*ËÆ2÷*:okBD16J2004RTeam SachsenZ
 1ÍZ
 2®*
+G
+PatriziaSieber"1175*∏:okBD16J2003ROLC WinterthurZ
+1‡	
 E
 Julia	Bretscher"1174*òÂ:okBD16J2004ROLC KapreoloZ
 1‡
@@ -600,8 +606,6 @@ D
 	EkaterinaGuseva"1200*ÿÏ:okBD16J2004R	NORD WEST
 8
 LisaHubmann"1179*»Ó:okBD16J2004ROL Regio Wil
-=
-PatriziaSieber"1175*∏:okBD16J2003ROLC Winterthur
 =
 Daniela	Meyerhans"1181*®Ú:okBD16J2003ROL Regio Wil
 6
@@ -1285,11 +1289,12 @@ J
 H
 JannaKosack"1452*ÿ∞2Ù+:okBDAKJ1968ROLG K√∂llikenZ
 1£+
+@
+TanjaKeller"1417*§‹:okBDAKJ1992R
+OLG St√§faZ
+1Ï
 9
 ElianeF√§h"1421*àÿ:okBDAKJ1991ROLG Pf√§ffikon
-6
-TanjaKeller"1417*§‹:okBDAKJ1992R
-OLG St√§fa
 ;
 NadiaWaldner"1416*¿‡:okBDAKJ2004ROLG Pf√§ffikon
 7
@@ -1708,6 +1713,9 @@ F
 Ursi
 Ruppenthal"1633*Ãõ2¶:okBD45J1971ROLG ChurZ
 1˙
+V
+BettinaSteiger"1685*åﬂ2æ:okBD45J1973ROLG Bern / OLV BasellandZ
+1î
 G
 SandraFrei"1663*å£2œ:okBD45J1970ROLV BasellandZ
 1°
@@ -1782,9 +1790,6 @@ M
 E
 UrsulaStrobel"1638*Ïµ2‰>:okBD45J1970RUSV JenaZ
 1´>
-Q
-BettinaSteiger"1685*åﬂ:okBD45J1973ROLG Bern / OLV BasellandZ
-1î
 @
 CamillaMittelholzer"1665*Ã™:okBD45J1974ROLK Fricktal
 :
@@ -2019,6 +2024,9 @@ BernadetteHuber"1758*†’2È:okBD50J1966ROL ZimmerbergZ
 J
 	Ann-SofieBrink"1787*≠2Æ:okBD50J1968RMarkaryds FKZ
 1Ì
+G
+MirjamArnet"1759*§‹2≤:okBD50J1968ROLC KapreoloZ
+1ı
 J
 SibylleBieri"1752*àÿ2Ë:okBD50J1968ROLG Pf√§ffikonZ
 1∞
@@ -2100,9 +2108,6 @@ A
 G
 	ElisabethZeiner"1791*∏•2±3:okBD50J1965ROLC GrazZ
 1ˆ2
-B
-MirjamArnet"1759*§‹:okBD50J1968ROLC KapreoloZ
-1ı
 C
 MonikaSenn"1755*⁄:okBD50J1967ROLG Pf√§ffikonZ
 1»
@@ -2655,9 +2660,6 @@ F
 S
 Lotta	M√§√§tt√§"2018*ƒú2µA:okBD65J1953RKouvolan SuunnistajatZ
 1Á@
-F
-BrigitteSchaller"2023*‰‘:okBD65J1952ROLG OberwilZ
-1≠$
 >
 BeatriceBombeli"1996*ê◊:okBD65J1954ROLG Pf√§ffikon
 6
@@ -2697,6 +2699,9 @@ I
 S√£o Jo√£o"2009*ÄÜ:okBD65J1953RCLAC
 7
 MonikaBonafini"2030*¨à:okBD65J1953ROLG Bern
+F
+BrigitteSchaller"2023*‰‘:mpBD65J1952ROLG OberwilZ
+1≠$
 9
 K√§theHofmann"2027*∞ƒ:mpBD65J1950ROLG Oberwil
 6
@@ -3914,6 +3919,9 @@ P
 F
 FlorianWepfer"2420*Ù“:okBH20J1999ROLG Pf√§ffikonZ
 1 
+E
+TimoRyhiner"2423*§‹:okBH20J2000ROLG WeisslingenZ
+1–
 D
 TimonBurkhart"2425*úŒ:okBH20J1999ROL Regio WilZ
 1ˆ
@@ -3922,8 +3930,6 @@ D
 4
 BenStoyer"2422*ƒ…:okBH20J2000R
 OLG St√§fa
-;
-TimoRyhiner"2423*§‹:okBH20J2000ROLG Weisslingen
 <
 SilvanSpiess"2434*¸‡:okBH20J2000Rol.biel.seeland
 ?
@@ -4057,6 +4063,9 @@ A
 SvenKlein"2457*ê◊:okBHEJ1993ROLG Pf√§ffikonZ
 1˝
 @
+TopiHasu"2481*⁄:okBHEJ1992RBastholmens IFZ
+1ã
+@
 ThomasGeiges"2462*†’:okBHEJ1976R
 OLG St√§faZ
 1— 
@@ -4075,8 +4084,6 @@ TG H√ºtten
 Zolt√°nGyimesi"2455*‡Õ:okBHEJ1972RHOD-mentor SE
 9
 GeunheeHong"2478*–œ:okBHEJ1986RKorea O-lovers
-6
-TopiHasu"2481*⁄:okBHEJ1992RBastholmens IF
 G
 Gabriel-MichaelMathys"2475*‡‹:okBHEJ1996ROLG Max und Moritz
 7
@@ -5234,12 +5241,13 @@ E
 G
 RicoHuber"2911*å–2À#:okBH45KJ1960ROL ZimmerbergZ
 1¶#
+G
+	ChristophMeyer"2903*ê◊:okBH45KJ1972ROL ZimmerbergZ
+1–"
 :
 RalfWittiber"2928*Ã™:okBH45KJ1967RSkiclub Bonn
 <
 Rolf	Wettstein"2916*‡Õ:okBH45KJ1962ROL Zimmerberg
-=
-	ChristophMeyer"2903*ê◊:okBH45KJ1972ROL Zimmerberg
 ;
 FabioW√ºrmli"2912*Ë€:okBH45KJ1955ROL Zimmerberg
 7
@@ -6580,6 +6588,9 @@ Y
 Gavin
 Wyatt-Mair"3319*Ù√2†(:okBH65J1954RBay Area Orienteering ClubZ
 1'
+I
+OthmarZiegerhofer"3380*îœ2›*:okBH65J1950RTVN-LinzZ
+1ó*
 B
 JanisEglitis"3323*å¡2Ê*:okBH65J1954RKURMISZ
 1∞*
@@ -6601,9 +6612,6 @@ G
 I
 RogerGirardin"3371*‰ß2‚7:okBH65J1953ROLK FricktalZ
 1ñ7
-D
-OthmarZiegerhofer"3380*îœ:okBH65J1950RTVN-LinzZ
-1ó*
 8
 UrsH√§nni"3314*‹ô:okBH65J1954ROLV Langenthal
 :
@@ -6820,6 +6828,10 @@ M
 Pierre-Andr√©Baumgartner"3399*¯Ÿ:okBH70J1946R
 CARE VeveyZ
 1Õ
+O
+Kurt
+Rothweiler"3460*ÿŒ:okBH70J1947RO-92 Piano di MagadinoZ
+1£+
 8
 Heinz
 M√ºhlemann"3445*êõ:okBH70J1947ROLG Thun
@@ -6829,9 +6841,6 @@ M√ºhlemann"3445*êõ:okBH70J1947ROLG Thun
 ChrisHirt"3457*∏√:okBH70J1945ROLG Welsikon
 ;
 PietroWinteler"3455*ƒ…:okBH70J1948ROLG Welsikon
-E
-Kurt
-Rothweiler"3460*ÿŒ:okBH70J1947RO-92 Piano di Magadino
 =
 	Hansj√∂rgGasser"3412*–œ:okBH70J1948ROL Zimmerberg
 6
@@ -7520,8 +7529,11 @@ Z
 1•Z
 2¨Z
 3∏&
-H
-Eija	Sulavuori"5052*Ü—2é(:okBCMJ1962RTurun Mets√§nk√§vij√§t
+f
+Eija	Sulavuori"5052*Ü—2é(:okBCMJ1962RTurun Mets√§nk√§vij√§tZ
+1≥Z
+2ù	Z
+3¿'
 L
 ErnstGubler"5101*Ë≈2≠(:okBCMJ1965Z
 1ôZ
@@ -8009,4 +8021,4 @@ C(Udovytskyy Vitaliy + Udovytskaya Maiia +"5191:okBHLJ0RSirius
 OLG St√§fa
 7
 Roland	Bourgeois"7182*„∑:mpBHLJ1945Z
-1Û#÷O
+1Û#◊O
