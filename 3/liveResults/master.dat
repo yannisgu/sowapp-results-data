@@ -12,6 +12,8 @@
 SophiePusterla"1013*»ç:okBD10J2010R	OLG Basel
 A
 AnnaEnberg"1029*∫è:okBD10J2009Rbussola/Link√∂pings OK
+6
+AnnaSuwald"1010*òì:okBD10J2009ROLG Cordoba
 7
 Signe	Albinsson"1007:okBD10J2009ROK √ñster√•ker
 6
@@ -59,8 +61,6 @@ OLG Goldau
 Ya√´lleRouiller"1009:okBD10J2009RCO CERN
 1
 Enya	Sch√∂dler"1024:okBD10J2009R	OLK Argus
-0
-AnnaSuwald"1010:okBD10J2009ROLG Cordoba
 :
 EmiliaWetzel"1032:okBD10J2009RSV Robotron Dresden
 ;
@@ -989,8 +989,8 @@ Wegm√ºller"1445*Ù·:okBDAKJ1981ROLG Thun
 KarlaKraus"1430*‡Î:okBDAKJ2002ROLC Winterthur
 <
 	ChristineLehmann"1480*îÌ:okBDAKJ1989ROLG Skandia
-R
-Anne Grethe	Gustavsen"1525*ƒ˛:okBDBJ1963RNittedal OrienteringZ
+W
+Anne Grethe	Gustavsen"1525*ƒ˛2√:okBDBJ1963RNittedal OrienteringZ
 1ã
 ?
 CorinnaBricalli"1514*¯ˇ:okBDBJ1975RC.O. Aget Lugano
@@ -1788,10 +1788,11 @@ Buchsee OL
 MargritSchaltegger"1855*‡Î:okBD55J1952Rthurgorienta
 =
 CorinneGrossert"1848*–Ì:okBD55J1962ROLG S√§uliamt
+C
+HeidyCorrodi"1897*¿Ü:okBD55KJ1960ROLG DachsenZ
+1ã
 @
 SabineHilbert"1894*ËÅ:okBD55KJ1962RNaturfreunde Wien
-9
-HeidyCorrodi"1897*¿Ü:okBD55KJ1960ROLG Dachsen
 B
 Inger JohanneEikeland"1891*è:okBD55KJ1961RNydalens SK
 I
@@ -2292,8 +2293,9 @@ P
 E
 LeoSeibel"2193*ƒ˛2¶:okBH12J2008ROLG HondrichZ
 1ı
-6
-JoelHolinger"2161*¥Ä:okBH12J2007R	OLG Basel
+@
+JoelHolinger"2161*¥Ä:okBH12J2007R	OLG BaselZ
+1Ì
 ;
 ThiesK√ºndig"2156*ÑÜ:okBH12J2007ROLC Winterthur
 5
@@ -2417,14 +2419,15 @@ D
 G
 SilvanSchletti"2198*îÑ:okBH14J2005ROLV HindelbankZ
 1Å
+H
+DanielCionoiu"2238*‡Ç:okBH14J2005RTV Coburg-NeusesZ
+1∏
 4
 FlurinBrenn"2209*ƒ˛:okBH14J2006ROLG Chur
 7
 JulianL√ºdtke"2195*¯ˇ:okBH14J2005R	ol norska
 E
 Matthias MartinSteiner"2196*¨Å:okBH14J2005ROLV Hindelbank
->
-DanielCionoiu"2238*‡Ç:okBH14J2005RTV Coburg-Neuses
 @
 Nils	Johansson"2237*»Ö:okBH14J2006RV√§stv√§rmlands OK
 4
@@ -3419,8 +3422,9 @@ Bornhauser"2632*àÁ:okBHAKJ1970ROLG Weisslingen
 SimonStreit"2698*‡Î:okBHAKJ2000ROLG Skandia
 9
 TobiasBlum"2696*îÌ:okBHAKJ1996ROLV Langenthal
-5
-MichaelSaier"2699*Äˇ:okBHBJ1959R	ol norska
+?
+MichaelSaier"2699*Äˇ:okBHBJ1959R	ol norskaZ
+1®
 9
 PeterWehrli"2727*¨Å:okBHBJ1954ROLG Rymenzburg
 =
@@ -5260,7 +5264,8 @@ J
 Jonas
 Niedermann"5219*ï˝2≤:okBCSJ2007ROL Regio WilZ
 1ä
-S"Burkart Stephie  M√ºhlebach Martin"7216*ÌÅ:okBCSJ0ROLG Nidwalden+Obwalden
+]"Burkart Stephie  M√ºhlebach Martin"7216*ÌÅ:okBCSJ0ROLG Nidwalden+ObwaldenZ
+1¿
 '
 RolfMeier"7072*¨Ç:okBCSJ1960
 -
@@ -5275,6 +5280,8 @@ S"Burkart Stephie  M√ºhlebach Martin"7216*ÌÅ:okBCSJ0ROLG Nidwalden+Obwa
 SabineHonegger"7054*Àç:okBCSJ1973ROLG Cordoba
 BPeter Carina + Hofer Zoe"5041*Ìê:okBCSJ0Rol.biel.seeland
 BBach Valentina + Seraina"5008*Áë:okBCSJ0RAll Blacks Thun
+8
+DanielM√ºrner"7130*úì:okBCSJ2007ROLG Skandia
 ;
 Bettina KatyAndersen"5038:okBCSJ1963RS√∏ller√∏d OK
 7
@@ -5358,8 +5365,6 @@ OLG Kakowa
 +
 LironMohel"5029:okBCSJ1979ROLV Zug
 2
-DanielM√ºrner"7130:okBCSJ2007ROLG Skandia
-2
 SilkeNeumaier"5045:okBCSJ1977ROC M√ºnchen
 >Niemi Toni + Titta + Timi"5019:okBCSJ0Rmuurahaiskeko OK
 2
@@ -5416,12 +5421,14 @@ VAlthaus Julia + Marti Brigitte"5168*å˛2°:okBHSJ0ROLV LangenthalZ
 J
 Jessica	Arfwedson"5155*”˝2ô:okBHSJ1972RFrolunda OLZ
 1Õ
-+
+GHolinger Kathrin + Annina"5158*€Ä:okBHSJ0R	OLG BaselZ
+1◊
+5
 Jan
-Fl√ºckiger"7125*ô˝:okBHSJ1968
+Fl√ºckiger"7125*ô˝:okBHSJ1968Z
+1Ç
 7
 R√∂biFrei"5150*áÄ:okBHSJ1940ROLC Winterthur
-=Holinger Kathrin + Annina"5158*€Ä:okBHSJ0R	OLG Basel
 1
 
 Antoinette	Weitnauer"5184*˙Ä:okBHSJ1962
@@ -5508,6 +5515,9 @@ Kilsauskas"7006:okBHSJ2007RDevyni Labirintai
 RadkaPek√°rkov√°"5141:okBHSJ1967RMVD Team
 :
 StefaniaPoggiati"5154:okBHSJ1962RC.O. Aget Lugano
+1
+VreniPortmann"7167:okBHSJ1950R
+OLV Luzern
 &
 Nora
 Rechberger"5170:okBHSJ2010
@@ -5568,6 +5578,10 @@ D
 Steinemann"1439*¡é:okBCMJ1979ROLG S√§uliamt
 1
 NicolasBaumann"5062*¢í:okBCMJ1950RY2Y
+:
+BrigitteM√ºrner"7131*öì:okBCMJ1974ROLG Skandia
+;
+	AlexandraM√ºrner"7132*‘ì:okBCMJ2004ROLG Skandia
 5
 Kenneth	Antonsson"5107:okBCMJ1958RVimmerby OK
 9
@@ -5679,10 +5693,6 @@ A
 C√©cileM√ºller"5119:okBCMJ1996RCO Lausanne-Jorat
 <
 AstridM√ºller-Wenzke"5220:okBCMJ1968RUSV TU Dresden
-5
-	AlexandraM√ºrner"7132:okBCMJ2004ROLG Skandia
-4
-BrigitteM√ºrner"7131:okBCMJ1974ROLG Skandia
 7
 AleksiMutka"5224:okBCMJ2000RSuunta Jyv√§skyl√§
 3
@@ -5761,4 +5771,4 @@ Sletteb√∏e"5064:okBCMJ1970RSogne og Songdalen Oriente
 1
 Ren√©Wittwer"5106:okBCMJ1974ROLG Oberwil
 4
-Nicole	W√ºthrich"7223:okBCMJ1999ROLG Skandia
+Nicole	W√ºthrich"7223:okBCMJ1999ROLG Skandia
