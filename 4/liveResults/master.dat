@@ -306,8 +306,9 @@ E
 D
 AnninaHohl"1166*à˛:okBD16J2003ROLG WeisslingenZ
 1É
-B
-AnnikaClavadetscher"1143*¯ˇ:okBD16J2003ROLV Langenthal
+L
+AnnikaClavadetscher"1143*¯ˇ:okBD16J2003ROLV LangenthalZ
+1÷	
 0
 LiaOkle"1144*ËÅ:okBD16J2004ROLG Bern
 ,
@@ -698,14 +699,15 @@ OLG Kakowa
 A
 Eveline
 B√∂hringer"1317*‡Î:okBDALJ1992ROLG Weisslingen
+@
+AlineFrank"1403*ËÅ:okBDAMJ1986ROLG SkandiaZ
+1⁄
 G
 JenniferBerger"1342*¯ˇ:okBDAMJ1996ROLV LangenthalZ
 1…
 K
 Fabienne	Steinauer"1340*ƒ˛:okBDAMJ1997Rol.biel.seelandZ
 1€	
-6
-AlineFrank"1403*ËÅ:okBDAMJ1986ROLG Skandia
 4
 NicoleHitz"1390*ÿÉ:okBDAMJ1993R	OLK Argus
 <
@@ -2181,8 +2183,9 @@ OLG St√§fa
 4
 DorlyMerz"2070*¥È:okBD75J1943R
 OLG Kakowa
-?
-MattiWilhelm"2089*«˛:okBH10J2009ROLG ChurZ
+D
+MattiWilhelm"2089*«˛2…
+:okBH10J2009ROLG ChurZ
 1ı	
 <
 Nils	Heilmeier"2105*øˇ:okBH10J2010ROLC Winterthur
@@ -2564,13 +2567,14 @@ E
 8
 EuanTryner"2353*à˛:okBH16J2004RSYOZ
 1í
+E
+JoelPrutsch"2328*åÖ:okBH16J2004ROC F√ºrstenfeldZ
+1“
 <
 DoronMohel"2315*ºˇ:okBH16J2004ROLV ZugZ
 1ë
 )
 OferMeirov"2316*Ä:okBH16J2003
-;
-JoelPrutsch"2328*åÖ:okBH16J2004ROC F√ºrstenfeld
 A
 Hans Gr√∏nborgNielsen"2324*Ùá:okBH16J2003RAller√∏d OK
 2
@@ -5126,6 +5130,7 @@ Niedermann"5219*òÑ:okBCSJ2007ROL Regio Wil
 AndrinGrun"7258*ºá:okBCSJ2005
 1
 LironMohel"5029*Óà:okBCSJ1979ROLV Zug
+P%Keller Valentin + B√ºrgi Leo + Moritz"5021*´â:okBCSJ0Rmuurahaiskeko OK
 ;
 Bettina KatyAndersen"5038:okBCSJ1963RS√∏ller√∏d OK
 7
@@ -5179,6 +5184,8 @@ F(Freuler Niklaus + Gisi + Patrick + Jean-"5218:okBCSJ0R	OLG Basel
 %
 ThereseHirzel"5032:okBCSJ1959
 <)Hofmann Hans-J√ºrg+ Scanzi Gioia + Finlay"5028:okBCSJ0
+4
+ThereseHohl"7271:okBCSJ1967Rol.biel.seeland
 -
 BeatHugi"5211:okBCSJ1949ROLG Oberwil
 E$Hungerb√ºhler Ernst + Maurer Barbara"5010:okBCSJ0ROLC Kapreolo
@@ -5189,7 +5196,6 @@ E$Hungerb√ºhler Ernst + Maurer Barbara"5010:okBCSJ0ROLC Kapreolo
 L(Karanov Anton + Alexey Ufimtsev + Kristi"5047:okBCSJ0Rkayak-school.ru
 0
 VeronikaKeller"5048:okBCSJ1953ROLG Bern
-J%Keller Valentin + B√ºrgi Leo + Moritz"5021:okBCSJ0Rmuurahaiskeko OK
 @
 EliseKennedy"5036:okBCSJ1974RBennelong Northside Orient
 5
@@ -5246,6 +5252,8 @@ B
 LeonhardOesch"6096*à˛:okBCLJ1974ROLG Bern
 I
 FrancisManzano"5226*ÈÅ:okBCLJ1979RCOC Club d Orientaci√≥ de C
+2
+	ChristianHarms"5130*©â:okBCLJ1967RWOLF
 >Baud Christine + Quentin"5135:okBCLJ0RCO Lausanne-Jorat
 DBaud Sandrine + Ecoffey Pierre"5137:okBCLJ0RCO Lausanne-Jorat
 8
@@ -5266,8 +5274,6 @@ OLV Luzern
 	ChristophHaefeli"5133:okBCLJ1977ROL Regio Olten
 0
 StefanH√§feli"5132:okBCLJ1980R	OLK Argus
-,
-	ChristianHarms"5130:okBCLJ1967RWOLF
 1
 JanisHutzli"6015:okBCLJ2002ROL Regio Wil
 4
@@ -5527,6 +5533,7 @@ N%Althaus Kristina Sarah + Sommer Heidi"5175*∑Ä:okBHSJ0ROLV Langenthal
 LenaBaumgartner"5198:okBHSJ2006ROLG Cordoba
 7
 AntoniaBaumgartner"5149:okBHSJ2007ROLG Cordoba
+7Becker Niklas + Alexandra"7269:okBHSJ0R	OLG Basel
 5
 Stefan
 Birchmeier"5151:okBHSJ1958ROLG Cordoba
@@ -5676,4 +5683,4 @@ OLG Kakowa
 1
 StephanZeller"5193:okBHLJ1966R
 OLG St√§fa
-2Zesiger Carola + Luise + Thomas"7261:okBHLJ0
+2Zesiger Carola + Luise + Thomas"7261:okBHLJ0
