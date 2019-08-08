@@ -1037,6 +1037,9 @@ C
 =
 LucieMaier"1543*˜‹2”:okBDBJ1978RSUI-Z
 1·
+J
+HelleFolke"1552*è2ð:okBDBJ1980RDEN-SÃ¸llerÃ¸d OKZ
+1 
 C
 Sofiavon Schultz"1538*°ˆ2³:okBDBJ1992RSWE-Z
 1ð
@@ -1049,9 +1052,6 @@ R
 L
 TiinaAla-NissilÃ¤"1556*ÌŒ2:okBDBJ1969RFIN-MS ParmaZ
 1Ç
-E
-HelleFolke"1552*è:okBDBJ1980RDEN-SÃ¸llerÃ¸d OKZ
-1 
 @
 MonikaBryner-Walser"1553*à‚:okBDBJ1960RSUI-OLK Argus
 B
@@ -1732,9 +1732,8 @@ J
 X
 KatarinaBorg"1868*Ð„2ö:okBD55J1964RSWE-SÃ¶dertÃ¤lje-Nykvarn OriZ
 1²
-=
-RegulaSchorta"1853*…2”!:okBD55J1961R
-Buchsee OL
+A
+RegulaSchorta"1853*…2”!:okBD55J1961RSUI-Buchsee OL
 E
 Sylvia	Binzegger"1861*à‚:okBD55J1961RSUI-OLV ZugZ
 1Ö#
@@ -2854,6 +2853,10 @@ D
 	ChristianWyss"2354*àë:okBH16J2003RSUI-OLV Langenthal
 >
 JÃ©rÃ´me	Tschenett"2350*”í:okBH16J2004RSUI-OLG Chur
+W
+	SebastianSafka"2399*ÜŠ2ˆ:okBH18J2001RCZE-OK KameniceZ
+1‡Z
+2Þ
 V
 DominicSchacher"2393*ü†2‡:okBH18J2002RSUI-OLK ArgusZ
 1³Z
@@ -2874,10 +2877,6 @@ W
 	ChristianScherrer"2368*Ìý2ç&:okBH18J2002RSUI-OLG ChurZ
 1ýZ
 2¯&
-R
-	SebastianSafka"2399*ÜŠ:okBH18J2001RCZE-OK KameniceZ
-1‡Z
-2Þ
 D
 IverRingheim"2401*ìˆ:okBH18J2002RNOR-Larvik OKZ
 1Û
@@ -5600,14 +5599,15 @@ C
 1
 JÃ¼rgHodel"7293:okBCMJ1955RSUI-ol norska
 >Hofer Sandra Annette Schmid"7175:okBCMJ0RSUI-OLV Luzern
+$
+DanielImfeld"7276:okBCMJ1961
 <
 Jens	JunghanÃŸ"5092:okBCMJ1968RGER-OL-Team Wehrsdorf
 5
 ErwinKeller"5096:okBCMJ1963RSUI-thurgorienta
-2
-SimonKlaus"7043:okBCMJ2003RSUI-OLV Luzern
 3
 ManuelKlaus"6024:okBCMJ2000RSUI-OLV Luzern
+;Klaus Simon + Hofer Yara"7043:okBCMJ0RSUI-OLV Luzern
 4
 LindaKokkila"5072:okBCMJ1987RFIN-Beach Boys
 ,
@@ -5719,6 +5719,9 @@ N
 K
 TobiasFolke"5181*©‚2˜:okBHSJ2006RDEN-SÃ¸llerÃ¸d OKZ
 1Ê
+D
+MatthiasHarms"5161*Ó”2ô:okBHSJ2008RGER-WOLFZ
+1š
 PHolinger Kathrin + Annina"5158*Û‹2¼:okBHSJ0RSUI-OLG BaselZ
 1í
 a%Althaus Kristina Sarah + Sommer Heidi"5175*·€2ÿ:okBHSJ0RSUI-OLV LangenthalZ
@@ -5736,9 +5739,6 @@ M
 Q
 Anne DortheHansen"5189*÷€2µ!:okBHSJ1962RDEN-SÃ¸llerÃ¸d OKZ
 1Ï 
-?
-MatthiasHarms"5161*Ó”:okBHSJ2008RGER-WOLFZ
-1š
 D
 AnitaKreuz DÃ¤twyler"5153*í:okBHSJ1965RSUI-OLG Hondrich
 8
@@ -5896,9 +5896,9 @@ B
 IngjerdStene"5210:okBHLJ1948RNOR-Asker skiklubb
 G(Udovytskyy Vitaliy + Udovytskaya Maiia +"5191:okBHLJ0R
 UKR-Sirius
-7
-MonikaWÃ¼rsten"7295:okBHLJ1964ROLG KTV Altdorf
+;
+MonikaWÃ¼rsten"7295:okBHLJ1964RSUI-OLG KTV Altdorf
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
 6
-IreneZumsteg"7057:okBHLJ1958RSUI-OLK Piz HasiC
+IreneZumsteg"7057:okBHLJ1958RSUI-OLK Piz HasiD
