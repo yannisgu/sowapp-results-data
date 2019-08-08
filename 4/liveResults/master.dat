@@ -38,6 +38,8 @@ C
 MaritGrendelmeier"1018*ì™:okBD10J2010RSUI-OLV Baselland
 =
 JanneHillen"1004*Ç¨:okBD10J2009RBEL-Omega Belgium
+3
+RuthLerjen"1027*≤Æ:okBD10J2011RSUI-UBOL
 ;
 Signe	Albinsson"1007:okBD10J2009RSWE-OK √ñster√•ker
 8
@@ -52,8 +54,6 @@ C
 KatjaHorst"1023:okBD10J2009RGER-SC K√∂nigstein
 4
 ElliKokkila"1005:okBD10J2010RFIN-Beach Boys
--
-RuthLerjen"1027:okBD10J2011RSUI-UBOL
 6
 SinaLexen"1033:okBD10J2010RGER-TSV Jetzendorf
 9
@@ -493,14 +493,14 @@ d
 KaterinaDolejsi"1236*Ä2ç!:okBD18J2001RCZE-Stadion Novy BorZ
 1ÕZ
 2À 
+^
+Klara	Johansson"1223*Ãå2Ï!:okBD18J2002RSWE-V√§stv√§rmlands OKZ
+1¬Z
+2ï!
 R
 SerafineMoeri"1235*úÉ2Æ":okBD18J2001RSUI-OLV ZugZ
 1òZ
 2Ô!
-Y
-Klara	Johansson"1223*Ãå:okBD18J2002RSWE-V√§stv√§rmlands OKZ
-1¬Z
-2ï!
 B
 LillyGraber"1214*Äù:okBD18J2002RSUI-OLG SuhrZ
 1¡
@@ -693,9 +693,6 @@ K
 T
 Jana	Balcarova"1328*ÑÜ2¨":okBDALJ1987RCZE-OK99 Hradec KraloveZ
 1ﬂ!
-G
-YoonsunCha"1329*‡Ç:okBDALJ1982RKOR-Korea O-loversZ
-1Û*
 H
 RebeccaJensen"1325*è:okBDALJ1985RUSA-Cascade Orienteering C
 G
@@ -759,6 +756,9 @@ B
 E
 Eveline
 B√∂hringer"1317*‡Î:okBDALJ1992RSUI-OLG Weisslingen
+G
+YoonsunCha"1329*‡Ç:mpBDALJ1982RKOR-Korea O-loversZ
+1Û*
 S
 FlaviaN√§f"1372*¥è2 :okBDAMJ1991RSUI-OLG CordobaZ
 1 Z
@@ -924,6 +924,9 @@ F
 O
 	ChristineLehmann"1480*‹ä2í:okBDAKJ1989RSUI-OLG SkandiaZ
 1∆
+G
+SimoneZurich"1453*‰ò2¬:okBDAKJ1978RSUI-OLV ZugZ
+1ı
 Q
 NiggiWespi"1461*Ùá2á:okBDAKJ1971RSUI-OLG HerzogenbuchseeZ
 1Ω
@@ -951,9 +954,9 @@ K
 U
 AsiaZanella"1463*êå2–:okBDAKJ2000RSUI-O-92 Piano di MagadinoZ
 1Ù
-B
-SimoneZurich"1453*‰ò:okBDAKJ1978RSUI-OLV ZugZ
-1ı
+K
+AnnikaHerzog"1457*∞ó:okBDAKJ1987RSUI-OLG SchaffhausenZ
+1é
 J
 PatriciaMoeri-Riklin"1451*¸ï:okBDAKJ1967RSUI-OLV ZugZ
 1ı
@@ -961,8 +964,6 @@ K
 	RaffaellaZanella"1465*¨ê:okBDAKJ1972RSUI-O-92 Piano di Magadino
 7
 MurielPauli"1455*îì:okBDAKJ1990RSUI-OLV Zug
-A
-AnnikaHerzog"1457*∞ó:okBDAKJ1987RSUI-OLG Schaffhausen
 >
 Bara
 Zavadilova"1467*òö:okBDAKJ1994RCZE-OK Kamenice
@@ -1283,15 +1284,16 @@ T
 MirjamSigrist"1631*ºˇ2Œ$:okBD40J1977RSUI-ol norskaZ
 1˙Z
 2Ä$
+S
+RahelVogel"1613*è:okBD40J1977RSUI-OLG SchaffhausenZ
+1íZ
+2Ô
 F
 SabinTschopp"1602*¯ù:okBD40J1975RSUI-OLG DachsenZ
 1›
 P
 Ir√®neEglin"1599*Ùñ:okBD40J1975RSUI-bussola/Link√∂pings OKZ
 1á
-I
-RahelVogel"1613*è:okBD40J1977RSUI-OLG SchaffhausenZ
-1í
 L
 Sabine	Mumprecht"1586*–¢:okBD40J1976RSUI-OLV HindelbankZ
 1÷
@@ -1391,13 +1393,14 @@ T
 G
 KarinM√ºller"1667*¸Ü2†!:okBD45J1971RSUI-OLV ZugZ
 1« 
-?
-PaulineTryner"1691*Ïà:okBD45J1972RGBR-SYOZ
+D
+PaulineTryner"1691*Ïà2∏%:okBD45J1972RGBR-SYOZ
 1‚$
+W
+Ang√©lique Gr√∏nborg	Rasmussen"1677*Ãå:okBD45J1972RDEN-Aller√∏d OKZ
+1Ä"
 ?
 SusannHofer"1678*Ã˝:okBD45J1971RSUI-ol.biel.seeland
-M
-Ang√©lique Gr√∏nborg	Rasmussen"1677*Ãå:okBD45J1972RDEN-Aller√∏d OK
 >
 DortheMunktved"1673*úí:okBD45J1964RDEN-Aller√∏d OK
 E
@@ -1607,6 +1610,10 @@ Q
 RuthRuch"1803*ºˇ2º*:okBD50J1967RSUI-OLG SkandiaZ
 1èZ
 2)
+e
+MireiaMart√≠nez Tom√©"1799*Ä:okBD50J1966RESP-COC Club d Orientaci√≥ Z
+1˙Z
+2«-
 B
 AnuEkstr√∂m"1775*Ãõ:okBD50J1968RFIN-MS ParmaZ
 1ì
@@ -1633,9 +1640,6 @@ J
 U
 Astrid KristinRuud"1779*òö:okBD50J1969RNOR-Nittedal OrienteringZ
 1Ò
-[
-MireiaMart√≠nez Tom√©"1799*Ä:okBD50J1966RESP-COC Club d Orientaci√≥ Z
-1˙
 F
 Pia	Schaffner"1764*»î:okBD50J1969RSUI-OLG CordobaZ
 1˜
@@ -1791,13 +1795,13 @@ A
 J
 Sylvia	Binzegger"1861*‡Ç2Æ$:okBD55J1961RSUI-OLV ZugZ
 1÷#
+R
+JanaJustova"1864*¿Ü2’':okBD55J1961RCZE-OK99 Hradec KraloveZ
+1ä'
 M
 Jitka
 Klusackova"1867*Ä2Ø+:okBD55J1961RCZE-OOB TrebicZ
 1“*
-M
-JanaJustova"1864*¿Ü:okBD55J1961RCZE-OK99 Hradec KraloveZ
-1ä'
 7
 CorneliaEhrbar"1871*Äˇ:okBD55J1962RSUI-UBOL
 D
@@ -1965,12 +1969,20 @@ Y
 1Ä
 Z
 2Ã$
+X
+KirsiLaasonen"1972*–ì:okBD60J1959RFIN-Tampereen Pyrint√∂Z
+1†Z
+2Í
+W
+UrsulaSaner"1968*‰â:okBD60J1955RSUI-OLG HerzogenbuchseeZ
+1¢Z
+2Ê$
 I
 RuthHumbel N√§f"1938*å£:okBD60J1957RSUI-OLG CordobaZ
 1¨
-N
-KirsiLaasonen"1972*–ì:okBD60J1959RFIN-Tampereen Pyrint√∂Z
-1†
+W
+Kari ElisabethNatvig"1952*‹®:okBD60J1957RNOR-Nittedal OrienteringZ
+1È
 F
 K√§thiKohler"1949*Ù•:okBD60J1959RSUI-OLG DachsenZ
 1Ω
@@ -1994,9 +2006,6 @@ M
 Freemantle"1965*Ãå:okBD60J1957RAUS-Yarra Valley OCZ
 1¬
 
-M
-UrsulaSaner"1968*‰â:okBD60J1955RSUI-OLG HerzogenbuchseeZ
-1¢
 D
 VerenaGraf"1964*†ô:okBD60J1956RSUI-OLG OberwilZ
 1Ñ
@@ -2026,8 +2035,6 @@ C
 VeronikaJust Albrecht"1945*Ïó:okBD60J1956RSUI-OLG Basel
 F
 SueKuestner"1953*¿§:okBD60J1959RUSA-Cascade Orienteering C
-M
-Kari ElisabethNatvig"1952*‹®:okBD60J1957RNOR-Nittedal Orientering
 A
 BrigittaPl√ºss"1951*ê™:okBD60J1956RSUI-OLG Rymenzburg
 <
@@ -2370,10 +2377,13 @@ D
 L
 JamesEbert"2133*ıñ2¬:okBH10J2011RGER-TSV JetzendorfZ
 1˜
-:
-BernhardBieri"2093*≥¶:okBH10J2009RSUI-OLG Suhr
+D
+BernhardBieri"2093*≥¶:okBH10J2009RSUI-OLG SuhrZ
+1¥
 7
 LorinLang"2128*ä´:okBH10J2009RSUI-ol norska
+<
+Dariovan Binsbergen"2131*∞Æ:okBH10J2010RSUI-UBOL
 3
 JohnAnana"2116:okBH10J2009RFIN-Pihkaniskat
 <
@@ -2422,8 +2432,6 @@ L
 CraigThompson"2099:okBH10J2009RGBR-Harlequins
 3
 TimoTreier"2118:okBH10J2010RSUI-bussola ok
-6
-Dariovan Binsbergen"2131:okBH10J2010RSUI-UBOL
 1
 MiroWagner"2119:okBH10J2010RSUI-OLG Thun
 ?
@@ -2487,12 +2495,14 @@ B
 H
 JanSuwald"2157*ƒç2ê :okBH12J2007RSUI-OLG CordobaZ
 1®
+G
+NicolasDinner"2143*î¢:okBH12J2008RSUI-OLG Z√ºrichZ
+1ù
+Q
+PietroEnrile"2137*§†:okBH12J2007RSUI-Societa Unitas MalcantZ
+1ï
 9
 SeverinMoser"2142*ƒ˛:okBH12J2007RSUI-OLG Chur
-G
-PietroEnrile"2137*§†:okBH12J2007RSUI-Societa Unitas Malcant
-=
-NicolasDinner"2143*î¢:okBH12J2008RSUI-OLG Z√ºrich
 <
 JuliusLucke"2141*Ñ§:okBH12J2008RGER-Team Sachsen
 @
@@ -2624,8 +2634,8 @@ N
 R
 LukasNeuenschwander"2240*Äé2Á:okBH14J2006RSUI-OLG HuttwilZ
 1£
-L
-SimonEhrensberger"2252*Ëê:okBH14J2006RSUI-OLG WelsikonZ
+Q
+SimonEhrensberger"2252*Ëê2¥:okBH14J2006RSUI-OLG WelsikonZ
 1˝
 >
 C√©dricWittwer"2253*òã:okBH14J2006RSUI-OLG Oberwil
@@ -2969,14 +2979,14 @@ V
 JoelHabermacher"2395*úÉ2ä!:okBH18J2002RSUI-OLK ArgusZ
 1ˆZ
 2÷ 
+_
+DavidBorg"2400*Ãå2’!:okBH18J2002RSWE-S√∂dert√§lje-Nykvarn OriZ
+1©Z
+2ü!
 W
 	ChristianScherrer"2368*Ã˝2Á&:okBH18J2002RSUI-OLG ChurZ
 1˝Z
 2Ø&
-Z
-DavidBorg"2400*Ãå:okBH18J2002RSWE-S√∂dert√§lje-Nykvarn OriZ
-1©Z
-2ü!
 A
 FrigyesK√ºronya"2394*¨ê:okBH18J2002RHUN-BSCZ
 1ö
@@ -3327,6 +3337,9 @@ B
 DavidB√ºrge"2500*¥È:okBHALJ1989RSUI-OK Rougemont
 B
 MarcBreitenmoser"2514*‡Î:okBHALJ1999RSUI-OL Zimmerberg
+X
+Gjermund T√∏rnqvistHalden"2575*¿ï2˛:okBHAMJ1998RNOR-Nydalens SKZ
+1ƒ
 G
 Marius√òie"2592*–Ñ2Í:okBHAMJ1990RNOR-L√∏ten OLZ
 1∞
@@ -3352,9 +3365,6 @@ Haberth√ºr"2590*†ä2¥":okBHAMJ1992RSUI-OLG WelsikonZ
 C
 JussiPartti"2595*¿Ü2ó#:okBHAMJ1990RFIN-NaviZ
 1œ"
-S
-Gjermund T√∏rnqvistHalden"2575*¿ï:okBHAMJ1998RNOR-Nydalens SKZ
-1ƒ
 ?
 Mikl√≥sForrai"2594*‡Ç:okBHAMJ1979RHUN-HOD-mentor SE
 ?
@@ -3498,6 +3508,9 @@ N
 Thomas
 Emmenegger"2610*à˛2¨%:okBHAKJ1974RSUI-OLV LuzernZ
 1Â$
+8
+RetoViola"2663*Ùñ:okBHAKJ1976RSUI-Z
+1Ù
 E
 DiegoClavadetscher"2617*ËÅ:okBHAKJ1965RSUI-OLV Langenthal
 ;
@@ -3506,8 +3519,6 @@ H
 ManoloZanella"2669*¥è:okBHAKJ1969RSUI-O-92 Piano di Magadino
 B
 Andreas	Oscarsson"2672*¿ï:okBHAKJ2001RDEN-S√∏ller√∏d OK
-.
-RetoViola"2663*Ùñ:okBHAKJ1976RSUI-
 <
 DanielB√§r"2666*†ô:okBHAKJ1962RSUI-OLK Wiggertal
 C
@@ -3821,8 +3832,9 @@ G
 R
 EthanO Connor"2786*¯é:okBH40J1977RUSA-Cascade Orienteering CZ
 1¿
->
-ZhengLiang"2794*ƒ˛:okBH40J1978RCHN-Chu Jiao O Club
+H
+ZhengLiang"2794*ƒ˛:okBH40J1978RCHN-Chu Jiao O ClubZ
+1Û/
 >
 Tadas
 Kazlauskas"2783*‘ã:okBH40J1977RLTU-OK Fortuna
@@ -4927,6 +4939,9 @@ J
 L
 MarkusLiechti"3391*¥Ä2˛(:okBH65J1950RSUI-OLG SkandiaZ
 1§(
+E
+DenisCuche"3356*ÿí:okBH65J1954RSUI-OLC WaldroseZ
+1ç
 <
 UrsH√§nni"3314*Ã˝:okBH65J1954RSUI-OLV Langenthal
 E
@@ -4947,8 +4962,6 @@ B
 SilvioStrub"3359*è:okBH65J1951RSUI-OLG Huttwil
 >
 MatthiasScherrer"3316*§ë:okBH65J1952RSUI-OLG Basel
-;
-DenisCuche"3356*ÿí:okBH65J1954RSUI-OLC Waldrose
 4
 BruceRennie"3354*åî:okBH65J1951RCAN-GVOC
 C
@@ -5270,6 +5283,9 @@ F
 M
 Ruedi	Pletscher"3518*Ä2˜$:okBH75J1943RSUI-OLV Z√ºrichZ
 1ó$
+H
+ErnstSpirgi"3502*®ò:okBH75J1943RSUI-Freaks OLV ZugZ
+1é
 C
 
 Jens AarisThisted"3523*úÉ:okBH75J1944RDEN-S√∏ller√∏d OK
@@ -5284,8 +5300,6 @@ Freiermuth"3501*§ë:okBH75J1942RSUI-OLG Basel
 GertB√∏gevig"3519*–ì:okBH75J1943RDEN-S√∏ller√∏d OK
 <
 BertGeudens"3499*¸ï:okBH75J1944RBEL-KOL-Flanders
->
-ErnstSpirgi"3502*®ò:okBH75J1943RSUI-Freaks OLV Zug
 =
 Beat	Schlatter"3503*‘ö:okBH75J1944RSUI-OLG Dachsen
 >
@@ -5426,15 +5440,15 @@ c%Keller Valentin + B√ºrgi Leo + Moritz"5021*´â2é :okBCSJ0RSUI-muurah
 L
 No√´lleK√∂chle"5003*œå2Õ :okBCSJ1967RSUI-OLG Z√ºrichZ
 1Ú
+P
+PatriciaSch√∂nenberger"5031*≈Ü2¿':okBCSJ1963RSUI-OLV ZugZ
+1À&
 NMoos Simone + Dominik"7259*ßÇ2˙':okBCSJ0RSUI-Grunes-MoosZ
 1«'
 I
 Ruth
 Emmenegger"7070*ÿã:okBCSJ1968RSUI-OLK WiggertalZ
 1∆"
-K
-PatriciaSch√∂nenberger"5031*≈Ü:okBCSJ1963RSUI-OLV ZugZ
-1À&
 HNiemi Toni + Titta + Timi"5019*Üé:okBCSJ0RFIN-muurahaiskeko OK
 @
 Jolanda	H√§mmerli"5015*ìî:okBCSJ1969RSUI-OL Regio Wil
@@ -5473,8 +5487,8 @@ E
 Zhenbin MarcoFu"7056*∑≠:okBCSJ2002RCHN-
 <
 ManuelaW√ºst"7008*ı≠:okBCSJ1976RSUI-OLC Kapreolo
-;
-	ChristophAnker"5043:okBCSJ1960RSUI-ol.biel.seeland
+A
+	ChristophAnker"5043*µÆ:okBCSJ1960RSUI-ol.biel.seeland
 @Bach Valentina + Seraina"5008:okBCSJ0RSUI-All Blacks Thun
 :!Bailey Schatzmann Deborah + David"5030:okBCSJ0RSUI-
 <Behrendt Elke + Sophie"5023:okBCSJ0RGER-OLV Steinberg
@@ -5694,8 +5708,6 @@ Zimmermann"7278*Çù:okBCMJ1971RSUI-
 NicolasBaumann"5062*˝ù:okBCMJ1950RHKG-Y2Y
 H
 TomasTamosevicius"5068*Ùû:okBCMJ1977RLTU-DEVYNI - LABIRINTAS
-7
-AlesPekarek"5055*ˆû:okBCMJ1966RCZE-MVD Team
 4
 RasaAsembergaite"7266*Óü:okBCMJ1978RSUI-
 B
@@ -5738,6 +5750,8 @@ E
 9
 Veit	Habermayr"7196*ÄÆ:okBCMJ1976RSUI-OLG Bern
 S!Ma Weiwei + Yu Liu + Jinxuan Song"5080*áÆ:okBCMJ0RCHN-Learnjoy O Club  CN
+;
+Sonjavan Binsbergen"5114*¥Æ:okBCMJ1974RSUI-UBOL
 5
 TimonAegler"7267:okBCMJ1999RSUI-OL Regio Wil
 =
@@ -5878,8 +5892,6 @@ A
 >
 KariVainio"5058:okBCMJ1958RFIN-Turun Mets√§nk√§vij√§t
 5
-Sonjavan Binsbergen"5114:okBCMJ1974RSUI-UBOL
-5
 J√ºrgvan Binsbergen"5116:okBCMJ1972RSUI-UBOL
 :
 FlavioVarisco"5113:okBCMJ1961RSUI-ol.biel.seeland
@@ -5942,8 +5954,8 @@ J
 Q
 Anne DortheHansen"5189*˜Ä2µ!:okBHSJ1962RDEN-S√∏ller√∏d OKZ
 1œ 
-B
-EvaWeibel"5157*ïå:okBHSJ1952RSUI-OLG HuttwilZ
+G
+EvaWeibel"5157*ïå2ö":okBHSJ1952RSUI-OLG HuttwilZ
 1Ñ!
 =
 LuisaFritschi"7148*˚é:okBHSJ2009RSUI-OLG Welsikon
@@ -5978,8 +5990,8 @@ A
 4
 YunqiLi"5231*˛¨:okBHSJ2003RCHN-SDSZ club
 7H√§feli Familie"7075*˘≠:okBHSJ0RSUI-OLK Argus
-8
-LenaBaumgartner"5198:okBHSJ2006RSUI-OLG Cordoba
+>
+LenaBaumgartner"5198*∫Æ:okBHSJ2006RSUI-OLG Cordoba
 A
 Silvia
 Bollhalder"7027:okBHSJ1965RSUI-OLG St. Gallen/App.
@@ -6064,11 +6076,11 @@ Q
 1¡
 V Radzikowski Julie + Zesiger Leni"7260*êî2Â:okBHLJ0RSUI-O-MotionZ
 1£
+:Fam. Zesiger"7262*âï2ú:okBHLJ0RSUI-Z
+1ø
 G
 IrenaBila"5200*óå2ì!:okBHLJ1967RCZE-OK RakovnikZ
 1« 
-5Fam. Zesiger"7262*âï:okBHLJ0RSUI-Z
-1ø
 ;
 Sara	Knoblauch"7065*•ô:okBHLJ2002RGER-FC Uldigen
 :
@@ -6116,4 +6128,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG St√§fa
 6
-IreneZumsteg"7057:okBHLJ1958RSUI-OLK Piz HasiR
+IreneZumsteg"7057:okBHLJ1958RSUI-OLK Piz HasiS
