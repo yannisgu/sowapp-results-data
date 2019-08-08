@@ -3,6 +3,8 @@
 Enya	Sch√∂dler"1024*ï˝:okBD10J2009R	OLK Argus
 8
 SophiePusterla"1013*¶Ç:okBD10J2010R	OLG Basel
+1
+JeanneRenaud"1022*Øê:okBD10J2010RANCO
 7
 Signe	Albinsson"1007:okBD10J2009ROK √ñster√•ker
 6
@@ -48,8 +50,6 @@ A
 0
 LindaPillat"1031:okBD10J2009R
 OLG Goldau
-+
-JeanneRenaud"1022:okBD10J2010RANCO
 1
 Ya√´lleRouiller"1009:okBD10J2009RCO CERN
 0
@@ -2193,6 +2193,9 @@ OLG St√§fa
 4
 DorlyMerz"2070*¥È:okBD75J1943R
 OLG Kakowa
+G
+MarkKraus"2103*˛Ü2Ø	:okBH10J2009ROLC WinterthurZ
+1È
 D
 MattiWilhelm"2089*«˛2…
 :okBH10J2009ROLG ChurZ
@@ -2203,9 +2206,6 @@ F
 K
 Nils	Heilmeier"2105*øˇ2ï:okBH10J2010ROLC WinterthurZ
 1Õ
-B
-MarkKraus"2103*˛Ü:okBH10J2009ROLC WinterthurZ
-1È
 5
 LukasStuder"2109*‘Ñ:okBH10J2009R	OLG Basel
 1
@@ -2572,6 +2572,10 @@ Bornhauser"2221*‰„:okBH14J2005ROLG Weisslingen
 StephanWyss"2273*úÏ:okBH14J2005ROLV Langenthal
 E
 Matthias MartinSteiner"2196*–Ì:okBH14J2005ROLV Hindelbank
+I
+Mathias
+Buchgreitz"2319*ƒç:okBH16J2003RS√∏ller√∏d OKZ
+1õ
 @
 JoschuaSchilter"2327*ÿÉ:okBH16J2003RJCK OKZ
 1 
@@ -2590,18 +2594,16 @@ K
 <
 Andr√°sCsontos"2325*®â:okBH16J2003RBSCZ
 1î
+L
+Marinus NaestoftJuhl"2322*‹ä:okBH16J2004RS√∏ller√∏d OKZ
+1˛
 <
 DoronMohel"2315*ºˇ:okBH16J2004ROLV ZugZ
 1ë
 )
 OferMeirov"2316*Ä:okBH16J2003
-B
-Marinus NaestoftJuhl"2322*‹ä:okBH16J2004RS√∏ller√∏d OK
 5
 JanKurzen"2302*êå:okBH16J2004ROLG Huttwil
-?
-Mathias
-Buchgreitz"2319*ƒç:okBH16J2003RS√∏ller√∏d OK
 4
 JontyGoodwin"2300*¯é:okBH16J2003RWCOC UK
 A
@@ -2740,10 +2742,11 @@ OLG St√§fa
 	ChristianWyss"2354*‡Î:okBH16J2003ROLV Langenthal
 :
 J√©r√¥me	Tschenett"2350*îÌ:okBH16J2004ROLG Chur
+A
+TobiasSterchi"2355*ºˇ:okBH18J2002R	ol norskaZ
+1å
 :
 	ChristianScherrer"2368*Ã˝:okBH18J2002ROLG Chur
-7
-TobiasSterchi"2355*ºˇ:okBH18J2002R	ol norska
 9
 JoelHabermacher"2395*úÉ:okBH18J2002R	OLK Argus
 @
@@ -5712,4 +5715,4 @@ OLG Kakowa
 1
 StephanZeller"5193:okBHLJ1966R
 OLG St√§fa
-2Zesiger Carola + Luise + Thomas"7261:okBHLJ0
+2Zesiger Carola + Luise + Thomas"7261:okBHLJ0
