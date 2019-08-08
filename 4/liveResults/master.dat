@@ -15,6 +15,8 @@ OLV Luzern
 @
 EnjaWeber"1011*‡ô:okBD10J2010ROLG Nidwalden+Obwalden
 7
+NoraTschopp"1014*◊ö:okBD10J2009ROLG Dachsen
+7
 Signe	Albinsson"1007:okBD10J2009ROK √ñster√•ker
 6
 CarlaBaumgartner"1012:okBD10J2009ROLG Cordoba
@@ -58,8 +60,6 @@ OLG Goldau
 Ya√´lleRouiller"1009:okBD10J2009RCO CERN
 0
 AnnaSuwald"1010:okBD10J2009ROLG Cordoba
-1
-NoraTschopp"1014:okBD10J2009ROLG Dachsen
 :
 EmiliaWetzel"1032:okBD10J2009RSV Robotron Dresden
 ;
@@ -723,12 +723,13 @@ OLG Kakowa
 A
 Eveline
 B√∂hringer"1317*‡Î:okBDALJ1992ROLG Weisslingen
+J
+AlineFrank"1403*ËÅ:okBDAMJ1986ROLG SkandiaZ
+1⁄Z
+2•
 @
 FlaviaN√§f"1372*¥è:okBDAMJ1991ROLG CordobaZ
 1 
-@
-AlineFrank"1403*ËÅ:okBDAMJ1986ROLG SkandiaZ
-1⁄
 F
 ClaudineWeber"1344*åÖ:okBDAMJ1996ROLV LangenthalZ
 1≈
@@ -872,6 +873,8 @@ CARE Vevey
 B
 SungheeKim"1479*åÖ2ﬁ:okBDAKJ1970ROLG ChurZ
 1ï
+=
+AnjaHohl"1420*§Ç2í:okBDAKJ2001ROLG Weisslingen
 F
 K√§thiScherrer"1482*ºˇ2ô:okBDAKJ1971ROLG ChurZ
 1«
@@ -879,8 +882,6 @@ B
 KarinPortmann"1405*à˛:okBDAKJ1975R
 OLV LuzernZ
 1™
-8
-AnjaHohl"1420*§Ç:okBDAKJ2001ROLG Weisslingen
 =
 DeborahRentsch"1408*ÿÉ:okBDAKJ1996ROLV Langenthal
 :
@@ -1697,9 +1698,12 @@ OLG St√§fa
 BernadetteHuber"1758*‡Î:okBD50J1966ROL Zimmerberg
 8
 SusanneMaibach"1819*îÌ:okBD50J1963R	ol norska
-S
-KatarinaBorg"1868*–Ñ:okBD55J1964RS√∂dert√§lje-Nykvarn OrienteZ
+X
+KatarinaBorg"1868*–Ñ2ˆ:okBD55J1964RS√∂dert√§lje-Nykvarn OrienteZ
 1≤
+A
+CorneliaM√ºller"1858*∞à:okBD55J1964ROLV ZugZ
+1ß
 3
 CorneliaEhrbar"1871*Äˇ:okBD55J1962RUBOL
 :
@@ -1710,8 +1714,6 @@ OOB Trebic
 Sylvia	Binzegger"1861*‡Ç:okBD55J1961ROLV Zug
 ?
 JanaJustova"1864*¿Ü:okBD55J1961ROK99 Hradec Kralove
-7
-CorneliaM√ºller"1858*∞à:okBD55J1964ROLV Zug
 @
 Eva	Balcarova"1862*†ä:okBD55J1959ROK99 Hradec Kralove
 9
@@ -2256,15 +2258,15 @@ K
 D
 MoritzKuntze"2088*¬Ü2ï:okBH10J2010RUSV JenaZ
 1À
+I
+LaurinHonegger"2106*öã2¢:okBH10J2011ROLG CordobaZ
+1÷
 D
 LukasStuder"2109*‘Ñ2∫:okBH10J2009R	OLG BaselZ
 1˚
 @
 LarsOkle"2132*éÖ2ÿ:okBH10J2009ROLG BernZ
 1ú
-D
-LaurinHonegger"2106*öã:okBH10J2011ROLG CordobaZ
-1÷
 G
 SamuelMorris"2127*Àî:okBH10J2009RBennelong Northside Orient
 9
@@ -2355,8 +2357,8 @@ M
 I
 TimWeinert"2178*îÑ2Ë:okBH12J2008RPost SV DresdenZ
 1û
-9
-FinnDewald"2185*¥Ä:okBH12J2008RUBOLZ
+>
+FinnDewald"2185*¥Ä2à:okBH12J2008RUBOLZ
 1∑
 5
 SeverinMoser"2142*ƒ˛:okBH12J2007ROLG Chur
@@ -2492,8 +2494,9 @@ I
 J
 JettMccomb"2263*¸Ü:okBH14J2005RAustralopers TasmaniaZ
 1Œ
-;
-JanDolejsi"2256*»Ö:okBH14J2006RStadion Novy Bor
+E
+JanDolejsi"2256*»Ö:okBH14J2006RStadion Novy BorZ
+1¨
 A
 Erik Gr√∏nborgNielsen"2262*∞à:okBH14J2006RAller√∏d OK
 ;
@@ -2635,14 +2638,14 @@ Bornhauser"2221*‰„:okBH14J2005ROLG Weisslingen
 StephanWyss"2273*úÏ:okBH14J2005ROLV Langenthal
 E
 Matthias MartinSteiner"2196*–Ì:okBH14J2005ROLV Hindelbank
+O
+JoschuaSchilter"2327*ÿÉ2Á:okBH16J2003RJCK OKZ
+1 Z
+2¥
 G
 EuanTryner"2353*à˛2ã:okBH16J2004RSYOZ
 1íZ
 2“
-J
-JoschuaSchilter"2327*ÿÉ:okBH16J2003RJCK OKZ
-1 Z
-2¥
 C
 JoschiSchmid"2301*¸ï:okBH16J2004ROL Regio WilZ
 1Å
@@ -2814,6 +2817,9 @@ OLG St√§fa
 	ChristianWyss"2354*‡Î:okBH16J2003ROLV Langenthal
 :
 J√©r√¥me	Tschenett"2350*îÌ:okBH16J2004ROLG Chur
+D
+	SebastianSafka"2399*‹ä:okBH18J2001ROK KameniceZ
+1á
 C
 DominicSchacher"2393*¸Ü:okBH18J2002R	OLK ArgusZ
 1≥
@@ -2832,8 +2838,6 @@ C
 D
 	ChristianScherrer"2368*Ã˝:okBH18J2002ROLG ChurZ
 1˝
-:
-	SebastianSafka"2399*‹ä:okBH18J2001ROK Kamenice
 F
 DavidBorg"2400*Ãå:okBH18J2002RS√∂dert√§lje-Nykvarn Oriente
 3
@@ -5264,6 +5268,8 @@ F
 StaffanWestbom"5020*Äñ:okBCSJ1950R
 Ockelbo OK
 R(Karanov Anton + Alexey Ufimtsev + Kristi"5047*ùö:okBCSJ0Rkayak-school.ru
+:
+ThereseHohl"7271*ÿö:okBCSJ1967Rol.biel.seeland
 ;
 Bettina KatyAndersen"5038:okBCSJ1963RS√∏ller√∏d OK
 7
@@ -5312,8 +5318,6 @@ F(Freuler Niklaus + Gisi + Patrick + Jean-"5218:okBCSJ0R	OLG Basel
 %
 ThereseHirzel"5032:okBCSJ1959
 <)Hofmann Hans-J√ºrg+ Scanzi Gioia + Finlay"5028:okBCSJ0
-4
-ThereseHohl"7271:okBCSJ1967Rol.biel.seeland
 -
 BeatHugi"5211:okBCSJ1949ROLG Oberwil
 E$Hungerb√ºhler Ernst + Maurer Barbara"5010:okBCSJ0ROLC Kapreolo
@@ -5634,6 +5638,8 @@ Sletteb√∏e"5064:okBCMJ1970RSogne og Songdalen Oriente
 JocelyneTelle Debien"5059:okBCMJ1955Rconvergence
 ,
 LeneThorsen"5076:okBCMJ1957ROK West
+0
+BrigitTrachsel"7285:okBCMJ1964ROLG Thun
 8
 ManuelaUrsprung"5074:okBCMJ1987ROLG Biberist SO
 :
@@ -5648,6 +5654,8 @@ Sletteb√∏e"5064:okBCMJ1970RSogne og Songdalen Oriente
 ThisWachter"5118:okBCMJ1966ROLG Bern
 6
 BeatriceWalder"7335:okBCMJ1955ROLK Rafzerfeld
+3
+AndreasWespi"7284:okBCMJ1947ROLG S√§uliamt
 -
 BeatWiget"7336:okBCMJ1955R
 OLV Luzern
@@ -5669,6 +5677,9 @@ VAlthaus Julia + Marti Brigitte"5168*˝ˇ2—:okBHSJ0ROLV LangenthalZ
 1ÿ
 LKurzen Sara + Joss Ella"5159*ç˛2ª:okBHSJ0ROLG HuttwilZ
 1ﬂ
+E
+Jessica	Arfwedson"5155*…ç:okBHSJ1972RFrolunda OLZ
+1ô
 >
 Anne DortheHansen"5189*˜Ä:okBHSJ1962RS√∏ller√∏d OK
 @
@@ -5684,8 +5695,6 @@ LKurzen Sara + Joss Ella"5159*ç˛2ª:okBHSJ0ROLG HuttwilZ
 MartinaKrause"5183*—å:okBHSJ1956RSVW Quedlinburg
 7
 R√∂biFrei"5150*çç:okBHSJ1940ROLC Winterthur
-;
-Jessica	Arfwedson"5155*…ç:okBHSJ1972RFrolunda OL
 F"Plattner Laurianne + Farrer Annica"5156*øé:okBHSJ0R	OLG Basel
 9
 LuisaFritschi"7148*˚é:okBHSJ2009ROLG Welsikon
@@ -5699,13 +5708,13 @@ F"Plattner Laurianne + Farrer Annica"5156*øé:okBHSJ0R	OLG Basel
 LenaWestbom"5166*Èò:okBHSJ1951R
 Ockelbo OK
 =Becker Niklas + Alexandra"7269*®ô:okBHSJ0R	OLG Basel
+;
+Stefan
+Birchmeier"5151*‹ö:okBHSJ1958ROLG Cordoba
 4
 LenaBaumgartner"5198:okBHSJ2006ROLG Cordoba
 7
 AntoniaBaumgartner"5149:okBHSJ2007ROLG Cordoba
-5
-Stefan
-Birchmeier"5151:okBHSJ1958ROLG Cordoba
 0
 KarinBrunner"5164:okBHSJ1959R
 bussola ok
@@ -5840,4 +5849,4 @@ OLG Kakowa
 StephanZeller"5193:okBHLJ1966R
 OLG St√§fa
 2
-IreneZumsteg"7057:okBHLJ1958ROLK Piz Hasi)
+IreneZumsteg"7057:okBHLJ1958ROLK Piz Hasi*
