@@ -1507,8 +1507,9 @@ A
 MartinaRuch"1305*øè:okBDEJ1994RSUI-OLG Skandia
 7
 MaritaHotz"1281*Øì:okBDEJ1997RSUI-OLK Argus
->
-YannicWild"2373*Ìı:okBH18J2001RSUI-OLG Weisslingen
+H
+YannicWild"2373*Ìı:okBH18J2001RSUI-OLG WeisslingenZ
+1
 @
 JiyuanWu"2379*¼ÿ:okBH18J2001RCHN-Learnjoy O Club  CN
 8
@@ -1779,8 +1780,9 @@ A
 YvesNager"2805*Äç:okBH40J1976RSUI-RMOC Rocky Mountain
 5
 MartinLerjen"2804*èê:okBH40J1973RSUI-UBOL
-B
-ThomasKÃ¤mpfer"2806*Ìı:okBH45J1973RSUI-OLG Biberist SO
+L
+ThomasKÃ¤mpfer"2806*Ìı:okBH45J1973RSUI-OLG Biberist SOZ
+1ô
 =
 Arno	Schneider"2809*Äş:okBH45J1972RSUI-OLG Cordoba
 ?
@@ -3257,6 +3259,8 @@ C
 Magnus	Lesteberg"2102*ş:okBH10J2011RNOR-Kongsberg o-lag
 B
 Eirik	Lesteberg"2104*Áÿ:okBH10J2009RNOR-Kongsberg o-lag
+5
+LarsOkle"2132*…:okBH10J2009RSUI-OLG Bern
 3
 JohnAnana"2116:okBH10J2009RFIN-Pihkaniskat
 <
@@ -3309,8 +3313,6 @@ A
 MaxMÃ¼ller"2111:okBH10J2009RSUI-OLG Dachsen
 <
 	Meo GiuliNiederhauser"2126:okBH10J2009RSUI-OLG Thun
-/
-LarsOkle"2132:okBH10J2009RSUI-OLG Bern
 5
 LinusPusterla"2112:okBH10J2010RSUI-OLG Basel
 7
@@ -4904,6 +4906,8 @@ WegmÃ¼ller"5012*¤ƒ:okBCSJ1950RSUI-Allegra
 FPeter Carina + Hofer Zoe"5041*Üƒ:okBCSJ0RSUI-ol.biel.seeland
 :
 VeronikaKeller"5048*˜„:okBCSJ1953RSUI-OLG Bern
+4
+SylvieWaeber"5042*ˆ†:okBCSJ1974RSUI-ANCO
 ?
 Bettina KatyAndersen"5038:okBCSJ1963RDEN-SÃ¸llerÃ¸d OK
 ;
@@ -5008,8 +5012,6 @@ Schatzmann"5013:okBCSJ2004RSUI-OLG Cordoba
 LianaThiels"7287:okBCSJ2007R	BEL-omega
 @
 RiittaVainio"5001:okBCSJ1958RFIN-Turun MetsÃ¤nkÃ¤vijÃ¤t
-.
-SylvieWaeber"5042:okBCSJ1974RSUI-ANCO
 1
 HaolinWang"5217:okBCSJ2007RCHN-SDSZ club
 6
@@ -5215,18 +5217,21 @@ B
 D
 Eliska
 Zejdlikova"7018:okBCMJ2003RCZE-OOB TJ Lokomotiva Tepl
+G
+RogerNÃ¼tzi"5136*Åş:okBCLJ1984RSUI-OL Regio OltenZ
+1§
 9
 LeonhardOesch"6096*’ı:okBCLJ1974RSUI-OLG Bern
 I
 FrancisManzano"5226*Îı:okBCLJ1979RESP-COC Club d OrientaciÃ³ 
 6
 MateaMÃ¼ller"0*‰ş:okBCLJ2000RSUI-ol norska
-=
-RogerNÃ¼tzi"5136*Åş:okBCLJ1984RSUI-OL Regio Olten
 @
 AnninaBÃ¼rgi"6004*ÿ:okBCLJ1981RSUI-muurahaiskeko OK
 :
 AndreasRotach"6068*”„:okBCLJ1978RSUI-OLG Basel
+B
+	ChristophHaefeli"5133*…†:okBCLJ1977RSUI-OL Regio Olten
 BBaud Christine + Quentin"5135:okBCLJ0RSUI-CO Lausanne-Jorat
 HBaud Sandrine + Ecoffey Pierre"5137:okBCLJ0RSUI-CO Lausanne-Jorat
 <
@@ -5240,8 +5245,6 @@ Bottinelli"6093:okBCLJ1990RSUI-OLG Skandia
 VeraChvalova"5125:okBCLJ1994RCZE-OK Lokomotiva Plzen
 1
 JanineEggs"6110:okBCLJ1993RSUI-OLG Basel
-<
-	ChristophHaefeli"5133:okBCLJ1977RSUI-OL Regio Olten
 4
 StefanHÃ¤feli"5132:okBCLJ1980RSUI-OLK Argus
 0
@@ -5450,4 +5453,4 @@ UKR-Sirius
 5
 KÃ¤thyZbinden"5194:okBHLJ1941RSUI-OLG Kakowa
 5
-StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
+StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
