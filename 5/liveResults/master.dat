@@ -192,8 +192,8 @@ FRA-O JuraZ
 O
 IngeborgRognstad"1221*»Ö2Å:okBD18J2001RNOR-Hadeland OLZ
 1≈
-F
-LeaRettich"1217*ƒ˛:okBD18J2002RSUI-OL ZimmerbergZ
+K
+LeaRettich"1217*ƒ˛2≥:okBD18J2002RSUI-OL ZimmerbergZ
 1Ò
 ;
 AnnaUnegg"1219*úÉ:okBD18J2001RAUT-SU Klagenfurt
@@ -830,8 +830,9 @@ Q
 RuthRuch"1803*‡Î:okBD50J1967RSUI-OLG Skandia
 A
 ClaudiaRieder"1741*îÌ:okBD50J1968RSUI-ol.biel.seeland
-B
-KarinKnecht B√ºhler"1821*Äˇ:okBD55J1964RSUI-OLV Luzern
+L
+KarinKnecht B√ºhler"1821*Äˇ:okBD55J1964RSUI-OLV LuzernZ
+1ñ
 C
 PriskaBadertscher"1835*Ä:okBD55J1964RSUI-OL Zimmerberg
 7
@@ -951,8 +952,9 @@ I
 Klusackova"1867*‡Î:okBD55J1961RCZE-OOB Trebic
 ;
 CorneliaM√ºller"1858*–Ì:okBD55J1964RSUI-OLV Zug
-G
-HeidiUllmann-Kurzo"1904*ËÅ:okBD55KJ1962RSUI-ol.biel.seeland
+Q
+HeidiUllmann-Kurzo"1904*ËÅ:okBD55KJ1962RSUI-ol.biel.seelandZ
+1†
 ;
 OdileHoyois"1890*¿Ü:okBD55KJ1960RSUI-CARE Vevey
 A
@@ -1648,15 +1650,16 @@ D
 DominicSchacher"2393*ºË:okBH18J2002RSUI-OLK Argus
 >
 	ChristianScherrer"2368*¨Í:okBH18J2002RSUI-OLG Chur
+S
+TimoRyhiner"2423*ƒ˛:okBH20J2000RSUI-OLG WeisslingenZ
+1πZ
+2…
 J
 FlorianWepfer"2420*Ùá:okBH20J1999RSUI-OLG Pf√§ffikonZ
 1û
 D
 RomanEgli"2424*Ãå:okBH20J1999RSUI-OLC KapreoloZ
 1§
-I
-TimoRyhiner"2423*ƒ˛:okBH20J2000RSUI-OLG WeisslingenZ
-1π
 B
 BenStoyer"2422*úÉ:okBH20J2000RSUI-OLG St√§faZ
 1≤
@@ -1838,6 +1841,9 @@ Q
 G
 AndreasVieli"2828*ƒç:okBH45J1970RSUI-OLC KapreoloZ
 1—
+J
+MichaelLehmann"2858*¨ê:okBH45J1974RSUI-OLG K√∂llikenZ
+1‡
 L
 MichaelL√∂hning"2829*ÑÜ:okBH45J1973RGER-USV TU DresdenZ
 1˚
@@ -1869,8 +1875,6 @@ M
 1
 <
 	ChristianZettel"2851*¯é:okBH45J1974RSUI-OLG Thun
-@
-MichaelLehmann"2858*¨ê:okBH45J1974RSUI-OLG K√∂lliken
 3
 UvisSoika"2859*ÿí:okBH45J1971R	LAT-Ozons
 @
@@ -2018,6 +2022,9 @@ Moosberger"3059*Äˇ2à:okBH50J1969RSUI-OLV ZugZ
 P
 Peter	Wylenmann"2960*ÿÉ2Æ:okBH50J1969RSUI-OLG Pf√§ffikonZ
 1¸
+K
+BernhardWehrle-Haller"2976*‡Ç:okBH50J1965RSUI-CO CERNZ
+1∞
 D
 Michael	Steinauer"3056*à˛:okBH50J1964RSUI-ol.biel.seeland
 @
@@ -2026,8 +2033,6 @@ A
 PeterRoth"2965*Ä:okBH50J1967RSUI-OLG Herzogenbuchsee
 C
 MarcoBreitenmoser"2972*ËÅ:okBH50J1967RSUI-OL Zimmerberg
-A
-BernhardWehrle-Haller"2976*‡Ç:okBH50J1965RSUI-CO CERN
 >
 HeikoGossel"2977*–Ñ:okBH50J1965RGER-USV TU Dresden
 >
@@ -4726,8 +4731,9 @@ E
 AlfredM√ºller"3392*§Î:okBH65J1953RSUI-OLG Thun
 =
 MarkusLiechti"3391*ÿÏ:okBH65J1950RSUI-OLG Skandia
-8
-FritzZingg"3483*à˛:okBH70J1949RSUI-ol norska
+B
+FritzZingg"3483*à˛:okBH70J1949RSUI-ol norskaZ
+1é
 >
 RichardPortmann"3394*Äˇ:okBH70J1947RSUI-OLV Luzern
 >
@@ -5666,4 +5672,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG St√§fa
 A(Zesiger Carola + Louise + Annasofia + Th"7261:okBHLJ0RSUI-
-B)Zesiger Lisa + Am√©lie + Loenor + Lucia +"7262:okBHLJ0RSUI-;
+B)Zesiger Lisa + Am√©lie + Loenor + Lucia +"7262:okBHLJ0RSUI-<
