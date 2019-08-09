@@ -3282,6 +3282,8 @@ B
 OskarStene"2107*¶ˆ:okBH10J2011RNOR-Nydalens SK
 B
 JulianBenz"2101*îˆ:okBH10J2009RSUI-OLG St. Gallen/App.
+<
+CraigThompson"2099*š‹:okBH10J2009RGBR-Harlequins
 3
 JohnAnana"2116:okBH10J2009RFIN-Pihkaniskat
 4
@@ -3336,8 +3338,6 @@ A
 SamuelSaranen"2121:okBH10J2012RFIN-Pihkaniskat
 3
 LukasStuder"2109:okBH10J2009RSUI-OLG Basel
-6
-CraigThompson"2099:okBH10J2009RGBR-Harlequins
 3
 TimoTreier"2118:okBH10J2010RSUI-bussola ok
 6
@@ -5056,6 +5056,8 @@ A
 LeneThorsen"5076*ø‡:okBCMJ1957RDEN-OK West
 4
 AnalynBaumann"5057*áŠ:okBCMJ1983RHKG-Y2Y
+3
+Roland	Bourgeois"7342*‹:okBCMJ1945RSUI-
 4
 ResRey"3338*è:okBCMJ1954RSUI-OLG Kakowa
 9
@@ -5073,8 +5075,6 @@ A
 Karin	Bengtsson"5085:okBCMJ1957RSWE-Visborgs OK
 7
 LaurentBischoff"5079:okBCMJ1975RSUI-CARE Vevey
--
-Roland	Bourgeois"7342:okBCMJ1945RSUI-
 6
 EvaBrabek"5111:okBCMJ1967RAUT-OC FÃ¼rstenfeld
 <BÃ¼rgi Annina + Leo"5091:okBCMJ0RSUI-muurahaiskeko OK
@@ -5253,6 +5253,9 @@ B
 D
 Eliska
 Zejdlikova"7018:okBCMJ2003RCZE-OOB TJ Lokomotiva Tepl
+D
+AndreasRotach"6068*”„:okBCLJ1978RSUI-OLG BaselZ
+1‡
 G
 RogerNÃ¼tzi"5136*Åþ:okBCLJ1984RSUI-OL Regio OltenZ
 1§
@@ -5269,8 +5272,6 @@ C
 @
 MateaMÃ¼ller"0*‰þ:okBCLJ2000RSUI-ol norskaZ
 1¬
-:
-AndreasRotach"6068*”„:okBCLJ1978RSUI-OLG Basel
 B
 	ChristophHaefeli"5133*…†:okBCLJ1977RSUI-OL Regio Olten
 BBaud Christine + Quentin"5135:okBCLJ0RSUI-CO Lausanne-Jorat
@@ -5342,6 +5343,8 @@ Anne MetteSchmidt"6005:okBCLJ1992RDEN-OK Pan Aarhus
 TimoTrachsel"6112:okBCLJ1997RSUI-OLG Thun
 KAlthaus Julia + Marti Brigitte"5168*ã‚:okBHSJ0RSUI-OLV Langenthal
 R%Althaus Kristina Sarah + Sommer Heidi"5175*¡ƒ:okBHSJ0RSUI-OLV Langenthal
+B
+ManuelaHeim"5148* ‹:okBHSJ1959RSUI-OLG St. Gallen/App.
 3
 KnutAndersen"5179:okBHSJ1962RNOR-LÃ¸ten OL
 9
@@ -5384,8 +5387,6 @@ BGisler Renata + Alessandra"5163:okBHSJ0RSUI-OLG KTV Altdorf
 /
 MatthiasHarms"5161:okBHSJ2008RGER-WOLF
 FHegnerova Adela + Viktorie"5144:okBHSJ0RCZE-OK Lokomotiva Plzen
-<
-ManuelaHeim"5148:okBHSJ1959RSUI-OLG St. Gallen/App.
 ;
 Ruth
 Hofstetter"7340:okBHSJ1953RSUI-ol.biel.seeland
@@ -5451,6 +5452,8 @@ Csteiger louis  kÃ¤thy & richi"7191:okBHSJ0RSUI-OLV Baselland
 UlrichStreit"5188:okBHSJ1938RSUI-ol.biel.seeland
 7
 IsabelThalmann"5229:okBHSJ1970RSUI-OLG ZÃ¼rich
+1
+BasiaTou"7352:okBHSJ1994RUSA-OLG ZÃ¼rich
 8Waeber Eric + Mathis + Arno"5182:okBHSJ0RSUI-ANCO
 2
 RegulaWagner"5169:okBHSJ1976RSUI-OLG Thun
@@ -5510,4 +5513,6 @@ UKR-Sirius
 5
 KÃ¤thyZbinden"5194:okBHLJ1941RSUI-OLG Kakowa
 5
-StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
+StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
++
+ThomasZesiger"7261:okBHLJ1972RSUI-
