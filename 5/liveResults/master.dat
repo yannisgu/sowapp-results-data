@@ -1117,6 +1117,9 @@ B
 N
 SusanneThrane"1804*Œß2¤*:okBD50J1962RDEN-SÃ¸llerÃ¸d OKZ
 1Ï)
+N
+MarianneIllum"1806*ôá2Ê*:okBD50J1966RDEN-SÃ¸llerÃ¸d OKZ
+1í)
 R
 	EkaterinaKrasilnikova"1816*ì¦2ø*:okBD50J1969RRUS-NORD WESTZ
 1®*
@@ -1138,9 +1141,6 @@ K
 E
 NicoleRevencu"1784*´ž2µ6:okBD50J1968RBEL-ASUBZ
 1É5
-I
-MarianneIllum"1806*ôá:okBD50J1966RDEN-SÃ¸llerÃ¸d OKZ
-1í)
 :
 SharonNussbaum"1776*èÌ:okBD50J1968RISR-HASHRON
 >
@@ -3289,7 +3289,7 @@ U
 1€Z
 2·0
 Y
-Tzs HinLui"2816*„Â:okBH45J1968RHKG-Scout Orienteering CluZ
+Tzs HinLui"2816*„Â:mpBH45J1968RHKG-Scout Orienteering CluZ
 1Z
 2§I
 9
@@ -6987,8 +6987,12 @@ P
 M
 RenÃ©MÃ¼ller"3437*´ž2”0:okBH70J1949RSUI-OLG SÃ¤uliamtZ
 1Ê.
-:
-ChrisHirt"3457* Õ:okBH70J1945RSUI-OLG Welsikon
+D
+WernerHerren"3400*”í:okBH70J1947RSUI-ol norskaZ
+1Ú
+D
+ChrisHirt"3457* Õ:okBH70J1945RSUI-OLG WelsikonZ
+1»7
 =
 WalterSchnÃ¼riger"3451*ôá:okBH70J1945RSUI-OLV Zug
 A
@@ -6997,8 +7001,6 @@ A
 PeterWehrli"3464*èê:okBH70J1948RSUI-OLK Argus
 A
 AlfonsZiegler"3397*àë:okBH70J1948RSUI-OLG Biberist SO
-:
-WernerHerren"3400*”í:okBH70J1947RSUI-ol norska
 A
 WalterPauli"3476* ·:mpBH70J1945RSUI-CO Lausanne-Jorat
 =
@@ -7215,10 +7217,11 @@ I
 R
 WalterBickel"3559*Ðí:okBH80J1933RSUI-OLV Zug / OLG SÃ¤uliamtZ
 1é
+H
+ValentinHumbel"3545*ðé:okBH80J1931RSUI-OLG CordobaZ
+1æ"
 L
 Eberhard	Lemnitzer"3560*ðË:okBH80J1937RGER-Kaulsdorfer OLV Berlin
->
-ValentinHumbel"3545*ðé:okBH80J1931RSUI-OLG Cordoba
 O
 PeterBellarby"3534*ð:mpBH80J1937RGBR-Grampian OrienteersZ
 1¥2
@@ -8269,6 +8272,9 @@ Q
 >
 SamuelMatti"7344*« 2·.:okBHLJ1968RSUI-Z
 1ñ-
+Q
+Maja SchytteOlsen"5207* Ý2ž/:okBHLJ2002RDEN-SÃ¸llerÃ¸d OKZ
+1Ý.
 i(He Yaqing + Hongsong Yin + Huihong Zhang"5196*¤¨2Â/:okBHLJ0RCHN-Learnjoy O Club  CNZ
 1Ø.
 \(Udovytskyy Vitaliy + Udovytskaya Maiia +"5191*ÀÙ2û/:okBHLJ0R
@@ -8287,9 +8293,6 @@ S
 Marianne
 Frauchiger"5192*õ¼2¥5:okBHLJ1942RSUI-OLV HindelbankZ
 1ƒ4
-L
-Maja SchytteOlsen"5207* Ý:okBHLJ2002RDEN-SÃ¸llerÃ¸d OKZ
-1Ý.
 .
 AndrinGrun"7839*ØÖ:okBHLJ2005RSUI-
 F
@@ -8309,4 +8312,4 @@ B
 :
 CatrinStaudte"5201:dnsBHLJ1972RGER-OL-Team Filder
 9
-PatriziaSeibel"5199:dnsBHLJ1973RSUI-OLG Hondrich²
+PatriziaSeibel"5199:dnsBHLJ1973RSUI-OLG Hondrich³
