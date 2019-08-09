@@ -2621,8 +2621,8 @@ A
 AdrianKernen"2608*àë:okBHAMJ1992RSUI-OLG Skandia
 9
 MichaelWild"2606*Ðí:okBHAMJ1986RSUI-OLK Argus
-^
-PatrickKrÃ¤henbÃ¼hl"2459*ý:okBHEJ1995RSUI-OLG HerzogenbuchseeZ
+c
+PatrickKrÃ¤henbÃ¼hl"2459*ý2°:okBHEJ1995RSUI-OLG HerzogenbuchseeZ
 1ð
 Z
 2ÿ
@@ -2631,9 +2631,16 @@ D
 1š
 
 E
+JacobLindstam"2485* Š:okBHEJ1987RSWE-OK RavinenZ
+1­
+
+E
 SvenKlein"2457*À†:okBHEJ1993RSUI-OLG PfÃ¤ffikonZ
 1å
 
+D
+ThomasGeiges"2462*°ˆ:okBHEJ1976RSUI-OLG StÃ¤faZ
+1Ÿ
 O
 ChristofRÃ¶thlisberger"2454*€ÿ:okBHEJ1987RSUI-OLG SkandiaZ
 1Ö
@@ -2643,10 +2650,6 @@ D
 ?
 MaximSimakov"2479*ð€:okBHEJ1984R	RUS-OmegaZ
 1´
-:
-ThomasGeiges"2462*°ˆ:okBHEJ1976RSUI-OLG StÃ¤fa
-;
-JacobLindstam"2485* Š:okBHEJ1987RSWE-OK Ravinen
 K
 Gabriel-MichaelMathys"2475*€Ž:okBHEJ1996RSUI-OLG Max und Moritz
 A
@@ -3321,8 +3324,8 @@ K
 L
 CyrillKuhn"2094*Â‡2ï:okBH10J2012RSUI-OLG PfÃ¤ffikonZ
 1®
-E
-PierreGeiges"2095*Çþ:okBH10J2009RSUI-OLG StÃ¤faZ
+J
+PierreGeiges"2095*Çþ2:okBH10J2009RSUI-OLG StÃ¤faZ
 1É
 L
 Eirik	Lesteberg"2104*Áÿ:okBH10J2009RNOR-Kongsberg o-lagZ
@@ -3346,14 +3349,14 @@ M
 TimoTreier"2118*‚Ž:okBH10J2010RSUI-bussola ok
 =
 SamuelSaranen"2121*ó:okBH10J2012RFIN-Pihkaniskat
+=
+JamesEbert"2133*Ì”:okBH10J2011RGER-TSV Jetzendorf
 4
 BernhardBieri"2093:okBH10J2009RSUI-OLG Suhr
 ;
 NoahBricalli"2108:okBH10J2009RSUI-C.O. Aget Lugano
 9
 JulianDoetsch"2125:okBH10J2009RGER-OLV Steinberg
-7
-JamesEbert"2133:okBH10J2011RGER-TSV Jetzendorf
 :
 FabianGisler"2115:okBH10J2009RSUI-OLG KTV Altdorf
 4
@@ -3536,22 +3539,22 @@ B
 DominicWyss"2194*¤ë:okBH12J2007RSUI-OLV Langenthal
 7
 AndriGujan"2144*”í:okBH12J2007RSUI-OLG Chur
+B
+LukasGasser"2225*È…2ò:okBH14J2006RSUI-OL Zimmerberg
+S
+Niclas
+Bornhauser"2221*¬2«:okBH14J2005RSUI-OLG WeisslingenZ
+1ë
+R
+NoÃ©RÃ¼egsegger"2220*øÿ2Ä:okBH14J2005RSUI-OLG Biberist SOZ
+1
 N
 DominicHohl"2217*Äþ2–:okBH14J2005RSUI-OLG WeisslingenZ
 1á
-N
-Niclas
-Bornhauser"2221*¬:okBH14J2005RSUI-OLG WeisslingenZ
-1ë
-M
-NoÃ©RÃ¼egsegger"2220*øÿ:okBH14J2005RSUI-OLG Biberist SOZ
-1
 =
 TimBachmann"2227*à‚:okBH14J2005RSUI-OL Zimmerberg
 >
 AndrinHohl"2219*”„:okBH14J2005RSUI-OLG Weisslingen
-=
-LukasGasser"2225*È…:okBH14J2006RSUI-OL Zimmerberg
 B
 KailinWang"2228*ü†:okBH14J2005RCHN-Learnjoy O Club  CN
 <
@@ -5142,6 +5145,7 @@ A
 UrsLÃ¼tolf"5102*²:okBCMJ1945RSUI-OLG Welsikon
 @
 ChristofLeutert"5087*¨’:okBCMJ1965RSUI-OLG SÃ¤uliamt
+DLeutert Regula + Maurice"5089*Í”:okBCMJ0RSUI-OLG SÃ¤uliamt
 4
 ResRey"3338*è:okBCMJ1954RSUI-OLG Kakowa
 9
@@ -5216,7 +5220,6 @@ J
 LindaKokkila"5072:okBCMJ1987RFIN-Beach Boys
 ,
 IngaKrima"5098:okBCMJ1973R	LAT-Ozons
->Leutert Regula + Maurice"5089:okBCMJ0RSUI-OLG SÃ¤uliamt
 6
 HenrikeLucke"5067:okBCMJ1977RGER-Team Sachsen
 +
@@ -5325,12 +5328,13 @@ B
 D
 Eliska
 Zejdlikova"7018:okBCMJ2003RCZE-OOB TJ Lokomotiva Tepl
+Q
+RogerNÃ¼tzi"5136*Åþ:okBCLJ1984RSUI-OL Regio OltenZ
+1§Z
+2˜
 D
 AndreasRotach"6068*”„:okBCLJ1978RSUI-OLG BaselZ
 1‡
-G
-RogerNÃ¼tzi"5136*Åþ:okBCLJ1984RSUI-OL Regio OltenZ
-1§
 L
 	ChristophHaefeli"5133*…†:okBCLJ1977RSUI-OL Regio OltenZ
 1å
@@ -5425,6 +5429,9 @@ B
 Antoinette	Weitnauer"5184*šŒ:okBHSJ1962RSUI-
 @
 	KatharinaKraus"7299*†Ž:okBHSJ2004RGER-OLG Regensburg
+2
+Nora
+Rechberger"5170*Ò”:okBHSJ2010RSUI-
 3
 KnutAndersen"5179:okBHSJ1962RNOR-LÃ¸ten OL
 9
@@ -5508,9 +5515,6 @@ CKrummen Jil + Gabriela + Leo"5171:okBHSJ0RSUI-OLV Langenthal
 D"Plattner Laurianne + Farrer Annica"5156:okBHSJ0RSUI-OLG Basel
 >
 StefaniaPoggiati"5154:okBHSJ1962RSUI-C.O. Aget Lugano
-,
-Nora
-Rechberger"5170:okBHSJ2010RSUI-
 6
 IngvildRingheim"5186:okBHSJ2008RNOR-Larvik OK
 <
@@ -5553,6 +5557,8 @@ Csteiger louis  kÃ¤thy & richi"7191:okBHSJ0RSUI-OLV Baselland
 8
 RitaHug"7067*»:okBHLJ1963RSUI-OL Zimmerberg
 N!Studiger Susanne + Manuel + Simon"5202*¤’:okBHLJ0RSUI-OLG Rymenzburg
+H
+Petra	KleinovÃ¡"5208*Ï”:okBHLJ1975RCZE-OOB TJ Lokomotiva Tepl
 2
 IrenaBila"5200:okBHLJ1967RCZE-OK Rakovnik
 2
@@ -5566,8 +5572,6 @@ DGrossenbacher Romana + Denise"5203:okBHLJ0RSUI-OLV Langenthal
 T(He Yaqing + Hongsong Yin + Huihong Zhang"5196:okBHLJ0RCHN-Learnjoy O Club  CN
 9Horst Ulla + Heike"5205:okBHLJ0RGER-SC KÃ¶nigstein
 9 Julie Radzikowski + Leni Zesiger"7260:okBHLJ0RSUI-
-B
-Petra	KleinovÃ¡"5208:okBHLJ1975RCZE-OOB TJ Lokomotiva Tepl
 )
 ThomasMaier"5206:okBHLJ1975RSUI-
 )
@@ -5592,4 +5596,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
 A(Zesiger Carola + Louise + Annasofia + Th"7261:okBHLJ0RSUI-
-B)Zesiger Lisa + AmÃ©lie + Loenor + Lucia +"7262:okBHLJ0RSUI-2
+B)Zesiger Lisa + AmÃ©lie + Loenor + Lucia +"7262:okBHLJ0RSUI-3
