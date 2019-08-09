@@ -2,6 +2,8 @@
 ?
 LisaL√∂hning"1008*è˛:okBD10J2011RGER-USV TU Dresden
 ;
+Ya√´lleRouiller"1009*∑Ä:okBD10J2009RSUI-CO CERN
+;
 Signe	Albinsson"1007:okBD10J2009RSWE-OK √ñster√•ker
 :
 CarlaBaumgartner"1012:okBD10J2009RSUI-OLG Cordoba
@@ -45,8 +47,6 @@ A
 SophiePusterla"1013:okBD10J2010RSUI-OLG Basel
 /
 JeanneRenaud"1022:okBD10J2010RSUI-ANCO
-5
-Ya√´lleRouiller"1009:okBD10J2009RSUI-CO CERN
 5
 Enya	Sch√∂dler"1024:okBD10J2009RSUI-OLK Argus
 4
@@ -4895,6 +4895,8 @@ H
 =
 No√´lleK√∂chle"5003*…˛:okBCSJ1967RSUI-OLG Z√ºrich
 ?
+Emil	Frilander"5195*∫Ä:okBCSJ2004RFIN-Bastholmens IF
+?
 Bettina KatyAndersen"5038:okBCSJ1963RDEN-S√∏ller√∏d OK
 ;
 	ChristophAnker"5043:okBCSJ1960RSUI-ol.biel.seeland
@@ -4920,8 +4922,6 @@ Emmenegger"7070:okBCSJ1968RSUI-OLK Wiggertal
 ?
 AnneFerchow"5051:okBCSJ1964RGER-Kaulsdorfer OLV Berlin
 J(Freuler Niklaus + Gisi + Patrick + Jean-"5218:okBCSJ0RSUI-OLG Basel
-9
-Emil	Frilander"5195:okBCSJ2004RFIN-Bastholmens IF
 .
 JiaqiFu"5213:okBCSJ2003RCHN-SDSZ club
 -
@@ -5022,6 +5022,8 @@ B
 ManuelaUrsprung"5074*î˝:okBCMJ1987RSUI-OLG Biberist SO
 A
 SusanneL√∂hning"5081*ë˛:okBCMJ1978RGER-USV TU Dresden
+6
+MonikaDubach"0*∏Ä:okBCMJ1967RSUI-ol norska
 4
 ResRey"3338*ËÅ:okBCMJ1954RSUI-OLG Kakowa
 9
@@ -5052,8 +5054,6 @@ A
 MichaelaCionoiu"5084:okBCMJ1967RGER-TV Coburg-Neuses
 7
 ConnyDoetsch"5099:okBCMJ1983RGER-OLV Steinberg
-0
-MonikaDubach"0:okBCMJ1967RSUI-ol norska
 ;
 AnneFaivre"5078:okBCMJ1961RFRA-ACA Aix en Provence
 B
@@ -5450,4 +5450,4 @@ UKR-Sirius
 5
 K√§thyZbinden"5194:okBHLJ1941RSUI-OLG Kakowa
 5
-StephanZeller"5193:okBHLJ1966RSUI-OLG St√§fa
+StephanZeller"5193:okBHLJ1966RSUI-OLG St√§fa
