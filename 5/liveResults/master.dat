@@ -615,6 +615,9 @@ M
 K
 SabinePusterla"1600*⁄2”:okBD40J1978RSUI-OLG BaselZ
 1Ñ
+P
+LenkaDolejsi"1614*¯Ë2ˆ:okBD40J1974RCZE-Stadion Novy BorZ
+1¢
 L
 AnitaGasser"1593*¿Ü2ˆ :okBD40J1974RSUI-OL ZimmerbergZ
 1≤ 
@@ -660,9 +663,6 @@ Q
 V
 ShannonCheng"1603*îœ2∂4:okBD40J1978RUSA-Cascade Orienteering CZ
 1˚3
-K
-LenkaDolejsi"1614*¯Ë:okBD40J1974RCZE-Stadion Novy BorZ
-1¢
 E
 	JindriskaMilanova"1608*∞µ:dnsBD40J1974RCZE-KOS TESLA BRNO
 F
@@ -2486,9 +2486,6 @@ R
 H
 HenrikMolsen"3040*ÿ›:okBH50J1962RDEN-S√∏ller√∏d OKZ
 1‘*
-M
-Jens AndersHansen"3028*ËÃ:okBH50J1959RDEN-S√∏ller√∏d OKZ
-1Æ;
 ;
 YitzhakNussbaum"2994*∞ƒ:okBH50J1965RISR-HASHRON
 8
@@ -2501,6 +2498,9 @@ M
 I
 MarkusEtter"3042*†®:mpBH50J1964RSUI-ol.biel.seelandZ
 1ù&
+M
+Jens AndersHansen"3028*ËÃ:mpBH50J1959RDEN-S√∏ller√∏d OKZ
+1Æ;
 N
 RemoSch√∂nenberger"3006*Ëü:mpBH50J1969RSUI-OLV BasellandZ
 1Ù
@@ -3499,9 +3499,6 @@ H
 L
 PeterKlein"3083*Ùá2©7:okBH55J1963RSUI-OLG Pf√§ffikonZ
 1¬6
-H
-AndreiIvanov"3133*ËÍ:okBH55J1962RRUS-Kuzmolovo 110Z
-1ê
 B
 JohanJusta"3130*îﬁ:okBH55J1961RCZE-OK99 Hradec Kralove
 3
@@ -3513,6 +3510,9 @@ B
 F
 FritzStreuli"3100*ÄŸ:mpBH55J1962RSUI-OL AmriswilZ
 1Õ
+H
+AndreiIvanov"3133*ËÍ:mpBH55J1962RRUS-Kuzmolovo 110Z
+1ê
 R
 Frank
 Wiedenfeld"3076*Ù√:mpBH55J1960RGER-SSV Planeta RadebeulZ
@@ -4568,15 +4568,15 @@ M
 H
 LouiseSchytte"1550*»ﬂ:okBDBJ1967RDEN-S√∏ller√∏d OKZ
 1ñ(
-G
-MarianneKohler"1521*ÿŒ:okBDBJ1967RSUI-OLG HuttwilZ
-1–8
 ;
 HelleFolke"1552*ê◊:okBDBJ1980RDEN-S√∏ller√∏d OK
 7
 NaWu"1551*¥È:okBDBJ1979RCHN-Chu Jiao O Club
 :
 KatrinKruysse"1555*ËÍ:okBDBJ1968RSUI-OLK Argus
+G
+MarianneKohler"1521*ÿŒ:mpBDBJ1967RSUI-OLG HuttwilZ
+1–8
 0
 ErikaSchmutz"1541*‰„:mpBDBJ1959RSUI-
 H
@@ -6125,6 +6125,9 @@ I
 N
 MatthiasHolinger"2922*¿‡2˙":okBH45KJ1973RSUI-OLG BaselZ
 1•"
+L
+TroelsJuhl"2935*Ï‚2›%:okBH45KJ1971RDEN-S√∏ller√∏d OKZ
+1•%
 O
 PeterBitterli"2920*¿ï2±&:okBH45KJ1957RSUI-OL ZimmerbergZ
 1Ì%
@@ -6139,9 +6142,6 @@ M
 K
 RicoHuber"2911*ºé2î*:okBH45KJ1960RSUI-OL ZimmerbergZ
 1ÿ)
-G
-TroelsJuhl"2935*Ï‚:okBH45KJ1971RDEN-S√∏ller√∏d OKZ
-1•%
 F
 MarkusTreier"2927*Ã™:mpBH45KJ1970RSUI-bussola okZ
 1û
@@ -6531,10 +6531,11 @@ J
 R
 FredrikHolmgren"3238*¯é2Í4:okBH60J1956RSWE-Bergn√§sets AIKZ
 1∆3
+J
+MarcelLustenberger"3299*¯Ë:okBH60J1958RSUI-OLK ArgusZ
+1Û
 E
 NorihitoIgarashi"3296*ÄË:okBH60J1957RJPN-Yokohama OL Club
-@
-MarcelLustenberger"3299*¯Ë:okBH60J1958RSUI-OLK Argus
 9
 ArminBryner"3304*–Ì:okBH60J1957RSUI-OLK Argus
 K
@@ -6763,8 +6764,6 @@ B
 WolfgangKrause"3379*∏·:okBH65J1952RGER-SVW Quedlinburg
 9
 UrsSchenkel"3317*ºË:okBH65J1951RSUI-ol norska
-;
-WalterMarti"3389*È:okBH65J1951RSUI-OLG Skandia
 =
 MarkusLiechti"3391*ÿÏ:okBH65J1950RSUI-OLG Skandia
 ?
@@ -6776,6 +6775,8 @@ A
 JanisEglitis"3323*ÿø:mpBH65J1954R
 LAT-KURMISZ
 1° 
+;
+WalterMarti"3389*È:mpBH65J1951RSUI-OLG Skandia
 O
 ThomasSch√∂nenberger"3360*ê»:mpBH65J1954RSUI-OL Regio WilZ
 1ú.
@@ -6967,8 +6968,9 @@ P
 M
 Ren√©M√ºller"3437*¥û2î0:okBH70J1949RSUI-OLG S√§uliamtZ
 1 .
->
-BrunoRigert"3436*¥À:okBH70J1946RSUI-Freaks OLV Zug
+H
+BrunoRigert"3436*¥À:okBH70J1946RSUI-Freaks OLV ZugZ
+1Ê=
 :
 ChrisHirt"3457*†’:okBH70J1945RSUI-OLG Welsikon
 =
@@ -8119,10 +8121,10 @@ J
 MarlisWerder"5145*ÍØ2˚$:okBHSJ1956RSUI-OLG Z√ºrichZ
 1√#
 N
-MiaSchiller"7214*Œ—2 %:okBHSJ2011RSUI-Buchsi AthleticsZ
+MiaSchilter"7214*Œ—2 %:okBHSJ2011RSUI-Buchsi AthleticsZ
 1Å%
 Q
-LilianSchiller"7213* —2Ã%:okBHSJ2009RSUI-Buchsi AthleticsZ
+LilianSchilter"7213* —2Ã%:okBHSJ2009RSUI-Buchsi AthleticsZ
 1É%
 N
 AwaSchilter"7215*–—2ˇ%:okBHSJ2013RSUI-Buchsi AthleticsZ
@@ -8155,13 +8157,13 @@ G
 S
 AnitaKreuz D√§twyler"5153*£∏2µ-:okBHSJ1965RSUI-OLG HondrichZ
 1ı+
+J
+AsgerFolke"5185*õ◊2œ1:okBHSJ2011RDEN-S√∏ller√∏d OKZ
+1∫0
 N
 Stefan
 Birchmeier"5151*é¬2˜3:okBHSJ1958RSUI-OLG CordobaZ
 1ù2
-E
-AsgerFolke"5185*õ◊:okBHSJ2011RDEN-S√∏ller√∏d OKZ
-1∫0
 <
 EunjungChoi"5142:okBHSJ1969RUSA-RMOC Rocky Mountain
 /
@@ -8286,4 +8288,4 @@ B
 1¢R
 ;
 MichelRegamey"7235*√ˇ:mpBHLJ1946RSUI-Z
-1¯B™
+1¯B´
