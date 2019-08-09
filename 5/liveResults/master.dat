@@ -3255,6 +3255,8 @@ B
 PierreGeiges"2095*Ïı:okBH10J2009RSUI-OLG StÃ¤fa
 C
 Magnus	Lesteberg"2102*ş:okBH10J2011RNOR-Kongsberg o-lag
+B
+Eirik	Lesteberg"2104*Áÿ:okBH10J2009RNOR-Kongsberg o-lag
 3
 JohnAnana"2116:okBH10J2009RFIN-Pihkaniskat
 <
@@ -3293,8 +3295,6 @@ C
 MoritzKuntze"2088:okBH10J2010RGER-USV Jena
 1
 LorinLang"2128:okBH10J2009RSUI-ol norska
-<
-Eirik	Lesteberg"2104:okBH10J2009RNOR-Kongsberg o-lag
 2
 TheoLeutert"2134:okBH10J2010RSUI-OLG Bern
 0
@@ -5412,6 +5412,8 @@ Antoinette	Weitnauer"5184:okBHSJ1962RSUI-
 9
 SunnhildZoltner"5140:okBHSJ1965RGER-OLV Landshut
 1
+MichelRegamey"7235*Ãÿ:okBHLJ1946RSUI-
+1
 DanielBechir"5197:okBHLJ1957RSUI-CO CERN
 2
 IrenaBila"5200:okBHLJ1967RCZE-OK Rakovnik
@@ -5436,8 +5438,6 @@ B
 	JosephineMÃ¼ller"5236:okBHLJ2003RGER-USV TU Dresden
 <
 Maja SchytteOlsen"5207:okBHLJ2002RDEN-SÃ¸llerÃ¸d OK
-+
-MichelRegamey"7235:okBHLJ1946RSUI-
 8
 PatriziaSeibel"5199:okBHLJ1973RSUI-OLG Hondrich
 9
@@ -5450,4 +5450,4 @@ UKR-Sirius
 5
 KÃ¤thyZbinden"5194:okBHLJ1941RSUI-OLG Kakowa
 5
-StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
+StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
