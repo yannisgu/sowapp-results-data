@@ -230,20 +230,10 @@ D
 M
 MarleneUnegg"1173*®â2È,:okBD16J2003RAUT-SU KlagenfurtZ
 1¨,
-A
-	Lea-GioiaGloor"1163*àç:okBD16J2003RSUI-OLG Pf√§ffikon
-H
-NatalieMartin"1167*ÿí:okBD16J2003RGBR-Cleveland Orienteering
-L
-EmilijaTamoseviciute"1161*¯ª:okBD16J2003RLTU-DEVYNI - LABIRINTAS
-;
-C√©lineRichner"1159*à…:okBD16J2003RSUI-OLG Suhr
 2
 LisaHarms"1184*»ﬂ:okBD16J2004RGER-WOLF
 D
 ZaliMccomb"1198*àÁ:okBD16J2004RAUS-Australopers Tasmania
-2
-TabeaBlattner"1194*ËÍ:okBD16J2003RSUI-
 F
 FlaviaGrossenbacher"1202*ÿÏ:okBD16J2004RSUI-OLV Langenthal
 F
@@ -261,6 +251,16 @@ G
 K
 EiraHertin"1183*Ë€:mpBD16J2003RSWE-IK HakarpspojkarnaZ
 1Ú
+3
+TabeaBlattner"1194*ËÍ:dnsBD16J2003RSUI-
+I
+NatalieMartin"1167*ÿí:dnsBD16J2003RGBR-Cleveland Orienteering
+M
+EmilijaTamoseviciute"1161*¯ª:dnsBD16J2003RLTU-DEVYNI - LABIRINTAS
+<
+C√©lineRichner"1159*à…:dnsBD16J2003RSUI-OLG Suhr
+B
+	Lea-GioiaGloor"1163*àç:dnsBD16J2003RSUI-OLG Pf√§ffikon
 G
 LillyGraber"1214*ò«2˙:okBD18J2002RSUI-OLG SuhrZ
 1∆
@@ -383,8 +383,6 @@ J
 I
 PaulaWichmann"1206*¥≠2¶&:okBD18J2001RGER-USV JenaZ
 1’%
-;
-NoraAegler"1225*À:okBD18J2001RSUI-OL Regio Wil
 <
 KajaHegi"1204*ÿÏ:okBD18J2002RSUI-ol.biel.seeland
 B
@@ -393,6 +391,8 @@ B
 A
 HannaHakuli"1231*–ì:mpBD18J2001RFIN-SK UusiZ
 1–
+<
+NoraAegler"1225*À:dnsBD18J2001RSUI-OL Regio Wil
 M
 AneDyrkorn"1264*úÏ2„:okBD20J1999R	NOR-NTNUIZ
 1‘Z
@@ -477,13 +477,13 @@ R
 AnjaScherrer"1274*‰‘2è':okBD20J1999RSUI-OLG ChurZ
 1∆Z
 2À&
-4
-LoaneDudout"1262*¸≥:okBD20J1999RFRA-COBS
->
-	FelicitasVogt"1258*‘∏:okBD20J2000RGER-Team Sachsen
 E
 PaulinaStrobel"1253*¨Ω:mpBD20J2000RGER-USV JenaZ
 1´
+?
+	FelicitasVogt"1258*‘∏:dnsBD20J2000RGER-Team Sachsen
+5
+LoaneDudout"1262*¸≥:dnsBD20J1999RFRA-COBS
 V
 	FranziskaWolleb Eyer"1568*êõ2ü:okBD35J1982RSUI-OLV HindelbankZ
 1Ë
@@ -534,10 +534,11 @@ Kesselaers"1569*¿ï2π3:okBD35J1981RBEL-Omega BelgiumZ
 Z
 KateByers-Jensen"1579*¿¬2—5:okBD35J1980RUSA-Cascade Orienteering CZ
 1Ñ5
+I
+	FranziskaGrossenbacher"1582*È:okBD35J1981RSUI-UBOLZ
+1˘
 G
 JulieCassata"1577*‡Õ:okBD35J1981RUSA-Cascade Orienteering C
-?
-	FranziskaGrossenbacher"1582*È:okBD35J1981RSUI-UBOL
 Q
 BrigitteHaefeli"1618*Ù·2Á:okBD40J1978RSUI-OL Regio OltenZ
 1¥
@@ -647,10 +648,6 @@ Z
 Q
 Barbara	Handschin"1607*®ß2√1:okBD40J1977RSUI-OLV BasellandZ
 1Ä1
-D
-	JindriskaMilanova"1608*∞µ:okBD40J1974RCZE-KOS TESLA BRNO
-E
-MaiyaAnderson"1585*∏√:okBD40J1975RUSA-RMOC Rocky Mountain
 G
 ShannonCheng"1603*îœ:okBD40J1978RUSA-Cascade Orienteering C
 ?
@@ -659,6 +656,10 @@ A
 LenkaDolejsi"1614*¯Ë:okBD40J1974RCZE-Stadion Novy Bor
 =
 Gisela	Sch√∂dler"1617*§Î:okBD40J1975RSUI-OLK Argus
+E
+	JindriskaMilanova"1608*∞µ:dnsBD40J1974RCZE-KOS TESLA BRNO
+F
+MaiyaAnderson"1585*∏√:dnsBD40J1975RUSA-RMOC Rocky Mountain
 J
 IngridUndstad"1676*¨€2¶:okBD45J1971RNOR-Larvik OKZ
 1
@@ -797,12 +798,6 @@ Q
 Veerle
 Tulleneers"1641*¸¬2›*:okBD45J1972RBEL-Omega BelgiumZ
 1û*
-I
-BettinaSteiger"1685*Ï¶:okBD45J1973RSUI-OLG Bern / OLV Basella
-D
-RuthTeuscher-Streit"1652*¨Ã:okBD45J1970RSUI-OLG Hondrich
-B
-Nathalie	Berlinger"1657*úŒ:okBD45J1971RSUI-OL Regio Wil
 >
 DortheMunktved"1673*Ï‚:okBD45J1964RDEN-Aller√∏d OK
 5
@@ -812,6 +807,12 @@ B
 D
 UrsulaStrobel"1638*‹∑:mpBD45J1970RGER-USV JenaZ
 1ˆ#
+E
+RuthTeuscher-Streit"1652*¨Ã:dnsBD45J1970RSUI-OLG Hondrich
+C
+Nathalie	Berlinger"1657*úŒ:dnsBD45J1971RSUI-OL Regio Wil
+J
+BettinaSteiger"1685*Ï¶:dnsBD45J1973RSUI-OLG Bern / OLV Basella
 X
 CorneliaGisler-Musch"1724*‘ö2Ú:okBD45KJ1970RSUI-OLG KTV AltdorfZ
 1≥
@@ -917,22 +918,12 @@ T
 K
 SilviaKeller"1705*–ì2Ñ4:okBD45KJ1965RSUI-OLG St√§faZ
 1ì3
-C
-ClaudiaSch√§rer"1703*Ãå:okBD45KJ1971RSUI-OLG Pf√§ffikon
->
-ClaudiaWirz"1730*‡Ø:okBD45KJ1967RSUI-OLV Baselland
-<
-TrixDeuber"1715*ƒ…:okBD45KJ1965RSUI-OLG Hondrich
-?
-SusanneAegler"1720*†’:okBD45KJ1966RSUI-OL Regio Wil
 L
 Anna-M√§rta	Johansson"1717*§‹:okBD45KJ1972RSWE-V√§stv√§rmlands OK
 J
 Monika	Langrov√°"1734*®„:okBD45KJ1972RCZE-Slavia Hradec Kralove
 =
 	FranziskaAnkli"1719*‘Â:okBD45KJ1972RSUI-OLG Basel
-9
-SilviaSpirgi"1733*ÄË:okBD45KJ1970RSUI-OLV Zug
 B
 AnjaBr√ºtsch"1732*¨Í:okBD45KJ1967RSUI-OLG Schaffhausen
 ;
@@ -940,6 +931,16 @@ B
 N
 YingjingHan"1712*Ùá:mpBD45KJ1974RCHN-Learnjoy O Club  CNZ
 1˘;
+=
+TrixDeuber"1715*ƒ…:dnsBD45KJ1965RSUI-OLG Hondrich
+:
+SilviaSpirgi"1733*ÄË:dnsBD45KJ1970RSUI-OLV Zug
+@
+SusanneAegler"1720*†’:dnsBD45KJ1966RSUI-OL Regio Wil
+?
+ClaudiaWirz"1730*‡Ø:dnsBD45KJ1967RSUI-OLV Baselland
+D
+ClaudiaSch√§rer"1703*Ãå:dnsBD45KJ1971RSUI-OLG Pf√§ffikon
 S
 PetraNovotna"1795*¿‡2ò:okBD50J1966RCZE-OK99 Hradec KraloveZ
 1›
@@ -1117,16 +1118,10 @@ K
 E
 NicoleRevencu"1784*¥û2µ6:okBD50J1968RBEL-ASUBZ
 1…5
-?
-PriskaMathys"1820*¯ª:okBD50J1968RSUI-OLV Hindelbank
-E
-AndreaDuppenthaler"1747*‡æ:okBD50J1967RSUI-OLV Hindelbank
 :
 SharonNussbaum"1776*ËÃ:okBD50J1968RISR-HASHRON
 >
 CarmenFookes"1771*ºŸ:okBD50J1968RNZL-North West OC
-K
-IlariaFerrari Ehrensberger"1797*ÿ›:okBD50J1969RSUI-OLG Welsikon
 ?
 SusanneThrane"1804*åﬂ:okBD50J1962RDEN-S√∏ller√∏d OK
 ?
@@ -1135,9 +1130,6 @@ K
 KirstenM√∏ller"1802*®„:okBD50J1965RDEN-S√∏ller√∏d OK
 <
 PetraSafkova"1805*‹‰:okBD50J1966RCZE-OK Kamenice
-?
-Eva
-Smedegaard"1796*êÊ:okBD50J1966RDEN-S√∏ller√∏d OK
 C
 MichaelaEgarter"1808*ƒÁ:okBD50J1968RAUT-OC F√ºrstenfeld
 Q
@@ -1162,6 +1154,15 @@ M
 D
 HeidiGraf"1772*¥À:mpBD50J1968RSUI-OL Regio WilZ
 1‡
+F
+AndreaDuppenthaler"1747*‡æ:dnsBD50J1967RSUI-OLV Hindelbank
+@
+PriskaMathys"1820*¯ª:dnsBD50J1968RSUI-OLV Hindelbank
+L
+IlariaFerrari Ehrensberger"1797*ÿ›:dnsBD50J1969RSUI-OLG Welsikon
+@
+Eva
+Smedegaard"1796*êÊ:dnsBD50J1966RDEN-S√∏ller√∏d OK
 X
 KatarinaBorg"1868*ÄË2‰:okBD55J1964RSWE-S√∂dert√§lje-Nykvarn OriZ
 1©
@@ -1298,11 +1299,6 @@ W
 P
 NajlaNaceur"1877*‡æ2˚2:okBD55J1964RSUI-CO Lausanne-JoratZ
 1€1
-C
-MargritSchaltegger"1855*ê™:okBD55J1952RSUI-thurgorienta
-C
-
-Marie-AnneJungo"1869*†∑:okBD55J1962RSUI-ol.biel.seeland
 E
 Hana	Svobodova"1866*‡‹:okBD55J1959RCZE-OK99 Hradec Kralove
 =
@@ -1316,8 +1312,6 @@ C
 JanaJustova"1864*†‰:okBD55J1961RCZE-OK99 Hradec Kralove
 ?
 EstherKn√∂pfli"1859*êÊ:okBD55J1961RSUI-OLG Welsikon
-;
-Sylvia	Binzegger"1861*È:okBD55J1961RSUI-OLV Zug
 >
 Jitka
 Klusackova"1867*‡Î:okBD55J1961RCZE-OOB Trebic
@@ -1330,6 +1324,13 @@ A
 E
 RosmarieFeer"1879*º:mpBD55J1963RSUI-OLG GoldauZ
 1ã
+D
+
+Marie-AnneJungo"1869*†∑:dnsBD55J1962RSUI-ol.biel.seeland
+<
+Sylvia	Binzegger"1861*È:dnsBD55J1961RSUI-OLV Zug
+D
+MargritSchaltegger"1855*ê™:dnsBD55J1952RSUI-thurgorienta
 L
 LilyHusner"1900*¯Ë2¿:okBD55KJ1961RSUI-OLK WiggertalZ
 1Û
@@ -1372,8 +1373,6 @@ O
 O
 ElkeKr√∂ppl"1882*‡æ2Ó4:okBD55KJ1962RAUT-HSV-Gro√ümittelZ
 1«3
-B
-Anne KarineHaflan"1896*à∫:okBD55KJ1962RNOR-Nydalens SK
 D
 LilianKissling"1899*†‰:okBD55KJ1964RSUI-OLG Schaffhausen
 >
@@ -1387,6 +1386,8 @@ D
 E
 OdileHoyois"1890*¿Ü:mpBD55KJ1960RSUI-CARE VeveyZ
 1ﬂ7
+C
+Anne KarineHaflan"1896*à∫:dnsBD55KJ1962RNOR-Nydalens SK
 M
 ReginaNeukom"1909*‰â2Ÿ:okBD60J1959RSUI-OL ZimmerbergZ
 1ò
@@ -1507,6 +1508,9 @@ B
 O
 ElsbethH√ºnig"1911*¯ˇ2ø%:okBD60J1956RSUI-OLV LangenthalZ
 1…$
+O
+DorisEggenschwyler"1950*¨€2ì&:okBD60J1959RSUI-OLG BaselZ
+1¶%
 J
 Sophia
 Maerkovich"1915*‰∂2ä':okBD60J1957R
@@ -1543,15 +1547,10 @@ Q
 D
 EstherWaldmann"1960*‰„:okBD60J1958RSUI-OLV ZugZ
 1…
-J
-DorisEggenschwyler"1950*¨€:okBD60J1959RSUI-OLG BaselZ
-1¶%
->
-HeidiH√§nni"1905*»Ö:okBD60J1959RSUI-OLV Langenthal
-9
-MarianneRupp"1958*ÿ°:okBD60J1959RSUI-OLG Thun
-7
-IrisAndres"1922*–¿:okBD60J1955RSUI-OLG Chur
+M
+Esther
+Moosberger"1973*∞‚:okBD60J1956RSUI-OL Regio OltenZ
+1ƒ
 <
 	ChristinaWehrli"1919*ê◊:okBD60J1955RSUI-OLG Chur
 C
@@ -1560,18 +1559,12 @@ C
 VerenaGraf"1964*‡‹:okBD60J1956RSUI-OLG Oberwil
 I
 	ElisabethSteinlechner"1971*îﬁ:okBD60J1959RAUT-OC F√ºrstenfeld
-C
-Esther
-Moosberger"1973*∞‚:okBD60J1956RSUI-OL Regio Olten
 A
 	AnnelieseZiegerhofer"1966*òÂ:okBD60J1956RAUT-TVN-Linz
 ;
 Caroline G.Hoem"1963*ÃÊ:okBD60J1958RNOR-OLV Zug
 C
 UrsulaSaner"1968*ÄË:okBD60J1955RSUI-OLG Herzogenbuchsee
-C
-Margi
-Freemantle"1965*ËÍ:okBD60J1957RAUS-Yarra Valley OC
 6
 MajaWild"1969*úÏ:okBD60J1955RSUI-OLK Argus
 9
@@ -1580,6 +1573,15 @@ Freemantle"1965*ËÍ:okBD60J1957RAUS-Yarra Valley OC
 SimonneSilvi"1944*Ù“:mpBD60J1955RBEL-KOL-Flanders
 A
 BrigittaPl√ºss"1951*º :mpBD60J1956RSUI-OLG Rymenzburg
+:
+MarianneRupp"1958*ÿ°:dnsBD60J1959RSUI-OLG Thun
+8
+IrisAndres"1922*–¿:dnsBD60J1955RSUI-OLG Chur
+D
+Margi
+Freemantle"1965*ËÍ:dnsBD60J1957RAUS-Yarra Valley OC
+?
+HeidiH√§nni"1905*»Ö:dnsBD60J1959RSUI-OLV Langenthal
 G
 Paula
 Iso-Markku"1472*Ï¶2ÿ:okBDAKJ1986RFIN-LynxZ
@@ -1756,18 +1758,13 @@ L
 L
 JannaKosack"1452*òö2ß2:okBDAKJ1968RSUI-OLG K√∂llikenZ
 1¿1
-Q
-PetraOberholzer-Wolgensin"1424*¯é:okBDAKJ1985RSUI-OLG St. Gallen/App.
-?
-JasminPortmann"1433*¸¬:okBDAKJ1988RSUI-OL Regio Wil
-<
-SonjaAmstutz"1431*Ä :okBDAKJ1977RSUI-OLG Cordoba
+A
+SungheeKim"1479*îÌ:okBDAKJ1970RSUI-OLG ChurZ
+1á
 7
 MurielPauli"1455*Ù·:okBDAKJ1990RSUI-OLV Zug
 K
 	RaffaellaZanella"1465*‹‰:okBDAKJ1972RSUI-O-92 Piano di Magadino
-7
-SungheeKim"1479*îÌ:okBDAKJ1970RSUI-OLG Chur
 J
 HeidiSkory"1476*≠:mpBDAKJ1951RSUI-CO Lausanne-JoratZ
 1≠?
@@ -1776,6 +1773,12 @@ L
 1º 
 <
 SofieR√ºegg"1440*¯ª:mpBDAKJ2003RSUI-OL Regio Wil
+R
+PetraOberholzer-Wolgensin"1424*¯é:dnsBDAKJ1985RSUI-OLG St. Gallen/App.
+@
+JasminPortmann"1433*¸¬:dnsBDAKJ1988RSUI-OL Regio Wil
+=
+SonjaAmstutz"1431*Ä :dnsBDAKJ1977RSUI-OLG Cordoba
 Q
 MarionAebi"1316*®â2‰:okBDALJ1993RSUI-OLG HerzogenbuchseeZ
 1≤
@@ -1869,12 +1872,12 @@ K
 H
 LauraAdam"1310*¯ 2’0:okBDALJ1993RFRA-SAGC CESTASZ
 1ˇ/
-<
-AndreaSchuler"1334*ËΩ:okBDALJ1998RSUI-OLG Goldau
 H
 RebeccaJensen"1325*–ﬁ:okBDALJ1985RUSA-Cascade Orienteering C
 =
 YoonsunCha"1329*‡Î:okBDALJ1982RKOR-Korea O-lovers
+=
+AndreaSchuler"1334*ËΩ:dnsBDALJ1998RSUI-OLG Goldau
 ?
 RebeccaPeter"1371*À2á:okBDAMJ1990RSUI-OLG Basel
 @
@@ -2015,26 +2018,10 @@ P
 Karin
 von K√§nel"1375*û2Ó):okBDAMJ1987RSUI-OLG S√§uliamtZ
 1î)
-B
-AndreaBlankenhorn"1379*∏ñ:okBDAMJ1980RSUI-OLG Galgenen
-@
-TeijaLehmuskoski"1398*–¢:okBDAMJ1987RFIN-Bemb√∂le OK
-;
-NelliS√•ger"1400*Ù•:okBDAMJ1984RFIN-Bemb√∂le OK
-@
-AnnaBigolin"1401*‰ß:okBDAMJ1989RSUI-Bucheggberger OL
-A
-Ina	Tsitovich"1365*ËΩ:okBDAMJ1981RBLR-C.O. Aget Lugano
 ;
 MariannaSenina"1366*Ä :okBDAMJ1983RRUS-Fryazino
-G
-LenkaKovarova"1389*¿‡:okBDAMJ1986RCZE-SJH Jindrichuv Hradec
-8
-NicoleHitz"1390*Ù·:okBDAMJ1993RSUI-OLK Argus
 B
 Mark√©taM√ºllerov√°"1387*‰„:okBDAMJ1994RCZE-OOB Trebic
-:
-SophieK√§ser"1392*‘Â:okBDAMJ1997RSUI-OLK Argus
 E
 Fabienne	Steinauer"1340*ËÍ:okBDAMJ1997RSUI-ol.biel.seeland
 8
@@ -2049,6 +2036,22 @@ F
 1Â
 ;
 FionaArnet"1357*»î:mpBDAMJ2001RSUI-OLC Kapreolo
+A
+AnnaBigolin"1401*‰ß:dnsBDAMJ1989RSUI-Bucheggberger OL
+<
+NelliS√•ger"1400*Ù•:dnsBDAMJ1984RFIN-Bemb√∂le OK
+H
+LenkaKovarova"1389*¿‡:dnsBDAMJ1986RCZE-SJH Jindrichuv Hradec
+C
+AndreaBlankenhorn"1379*∏ñ:dnsBDAMJ1980RSUI-OLG Galgenen
+9
+NicoleHitz"1390*Ù·:dnsBDAMJ1993RSUI-OLK Argus
+B
+Ina	Tsitovich"1365*ËΩ:dnsBDAMJ1981RBLR-C.O. Aget Lugano
+;
+SophieK√§ser"1392*‘Â:dnsBDAMJ1997RSUI-OLK Argus
+A
+TeijaLehmuskoski"1398*–¢:dnsBDAMJ1987RFIN-Bemb√∂le OK
 [
 Simona	Aebersold"1297*∏•2é:okBDEJ1998RSUI-ol.biel.seelandZ
 1ü	Z
@@ -2433,20 +2436,10 @@ Q
 R
 DieterL√ºtzelschwab"2981*®≈2ï/:okBH50J1966RSUI-OLG CordobaZ
 1ƒ.
-D
-Urs	Eisenbart"2975*Äé:okBH50J1965RSUI-OLG St. Gallen/App.
-A
-Matti KKarvonen"2999*ÿí:okBH50J1969RFIN-Kalevan Rasti
-=
-LotharMock"2954*ò∏:okBH50J1966RSUI-OLV Hindelbank
 ;
 YitzhakNussbaum"2994*∞ƒ:okBH50J1965RISR-HASHRON
 C
 Jens AndersHansen"3028*ËÃ:okBH50J1959RDEN-S√∏ller√∏d OK
-@
-Frede	Lillelund"3029*ê◊:okBH50J1962RDEN-S√∏ller√∏d OK
-B
-Peter√òstergaard"3020*àÿ:okBH50J1960RDEN-S√∏ller√∏d OK
 <
 UlrikIllum"3018*Ë€:okBH50J1965RDEN-S√∏ller√∏d OK
 ?
@@ -2461,8 +2454,6 @@ H
 AriIsok√§√§nt√§"3019*∞‚:okBH50J1969RFIN-Kuusamon Er√§-Veikot
 I
 S√∏renAndersen"3025*®„:okBH50J1964RDEN-Herning Orienteringskl
-@
-ClaudeRieder"2944*ÄË:okBH50J1968RSUI-ol.biel.seeland
 >
 BeatAmstutz"3061*È:okBH50J1965RSUI-OLV Langenthal
 <
@@ -2480,6 +2471,18 @@ I
 N
 RemoSch√∂nenberger"3006*Ëü:mpBH50J1969RSUI-OLV BasellandZ
 1Ù
+>
+LotharMock"2954*ò∏:dnsBH50J1966RSUI-OLV Hindelbank
+C
+Peter√òstergaard"3020*àÿ:dnsBH50J1960RDEN-S√∏ller√∏d OK
+B
+Matti KKarvonen"2999*ÿí:dnsBH50J1969RFIN-Kalevan Rasti
+E
+Urs	Eisenbart"2975*Äé:dnsBH50J1965RSUI-OLG St. Gallen/App.
+A
+ClaudeRieder"2944*ÄË:dnsBH50J1968RSUI-ol.biel.seeland
+A
+Frede	Lillelund"3029*ê◊:dnsBH50J1962RDEN-S√∏ller√∏d OK
 X
 FlorianFreuler"2387*åî2ç:okBH18J2002RSUI-thurgorientaZ
 1ÈZ
@@ -2654,14 +2657,6 @@ H
 	ChristianScherrer"2368*¨Í:okBH18J2002RSUI-OLG ChurZ
 1Ñ
 
-3
-MatyasSiegl"2413*Ãõ:okBH18J2001RCZE-MFP
-8
-FlorinWey"2407*¸§:okBH18J2002RSUI-OLG Goldau
-=
-TomasMilan"2390*Ï¶:okBH18J2001RCZE-KOS TESLA BRNO
-;
-MoritzVogt"2365*å≤:okBH18J2001RGER-Team Sachsen
 N
 IverRingheim"2401*åﬂ:mpBH18J2002RNOR-Larvik OKZ
 1Ω
@@ -2671,6 +2666,14 @@ V
 AndrinBenz"2376*Ãå:aKBH18J2001RSUI-OLG St. Gallen/App.Z
 1ﬂZ
 2Ü
+>
+TomasMilan"2390*Ï¶:dnsBH18J2001RCZE-KOS TESLA BRNO
+9
+FlorinWey"2407*¸§:dnsBH18J2002RSUI-OLG Goldau
+<
+MoritzVogt"2365*å≤:dnsBH18J2001RGER-Team Sachsen
+4
+MatyasSiegl"2413*Ãõ:dnsBH18J2001RCZE-MFP
 R
 CorsinBoos"2414*Ïƒ2:okBH20J2000RSUI-OLV LuzernZ
 1ùZ
@@ -2732,6 +2735,9 @@ T
 NiklasEkstr√∂m"2429*¸‡2Ì:okBH20J2002RFIN-MS ParmaZ
 1≥Z
 2¬
+H
+JosephGoodwin"2427*‘Â2Ô:okBH20J2000RGBR-WCOC UKZ
+1†
 O
 SilvanSpiess"2434*¨ü2Ò:okBH20J2000RSUI-ol.biel.seelandZ
 1û
@@ -2747,15 +2753,12 @@ Q
 BenStoyer"2422*úÉ2†%:okBH20J2000RSUI-OLG St√§faZ
 1≤Z
 2ÿ$
-C
-JosephGoodwin"2427*‘Â:okBH20J2000RGBR-WCOC UKZ
-1†
-C
-NilsEyer"2433*‘ö:okBH20J1999RSUI-ol.biel.seeland / UBOL
-;
-OleH√§nsel"2419*ƒ…:okBH20J2000RGER-Team Sachsen
-@
-DavidZ√ºrcher"2418*úŒ:okBH20J2000RSUI-OLV Hindelbank
+D
+NilsEyer"2433*‘ö:dnsBH20J1999RSUI-ol.biel.seeland / UBOL
+A
+DavidZ√ºrcher"2418*úŒ:dnsBH20J2000RSUI-OLV Hindelbank
+<
+OleH√§nsel"2419*ƒ…:dnsBH20J2000RGER-Team Sachsen
 O
 AndreasStalder"2762*Äù2˙:okBH35J1980RSUI-OLG S√§uliamt / OLV Luz
 M
@@ -2908,19 +2911,19 @@ L
 M
 	SebastianPaul"2775*‡Ø2ﬁ3:okBH40J1977RGER-Team SachsenZ
 1ã3
-;
-RichardJackson"2791*¯é:okBH40J1977RGBR-Devon OC
-=
-PavelMilan"2788*Ñ≥:okBH40J1972RCZE-KOS TESLA BRNO
 >
 ZhengLiang"2794*†‰:okBH40J1978RCHN-Chu Jiao O Club
 A
 YvesNager"2805*ƒÁ:okBH40J1976RSUI-RMOC Rocky Mountain
-5
-MartinLerjen"2804*ËÍ:okBH40J1973RSUI-UBOL
 O
 DavidEngstedt"2777*º:mpBH40J1978RLTU-DEVYNI - LABIRINTASZ
 1Ø$
+>
+PavelMilan"2788*Ñ≥:dnsBH40J1972RCZE-KOS TESLA BRNO
+<
+RichardJackson"2791*¯é:dnsBH40J1977RGBR-Devon OC
+6
+MartinLerjen"2804*ËÍ:dnsBH40J1973RSUI-UBOL
 Y
 Per √òyvindStene"2836*ò«2›:okBH45J1974RNOR-Nydalens SKZ
 1˜Z
@@ -3201,6 +3204,10 @@ O
 PierreWichoud"2884*å≤2¯&:okBH45J1970RSUI-CO Lausanne-JoratZ
 1˚Z
 2∞&
+S
+MartinBecker"2846*¯Ÿ2–':okBH45J1974RSUI-OLG BaselZ
+1ßZ
+2ã'
 Y
 DongZhao"2832*åÖ2Ê':okBH45J1967RCHN-Learnjoy O Club  CNZ
 1˜Z
@@ -3222,10 +3229,6 @@ U
 	ChristianZettel"2851*¯é2ä1:okBH45J1974RSUI-OLG ThunZ
 1ÄZ
 2∑0
-N
-MartinBecker"2846*¯Ÿ:okBH45J1974RSUI-OLG BaselZ
-1ßZ
-2ã'
 E
 LaurentBaumgartner"2879*ÿÏ:okBH45J1972RSUI-UBOLZ
 1É
@@ -3235,14 +3238,14 @@ B
 O
 Tzs HinLui"2816*Ñ¬:okBH45J1968RHKG-Scout Orienteering CluZ
 1è
-C
-PeterGrendelmeier"2852*ƒú:okBH45J1974RSUI-OLV Baselland
-4
-HeikkiLaine"2871*Ñ‡:okBH45J1970RFIN-IkNV
-8
-VesaHakkarainen"2869*Ï‚:okBH45J1970RFIN-IkNV
->
-OlegMaksimov"2863*¯Ë:okBH45J1974RRUS-Kuzmolovo 110
+?
+OlegMaksimov"2863*¯Ë:dnsBH45J1974RRUS-Kuzmolovo 110
+9
+VesaHakkarainen"2869*Ï‚:dnsBH45J1970RFIN-IkNV
+5
+HeikkiLaine"2871*Ñ‡:dnsBH45J1970RFIN-IkNV
+D
+PeterGrendelmeier"2852*ƒú:dnsBH45J1974RSUI-OLV Baselland
 J
 KornelUlrich"3146*‡Ø2§:okBH55J1962RSUI-OLG GoldauZ
 1
@@ -3449,12 +3452,6 @@ L
 >
 RaphaelOeschger"3129*ÄË:okBH55J1961RSUI-Z
 1–
-=
-ThomasGloor"3118*‘ö:okBH55J1964RSUI-OLV Baselland
-?
-MichaelZumsteg"3079*Äª:okBH55J1961RSUI-OLK Piz Hasi
-=
-MartinKoster"3105*à…:okBH55J1962RSUI-OL Regio Wil
 B
 JohanJusta"3130*îﬁ:okBH55J1961RCZE-OK99 Hradec Kralove
 D
@@ -3486,6 +3483,12 @@ Leimgruber"3124*îì:mpBH55J1964RSUI-OLK FricktalZ
 R
 LennartBorg"3135*®„:mpBH55J1962RSWE-S√∂dert√§lje-Nykvarn OriZ
 1Ì
+>
+ThomasGloor"3118*‘ö:dnsBH55J1964RSUI-OLV Baselland
+>
+MartinKoster"3105*à…:dnsBH55J1962RSUI-OL Regio Wil
+@
+MichaelZumsteg"3079*Äª:dnsBH55J1961RSUI-OLK Piz Hasi
 T
 Rico	H√ºbscher"2534*àÁ2Å:okBHALJ1994RSUI-OLK ArgusZ
 1¨Z
@@ -3651,11 +3654,6 @@ M
 	TakeshigeIshiwa"2520*–œ2ù":okBHALJ1988RJPN-Tokiwa SorinkaiZ
 1›	Z
 2·!
-9
-FelixBentz"2506*‘ã:okBHALJ1979RSUI-OLG St√§fa
-@
-Janik
-Niethammer"2521*úø:okBHALJ1988RSUI-OL Regio Wil
 N
 CyrillBaumann"2531*Ã»:mpBHALJ1993RSUI-OLG ThunZ
 1≈	Z
@@ -3663,6 +3661,11 @@ N
 J
 SandroAnderes"2538*Ñ‡:mpBHALJ1997RSUI-OL Regio OltenZ
 1∆
+:
+FelixBentz"2506*‘ã:dnsBHALJ1979RSUI-OLG St√§fa
+A
+Janik
+Niethammer"2521*úø:dnsBHALJ1988RSUI-OL Regio Wil
 F
 AdrianLais"2555*‡Õ2“:okBHAMJ1992RSUI-OLG SuhrZ
 1•
@@ -3810,18 +3813,6 @@ F
 G
 MarekSunda"2602*Äª2…+:okBHAMJ1992RCZE-USK PrahaZ
 1ä+
-C
-PatrickW√ºrsten"2581*êõ:okBHAMJ1999RSUI-OLG KTV Altdorf
-C
-PhilippeSchenkel"2591*‡†:okBHAMJ1989RSUI-R√ºebliland OK
-<
-DanielDel Dot"2583*Ä¨:okBHAMJ1987RAUS-Bushflyers
-C
-FlorianWittwer"2601*º:okBHAMJ1989RSUI-Bucheggberger OL
->
-MatthiasStalder"2600*‡æ:okBHAMJ1995RSUI-OLG Goldau
-F
-Aliaksei	Tsitovich"2573*–œ:okBHAMJ1982RBLR-C.O. Aget Lugano
 ?
 HannesAmport"2598*∞‚:okBHAMJ1992RSUI-OL Regio Olten
 I
@@ -3829,6 +3820,18 @@ I
 1ò!
 <
 DenisFuger"2568*†ä:mpBHAMJ1991RSUI-OL Zimmerberg
+D
+FlorianWittwer"2601*º:dnsBHAMJ1989RSUI-Bucheggberger OL
+=
+DanielDel Dot"2583*Ä¨:dnsBHAMJ1987RAUS-Bushflyers
+G
+Aliaksei	Tsitovich"2573*–œ:dnsBHAMJ1982RBLR-C.O. Aget Lugano
+D
+PatrickW√ºrsten"2581*êõ:dnsBHAMJ1999RSUI-OLG KTV Altdorf
+D
+PhilippeSchenkel"2591*‡†:dnsBHAMJ1989RSUI-R√ºebliland OK
+?
+MatthiasStalder"2600*‡æ:dnsBHAMJ1995RSUI-OLG Goldau
 X
 	ChristophMeier"2489*Äù2¨:okBHEJ1993RSUI-OLV BasellandZ
 1ÎZ
@@ -4004,9 +4007,10 @@ Y
 	AlexanderKlessen"2474*†∆2ê*:okBHEJ1990RGER-Berliner TSCZ
 1ÑZ
 2·)
-I
+S
 YosukeYagami"2448*†’:okBHEJ1983RJPN-Tokiwa SorinkaiZ
-1ç
+1çZ
+2Ò,
 G
 GeunheeHong"2478*¿‡:okBHEJ1986RKOR-Korea O-loversZ
 1ã
@@ -4167,11 +4171,11 @@ P
 `
 Nora SophieGraasb√∏l √òdum"1072*ú∞2ê3:okBD12J2008RDEN-OK √òst  Birker√∏dZ
 1…2
-B
-	MagdalenaLerjen"1081*îÌ:okBD12J2008RSUI-UBOLZ
-1à
 ?
 MiaoqiLiang"1069*ºË:okBD12J2009RCHN-Chu Jiao O Club
+B
+	MagdalenaLerjen"1081*îÌ:mpBD12J2008RSUI-UBOLZ
+1à
 D
 JustineHamel"1136*ºù2©:okBD14J2005RSUI-ANCOZ
 1ˆ
@@ -4340,16 +4344,16 @@ B√ºtikofer"1132*‹®2Ì":okBD14J2006RSUI-ol.biel.seelandZ
 H
 AnnaZbinden"1133*å£2ú%:okBD14J2006RSUI-ol norskaZ
 1’$
+5
+VivianeDick"1086*¸ï:dnsBD14J2005RSUI-UBOL
+?
+NoeliaM√ºller"1119*¨ê:dnsBD14J2006RSUI-thurgorienta
 8
-SamiraMeier"1118*Ãå:okBD14J2006RSUI-OLG Thun
->
-NoeliaM√ºller"1119*¨ê:okBD14J2006RSUI-thurgorienta
-4
-VivianeDick"1086*¸ï:okBD14J2005RSUI-UBOL
-@
-Salome	Haldimann"1110*úŒ:okBD14J2005RSUI-OL Regio Wil
-7
-AnoukZahnd"1123*å–:okBD14J2006RSUI-OLG Thun
+AnoukZahnd"1123*å–:dnsBD14J2006RSUI-OLG Thun
+9
+SamiraMeier"1118*Ãå:dnsBD14J2006RSUI-OLG Thun
+A
+Salome	Haldimann"1110*úŒ:dnsBD14J2005RSUI-OL Regio Wil
 =
 LucieMaier"1543*¸‡2á:okBDBJ1978RSUI-Z
 1¿
@@ -4509,45 +4513,45 @@ I
 M
 MariannaSempert"1511*à…2ê8:okBDBJ1958RSUI-OLG CordobaZ
 1î7
-C
-NathalieSokoloff"1490*¯¨:okBDBJ1968RSUI-St√§fa-Kapreolo
-D
-VerenaSch√∂nenberger"1517*Äª:okBDBJ1957RSUI-OL Regio Wil
-L
-Anne Grethe	Gustavsen"1525*ËΩ:okBDBJ1963RNOR-Nittedal Orientering
-;
-BrigitHumbel"1508*†∆:okBDBJ1955RSUI-OLG Cordoba
->
-YvonneDeuber"1512*‘«:okBDBJ1978RSUI-OLC Winterthur
->
-DanielaH√§usler"1518*À:okBDBJ1983RSUI-OLG Huttwil
-B
-BrigitteEppenberger"1516*§Õ:okBDBJ1965RSUI-OLG Cordoba
 =
 MarianneKohler"1521*ÿŒ:okBDBJ1967RSUI-OLG Huttwil
 A
 MarianneEichenberger"1523*å–:okBDBJ1956RSUI-OLG Basel
 ;
 HelleFolke"1552*ê◊:okBDBJ1980RDEN-S√∏ller√∏d OK
-G
-Lisbeth S√∏g√•rdJensen"1554*¨€:okBDBJ1961RDEN-S√∏ller√∏d OK
 >
 LouiseSchytte"1550*»ﬂ:okBDBJ1967RDEN-S√∏ller√∏d OK
-B
-DianneSearle"1548*ÄË:okBDBJ1944RAUS-Bendigo Orienteers
 7
 NaWu"1551*¥È:okBDBJ1979RCHN-Chu Jiao O Club
 :
 KatrinKruysse"1555*ËÍ:okBDBJ1968RSUI-OLK Argus
 C
 LuciaSchnyder"1558*úÏ:okBDBJ2002RSUI-OLC Omstr√∂m Sense
-@
-MonikaBryner-Walser"1553*–Ì:okBDBJ1960RSUI-OLK Argus
 0
 ErikaSchmutz"1541*‰„:mpBDBJ1959RSUI-
 H
 	ElisabethStucki"1544*‹’:mpBDBJ1956RSUI-OLG OberwilZ
 1ø'
+A
+MonikaBryner-Walser"1553*–Ì:dnsBDBJ1960RSUI-OLK Argus
+H
+Lisbeth S√∏g√•rdJensen"1554*¨€:dnsBDBJ1961RDEN-S√∏ller√∏d OK
+M
+Anne Grethe	Gustavsen"1525*ËΩ:dnsBDBJ1963RNOR-Nittedal Orientering
+E
+VerenaSch√∂nenberger"1517*Äª:dnsBDBJ1957RSUI-OL Regio Wil
+C
+BrigitteEppenberger"1516*§Õ:dnsBDBJ1965RSUI-OLG Cordoba
+D
+NathalieSokoloff"1490*¯¨:dnsBDBJ1968RSUI-St√§fa-Kapreolo
+?
+YvonneDeuber"1512*‘«:dnsBDBJ1978RSUI-OLC Winterthur
+<
+BrigitHumbel"1508*†∆:dnsBDBJ1955RSUI-OLG Cordoba
+?
+DanielaH√§usler"1518*À:dnsBDBJ1983RSUI-OLG Huttwil
+C
+DianneSearle"1548*ÄË:dnsBDBJ1944RAUS-Bendigo Orienteers
 N
 JennyBourne"1997*êå2∏:okBD65J1954RAUS-Eureka VictoriaZ
 1˙
@@ -4650,27 +4654,15 @@ L
 S
 DorienKruithof"2032*¯¨2‚6:okBD65J1949RSUI-CO Lausanne-JoratZ
 1È5
-B
-BeatriceBombeli"1996*åÖ:okBD65J1954RSUI-OLG Pf√§ffikon
-:
-RuthSchmid"2020*ƒú:okBD65J1952RNOR-OL Trollelg
-:
-CarmenBlank"2031*§Ø:okBD65J1954RSUI-OLG Goldau
 8
 Maria
 S√£o Jo√£o"2009*∏“:okBD65J1953RPOR-CLAC
 B
 MonikaKrummenacher"2021*ê◊:okBD65J1951RSUI-OLG Oberwil
 =
-K√§theHofmann"2027*Ë€:okBD65J1950RSUI-OLG Oberwil
-=
 RosmarieM√ºller"2013*îﬁ:okBD65J1951RSUI-OLG Basel
 @
 BrigitteSchaller"2023*¿‡:okBD65J1952RSUI-OLG Oberwil
->
-MargritMichel"2024*Ï‚:okBD65J1952RSUI-OLG Welsikon
-;
-DorisSchlup"2025*òÂ:okBD65J1951RSUI-OLG Oberwil
 B
 Lisbeth	Damsgaard"2028*ƒÁ:okBD65J1950RDEN-S√∏ller√∏d OK
 2
@@ -4683,6 +4675,18 @@ J
 R
 Lotta	M√§√§tt√§"2018*¿ï:mpBD65J1953RFIN-Kouvolan SuunnistajatZ
 1√6
+<
+DorisSchlup"2025*òÂ:dnsBD65J1951RSUI-OLG Oberwil
+>
+K√§theHofmann"2027*Ë€:dnsBD65J1950RSUI-OLG Oberwil
+;
+RuthSchmid"2020*ƒú:dnsBD65J1952RNOR-OL Trollelg
+;
+CarmenBlank"2031*§Ø:dnsBD65J1954RSUI-OLG Goldau
+C
+BeatriceBombeli"1996*åÖ:dnsBD65J1954RSUI-OLG Pf√§ffikon
+?
+MargritMichel"2024*Ï‚:dnsBD65J1952RSUI-OLG Welsikon
 L
 MariaLuder"2066*º 2’:okBD70J1947RSUI-OLV HindelbankZ
 1í
@@ -4761,11 +4765,6 @@ M
 M
 RenateWaser"2055*†ô2”2:okBD70J1949RSUI-OLK RafzerfeldZ
 1˝0
-E
-Seija
-Hurskainen"2047*¥è:okBD70J1945RFIN-Valkeakosken Haka
-<
-MargaretDearman"2052*∞¶:okBD70J1949RGBR-Moravian
 >
 EllenThisted"2063*îﬁ:okBD70J1946RDEN-S√∏ller√∏d OK
 5
@@ -4777,6 +4776,11 @@ G
 Moosberger"2056*ÄË:okBD70J1946RSUI-OLV Zug
 B
 ClaudiaZiegler"2035*§Î:okBD70J1949RSUI-OLG Biberist SO
+=
+MargaretDearman"2052*∞¶:dnsBD70J1949RGBR-Moravian
+F
+Seija
+Hurskainen"2047*¥è:dnsBD70J1945RFIN-Valkeakosken Haka
 U
 SharonCrawford"2068*‘«2¨:okBD75J1944RUSA-RMOC Rocky MountainZ
 1–
@@ -4811,14 +4815,6 @@ X
 F
 	ElisabethVogel"2076*îﬁ:okBD75J1942RSUI-OLG BaselZ
 1Å#
-6
-PatriciaHart"2075*Ñï:okBD75J1943R	GBR-SARUM
-B
-MariaAmmann"2082*Ù•:okBD75J1943RSUI-OLC Omstr√∂m Sense
-8
-MaijaJansone"2084*î±:okBD75J1944RLAT-Seniors
-I
-MargritBickel"2079*‰„:okBD75J1940RSUI-OLV Zug / OLG S√§uliamt
 G
 	ChristineBraun"2067*Ñ¬:mpBD75J1943RSUI-OLV LuzernZ
 1ê)
@@ -4828,6 +4824,14 @@ G
 B
 DorlyMerz"2070*ƒ˛:mpBD75J1943RSUI-OLG KakowaZ
 1û
+C
+MariaAmmann"2082*Ù•:dnsBD75J1943RSUI-OLC Omstr√∂m Sense
+J
+MargritBickel"2079*‰„:dnsBD75J1940RSUI-OLV Zug / OLG S√§uliamt
+7
+PatriciaHart"2075*Ñï:dnsBD75J1943R	GBR-SARUM
+9
+MaijaJansone"2084*î±:dnsBD75J1944RLAT-Seniors
 I
 BernhardBieri"2093*‚æ2î:okBH10J2009RSUI-OLG SuhrZ
 1÷
@@ -5131,8 +5135,6 @@ F
 H
 JanSuwald"2157*Ù“2«$:okBH12J2007RSUI-OLG CordobaZ
 1Ë#
-:
-JoelHolinger"2161*§‹:okBH12J2007RSUI-OLG Basel
 E
 OttoPeltola"2186*î¢:mpBH12J2007RFIN-Bemb√∂le OKZ
 1˝
@@ -5152,6 +5154,8 @@ Wittenberg"2160*§Õ:mpBH12J2008RSUI-OL Regio WilZ
 F
 JonasLudwig"2158*‰‘:mpBH12J2007RSUI-OL Regio WilZ
 1ı
+;
+JoelHolinger"2161*§‹:dnsBH12J2007RSUI-OLG Basel
 M
 Jan	Leisinger"2247*†ô2“:okBH14J2005RSUI-OLG S√§uliamtZ
 1ü
@@ -5346,14 +5350,6 @@ S
 T
 LaurinEugster"2226*úí2¯,:okBH14J2006RSUI-OLG St. Gallen/App.Z
 1¥,
-G
-GeorgeMartin"2223*Ëê:okBH14J2005RGBR-Cleveland Orienteering
-D
-Livio MatteoM√ºller"2251*û:okBH14J2005RSUI-thurgorienta
-;
-OleBaath"2272*Ù•:okBH14J2006RGER-TSV Jetzendorf
-?
-ValentinSeibel"2274*Ñ¬:okBH14J2006RSUI-OLG Hondrich
 A
 TobiasSteinlin"2230*å–:okBH14J2006RSUI-OLC Winterthur
 ;
@@ -5364,6 +5360,14 @@ L
 E
 LuukasL√§nsivuori"2246*‘ö:mpBH14J2005R	GER-RaKaSZ
 1¸
+H
+GeorgeMartin"2223*Ëê:dnsBH14J2005RGBR-Cleveland Orienteering
+<
+OleBaath"2272*Ù•:dnsBH14J2006RGER-TSV Jetzendorf
+E
+Livio MatteoM√ºller"2251*û:dnsBH14J2005RSUI-thurgorienta
+@
+ValentinSeibel"2274*Ñ¬:dnsBH14J2006RSUI-OLG Hondrich
 G
 
 KonstantinKunckel"2281*‡æ2Ê:okBH16J2003RGER-Team Sachsen
@@ -5537,27 +5541,10 @@ Q
 1˘%
 @
 DaniBienz"2304*‹ä2Ω&:okBH16J2004RSUI-OLG S√§uliamt
-<
-ArttuPeltola"2335*Ãõ:okBH16J2003RFIN-Bemb√∂le OK
-=
-JakubMilan"2321*à´:okBH16J2004RCZE-KOS TESLA BRNO
-A
-SimonNussbaum"2329*§Ø:okBH16J2003RSUI-ol.biel.seeland
->
-J√©r√¥me	Tschenett"2350*ò«:okBH16J2004RSUI-OLG Chur
 8
 JontyGoodwin"2300*àÿ:okBH16J2003RGBR-WCOC UK
-C
-Mathias
-Buchgreitz"2319*⁄:okBH16J2003RDEN-S√∏ller√∏d OK
 6
 DoronMohel"2315*êÊ:okBH16J2004RSUI-OLV Zug
-/
-OferMeirov"2316*ƒÁ:okBH16J2003RISR-
-@
-	ChristianWyss"2354*¨Í:okBH16J2003RSUI-OLV Langenthal
-E
-FlurinSchnyder"2352*‡Î:okBH16J2003RSUI-OLC Omstr√∂m Sense
 ;
 TimHofer"2351*îÌ:okBH16J2004RSUI-OLV Langenthal
 J
@@ -5572,6 +5559,23 @@ N
 @
 Andr√°sCsontos"2325*¿‡:mpBH16J2003RHUN-BSCZ
 1¥
+=
+ArttuPeltola"2335*Ãõ:dnsBH16J2003RFIN-Bemb√∂le OK
+0
+OferMeirov"2316*ƒÁ:dnsBH16J2003RISR-
+A
+	ChristianWyss"2354*¨Í:dnsBH16J2003RSUI-OLV Langenthal
+?
+J√©r√¥me	Tschenett"2350*ò«:dnsBH16J2004RSUI-OLG Chur
+F
+FlurinSchnyder"2352*‡Î:dnsBH16J2003RSUI-OLC Omstr√∂m Sense
+D
+Mathias
+Buchgreitz"2319*⁄:dnsBH16J2003RDEN-S√∏ller√∏d OK
+B
+SimonNussbaum"2329*§Ø:dnsBH16J2003RSUI-ol.biel.seeland
+>
+JakubMilan"2321*à´:dnsBH16J2004RCZE-KOS TESLA BRNO
 M
 TimAttinger"2443*Ãõ2ò:okBH20BJ2002RSUI-OL ZimmerbergZ
 1Ï
@@ -5809,15 +5813,11 @@ Wittenberg"2649*ËΩ2»):okBHAKJ1966RSUI-OL Regio WilZ
 Q
 StephanEppenberger"2639*‘«2ì4:okBHAKJ1962RSUI-OLG CordobaZ
 1†3
-H
-Martin
-Oberholzer"2637*»î:okBHAKJ1980RSUI-OLG St. Gallen/App.
->
-PhilippSpring"2661*¥û:okBHAKJ1984RSUI-thurgorienta
+O
+StefanSchnyder"2685*îÌ:okBHAKJ1968RSUI-OLC Omstr√∂m SenseZ
+1à
 @
 MichaelDooley"2690*‡Î:okBHAKJ1998RSUI-OLV Langenthal
-E
-StefanSchnyder"2685*îÌ:okBHAKJ1968RSUI-OLC Omstr√∂m Sense
 N
 Silas SchytteOlsen"2678*Ë€:mpBHAKJ1999RDEN-S√∏ller√∏d OKZ
 1ô
@@ -5833,6 +5833,11 @@ I
 1∂
 H
 JannikRichter"2686*‘©:mpBHAKJ1993RGER-Turn-Klubb zu Hannover
+I
+Martin
+Oberholzer"2637*»î:dnsBHAKJ1980RSUI-OLG St. Gallen/App.
+?
+PhilippSpring"2661*¥û:dnsBHAKJ1984RSUI-thurgorienta
 G
 NandoDocci"2712*‡ë2Ø:okBHBJ1990RSUI-OLG KakowaZ
 1Û
@@ -5940,12 +5945,6 @@ L
 J
 RainerFriesch"2708*àç2ó):okBHBJ1965RSUI-OLG St√§faZ
 1◊(
->
-	ChristophGut"2713*‰ò:okBHBJ1959RGER-TV Zizenhausen
-9
-TheoKurzen"2726*Ñ—:okBHBJ1964RSUI-OLG Huttwil
-<
-AntonHusner"2735*¥⁄:okBHBJ1953RSUI-OLK Wiggertal
 4
 D√°vidHarmath"2741*êÊ:okBHBJ1998RHUN-BSC
 .
@@ -5958,6 +5957,12 @@ J
 J
 BjornFriestad"2743*≠:mpBHBJ1959RNOR-Kristiansand OKZ
 1∏#
+=
+AntonHusner"2735*¥⁄:dnsBHBJ1953RSUI-OLK Wiggertal
+?
+	ChristophGut"2713*‰ò:dnsBHBJ1959RGER-TV Zizenhausen
+:
+TheoKurzen"2726*Ñ—:dnsBHBJ1964RSUI-OLG Huttwil
 I
 MilanBily"2921*ºŸ2°:okBH45KJ1970RCZE-OK RakovnikZ
 1Í
@@ -6066,10 +6071,6 @@ A
 G
 LarsMunktved"2936*òÂ:okBH45KJ1969RDEN-Aller√∏d OKZ
 1ç
-A
-	ChristophMeyer"2903*êå:okBH45KJ1972RSUI-OL Zimmerberg
-J
-NicholasMartin"2908*†®:okBH45KJ1970RGBR-Cleveland Orienteering
 ?
 MatthiasHolinger"2922*¿‡:okBH45KJ1973RSUI-OLG Basel
 =
@@ -6082,6 +6083,10 @@ F
 E
 UrsHirt"2923*‰‘:mpBH45KJ1968RSUI-OLG RymenzburgZ
 1˙(
+B
+	ChristophMeyer"2903*êå:dnsBH45KJ1972RSUI-OL Zimmerberg
+K
+NicholasMartin"2908*†®:dnsBH45KJ1970RGBR-Cleveland Orienteering
 N
 VeikkoBaath"3191*úø2Ñ:okBH55KJ1964RGER-TSV JetzendorfZ
 1Ã
@@ -6175,16 +6180,16 @@ K
 Q
 LeonhardCapeder"3168*Ïó2â*:okBH55KJ1945RSUI-OL ZimmerbergZ
 1•)
-D
-WernerArnet"3160*‰â:okBH55KJ1954RSUI-OLG Herzogenbuchsee
-?
-MarcoRancan"3159*Ñï:okBH55KJ1963RSUI-OLG Pf√§ffikon
 ?
 	ChristophK√ºndig"3187*ÃÊ:okBH55KJ1960RSUI-OLK Argus
 :
 HermannH√ºni"3183*å–:mpBH55KJ1959RSUI-OLG Thun
 D
 J√∂rgKrummenacher"3166*Ãå:mpBH55KJ1951RSUI-OL Zimmerberg
+@
+MarcoRancan"3159*Ñï:dnsBH55KJ1963RSUI-OLG Pf√§ffikon
+E
+WernerArnet"3160*‰â:dnsBH55KJ1954RSUI-OLG Herzogenbuchsee
 R
 FelixB√ºchi"3242*òö2¯:okBH60J1956RSUI-OLG St. Gallen/App.Z
 1Ω
@@ -6221,6 +6226,9 @@ O
 J
 WilliM√ºller"3277*»£2å:okBH60J1955RSUI-bussola okZ
 1∆
+J
+RolandGyssler"3302*‡Î2í:okBH60J1956RSUI-OLK ArgusZ
+1—
 R
 MarkkuH√§m√§l√§inen"3276*Äù2†:okBH60J1958RFIN-RastivarsatZ
 1€
@@ -6230,6 +6238,10 @@ T
 F
 MarkusGloor"3290*êÊ2‚:okBH60J1957RSUI-OLV ZugZ
 1•
+M
+Petter
+Gullikstad"3298*ËÍ2Á:okBH60J1959RNOR-R√∂ros ILZ
+1©
 O
 AdrianKaiser"3228*ÿÉ2û:okBH60J1958RSUI-OLG Biberist SOZ
 1‰
@@ -6451,34 +6463,6 @@ R
 FredrikHolmgren"3238*¯é2Í4:okBH60J1956RSWE-Bergn√§sets AIKZ
 1∆3
 E
-RolandGyssler"3302*‡Î:okBH60J1956RSUI-OLK ArgusZ
-1—
-H
-Petter
-Gullikstad"3298*ËÍ:okBH60J1959RNOR-R√∂ros ILZ
-1©
-A
-GuidoRhyn"3227*¿Ü:okBH60J1957RSUI-OLG Herzogenbuchsee
-9
-MarkusRutz"3222*Äé:okBH60J1959RSUI-OLG St√§fa
-A
-Thorkild RahbekJepsen"3231*‡ë:okBH60J1954RDEN-OK West
-:
-MartinRathgeb"3285*–¢:okBH60J1956RSUI-OLG Thun
-<
-J√ºrgHartmann"3203*ò∏:okBH60J1951RSUI-OLV Luzern
-;
-ErwinStalder"3201*Äª:okBH60J1956RSUI-OLV Luzern
-?
-R√©my
-Steinegger"3264*ÄŸ:okBH60J1957RSUI-GOLD Savosa
-<
-C√§sarScherrer"3269*Ë€:okBH60J1956RSUI-OLG Basel
-A
-HerbertB√ºhl"3294*ÿ›:okBH60J1956RSUI-OLG Schaffhausen
-D
-Joachim	Friessnig"3305*∞‚:okBH60J1958RAUT-OC F√ºrstenfeld
-E
 NorihitoIgarashi"3296*ÄË:okBH60J1957RJPN-Yokohama OL Club
 @
 MarcelLustenberger"3299*¯Ë:okBH60J1958RSUI-OLK Argus
@@ -6493,8 +6477,29 @@ Q
 Gregers Helge
 J√∏rgensen"3252*∏á:mpBH60J1957RDEN-Ballerup OKZ
 1µ
+<
+ErwinStalder"3201*Äª:dnsBH60J1956RSUI-OLV Luzern
+B
+Thorkild RahbekJepsen"3231*‡ë:dnsBH60J1954RDEN-OK West
+@
+R√©my
+Steinegger"3264*ÄŸ:dnsBH60J1957RSUI-GOLD Savosa
 ;
 HansKohler"3270*–ﬁ:dnsBH60J1956RSUI-OLG Huttwil
+E
+Joachim	Friessnig"3305*∞‚:dnsBH60J1958RAUT-OC F√ºrstenfeld
+;
+MartinRathgeb"3285*–¢:dnsBH60J1956RSUI-OLG Thun
+B
+HerbertB√ºhl"3294*ÿ›:dnsBH60J1956RSUI-OLG Schaffhausen
+B
+GuidoRhyn"3227*¿Ü:dnsBH60J1957RSUI-OLG Herzogenbuchsee
+=
+C√§sarScherrer"3269*Ë€:dnsBH60J1956RSUI-OLG Basel
+=
+J√ºrgHartmann"3203*ò∏:dnsBH60J1951RSUI-OLV Luzern
+:
+MarkusRutz"3222*Äé:dnsBH60J1959RSUI-OLG St√§fa
 A
 AlainJuan"3393*∞¶2æ:okBH65J1953RSUI-ANCOZ
 1Å
@@ -6640,6 +6645,9 @@ Wyatt-Mair"3319*º2ﬂ#:okBH65J1954RUSA-Bay Area Orienteering Z
 E
 HansGalli"3390*Ã™2ú$:okBH65J1951RSUI-OLG BernZ
 1«#
+A
+MarkusHofmann"3376*ú›2º$:okBH65J1954RSUI-Z
+1Á#
 T
 ErichBrauchli"3346*åî2ñ%:okBH65J1951RSUI-OLG St. Gallen/App.Z
 1∆$
@@ -6675,23 +6683,11 @@ M
 L
 OssiGander"3332*‘ã2Ä6:okBH65J1951RSUI-OLG Pf√§ffikonZ
 1ö5
-<
-MarkusHofmann"3376*ú›:okBH65J1954RSUI-Z
-1Á#
-<
-UrsH√§nni"3314*Ã˝:okBH65J1954RSUI-OLV Langenthal
-9
-EddieHarwood"3366*¸§:okBH65J1952RGBR-Moravian
-6
-Marc	Ceulemans"3322*§æ:okBH65J1953RBEL-TROL
 8
-PeterAndres"3327*¿¬:okBH65J1954RSUI-OLG Chur
+UeliBieri"3374*Ñ‡:okBH65J1954RSUI-Z
+1Å"
 :
 HansWidmer"3375*Ë€:okBH65J1954RSUI-OLG Oberwil
-:
-HansStucki"3377*–ﬁ:okBH65J1954RSUI-OLG Oberwil
-.
-UeliBieri"3374*Ñ‡:okBH65J1954RSUI-
 B
 WolfgangKrause"3379*∏·:okBH65J1952RGER-SVW Quedlinburg
 E
@@ -6717,6 +6713,16 @@ O
 P
 FranzKarrer"3386*¥≠:mpBH65J1952RSUI-OLG Laufental-ThiersteZ
 1´
+9
+PeterAndres"3327*¿¬:dnsBH65J1954RSUI-OLG Chur
+7
+Marc	Ceulemans"3322*§æ:dnsBH65J1953RBEL-TROL
+;
+HansStucki"3377*–ﬁ:dnsBH65J1954RSUI-OLG Oberwil
+:
+EddieHarwood"3366*¸§:dnsBH65J1952RGBR-Moravian
+=
+UrsH√§nni"3314*Ã˝:dnsBH65J1954RSUI-OLV Langenthal
 H
 TorTr√∏an"3419*†ä2å:okBH70J1949RNOR-Hadeland OLZ
 1»
@@ -6879,30 +6885,9 @@ M
 Ren√©M√ºller"3437*¥û2î0:okBH70J1949RSUI-OLG S√§uliamtZ
 1 .
 >
-RichardPortmann"3394*Äˇ:okBH70J1947RSUI-OLV Luzern
->
-PhilippHuguenin"3410*îÑ:okBH70J1947RSUI-OLG Kakowa
-3
-BrianHart"3430*¥è:okBH70J1945R	GBR-SARUM
-:
-NickGm√ºr"3414*Ëê:okBH70J1949RSUI-OLC Kapreolo
-<
-Heinz
-M√ºhlemann"3445*»î:okBH70J1947RSUI-OLG Thun
-9
-ToniBrauchle"3481*à´:okBH70J1948RSUI-OLG Bern
-9
-JosefBlank"3475*®∂:okBH70J1949RSUI-OLG Goldau
-:
-UrsSchmutz"3409*‘∏:okBH70J1948RSWE-Leksands OK
-;
-ViktorMeier"3424*Ä :okBH70J1947RSUI-OLG Cordoba
->
 BrunoRigert"3436*¥À:okBH70J1946RSUI-Freaks OLV Zug
 :
 ChrisHirt"3457*†’:okBH70J1945RSUI-OLG Welsikon
-?
-PietroWinteler"3455*‡‹:okBH70J1948RSUI-OLG Welsikon
 =
 WalterSchn√ºriger"3451*Ù·:okBH70J1945RSUI-OLV Zug
 :
@@ -6936,6 +6921,27 @@ FRA-O Jura
 B
 GeorgLeumann"3416*‘ã:mpBH70J1948RSUI-AllegraZ
 1˜
+?
+PhilippHuguenin"3410*îÑ:dnsBH70J1947RSUI-OLG Kakowa
+;
+UrsSchmutz"3409*‘∏:dnsBH70J1948RSWE-Leksands OK
+:
+ToniBrauchle"3481*à´:dnsBH70J1948RSUI-OLG Bern
+?
+RichardPortmann"3394*Äˇ:dnsBH70J1947RSUI-OLV Luzern
+=
+Heinz
+M√ºhlemann"3445*»î:dnsBH70J1947RSUI-OLG Thun
+;
+NickGm√ºr"3414*Ëê:dnsBH70J1949RSUI-OLC Kapreolo
+4
+BrianHart"3430*¥è:dnsBH70J1945R	GBR-SARUM
+:
+JosefBlank"3475*®∂:dnsBH70J1949RSUI-OLG Goldau
+<
+ViktorMeier"3424*Ä :dnsBH70J1947RSUI-OLG Cordoba
+@
+PietroWinteler"3455*‡‹:dnsBH70J1948RSUI-OLG Welsikon
 J
 	HansruediBrand"3484*‹®2Ï:okBH75J1941RSUI-OLG BernZ
 1°
@@ -7046,8 +7052,6 @@ Freiermuth"3501*Ã◊:okBH75J1942RSUI-OLG BaselZ
 C
 
 Jens AarisThisted"3523*–ﬁ:okBH75J1944RDEN-S√∏ller√∏d OK
-?
-Arne	Gr√∏ndahl"3516*‘Â:okBH75J1943RDEN-S√∏ller√∏d OK
 >
 Ruedi	Pletscher"3518*ÄË:okBH75J1943RSUI-OLV Z√ºrich
 ;
@@ -7060,6 +7064,8 @@ N
 E
 PieterMulder"3525*å≤:mpBH75J1940RSUI-OLG GoldauZ
 1⁄?
+@
+Arne	Gr√∏ndahl"3516*‘Â:dnsBH75J1943RDEN-S√∏ller√∏d OK
 G
 RodrigoSlavins"3555*–±2⁄:okBH80J1939R	LAT-OzonsZ
 1Ä
@@ -7111,16 +7117,8 @@ V
 I
 AdolfKempf"3539*∞ó2∑6:okBH80J1926RSUI-KTV AltdorfZ
 1ó5
-8
-HansRegli"3536*–ì:okBH80J1937RSUI-OLG St√§fa
-<
-FritzMaurer"3538*≠:okBH80J1935RSUI-OLC Kapreolo
 L
 Eberhard	Lemnitzer"3560*À:okBH80J1937RGER-Kaulsdorfer OLV Berlin
-9
-KalninsAndris"3558*–œ:okBH80J1938RLAT-Seniors
-=
-AlbertOehy"3544*∞‚:okBH80J1938RSUI-OLC Winterthur
 >
 ValentinHumbel"3545*È:okBH80J1931RSUI-OLG Cordoba
 H
@@ -7133,6 +7131,14 @@ O
 G
 OthmarSauter"3547*ê◊:mpBH80J1933RSUI-OL Regio WilZ
 1¿$
+9
+HansRegli"3536*–ì:dnsBH80J1937RSUI-OLG St√§fa
+:
+KalninsAndris"3558*–œ:dnsBH80J1938RLAT-Seniors
+=
+FritzMaurer"3538*≠:dnsBH80J1935RSUI-OLC Kapreolo
+>
+AlbertOehy"3544*∞‚:dnsBH80J1938RSUI-OLC Winterthur
 e(Karanov Anton + Alexey Ufimtsev + Kristi"5047* ú2¸:okBCSJ0RRUS-kayak-school.ruZ
 1¿
 D
@@ -7317,13 +7323,14 @@ F
 C
 RichardGoodwin"5014*≠’:okBCSJ1957RGBR-WCOC UKZ
 1∞
+I
+Ruth
+Emmenegger"7070*¥‚:okBCSJ1968RSUI-OLK WiggertalZ
+1‹
 F
 RiittaVainio"5001*®∆:okBCSJ1958RFIN-Turun Mets√§nk√§vij√§t
 F
 EliseKennedy"5036*”–:okBCSJ1974RAUS-Bennelong Northside Or
-?
-Ruth
-Emmenegger"7070*¥‚:okBCSJ1968RSUI-OLK Wiggertal
 4
 JuliaDalgren"5002:okBCSJ1985RSWE-Centrum OK
 6
@@ -8073,9 +8080,6 @@ N
 Stefan
 Birchmeier"5151*é¬2˜3:okBHSJ1958RSUI-OLG CordobaZ
 1ù2
-H
-Anne	M. Jensen"5187*œﬂ:okBHSJ1968RDEN-S√∏ller√∏d OKZ
-1å!
 ;
 AsgerFolke"5185*õ◊:okBHSJ2011RDEN-S√∏ller√∏d OK
 <
@@ -8092,12 +8096,17 @@ H
 MajaSchorta"5180:okBHSJ1937RSUI-
 9
 UlrichStreit"5188:okBHSJ1938RSUI-ol.biel.seeland
+7
+IsabelThalmann"5229:okBHSJ1970RSUI-OLG Z√ºrich
 J
 MartinaKrause"5183*í–:mpBHSJ1956RGER-SVW QuedlinburgZ
 1´.
 D
 KarinBrunner"5164*ã¨:mpBHSJ1959RSUI-bussola okZ
 1• 
+H
+Anne	M. Jensen"5187*œﬂ:mpBHSJ1968RDEN-S√∏ller√∏d OKZ
+1å!
 >
 	ElisabethEnggist"7351*Ëø:mpBHSJ1952RSUI-Z
 1î(
@@ -8107,8 +8116,6 @@ Isteiger louis  k√§thy & richi"7191*ˆû:mpBHSJ0RSUI-OLV Baselland
 E
 C√©cileBrem"7245*≈‡:mpBHSJ1946RSUI-OLG WelsikonZ
 1‚
-8
-IsabelThalmann"5229:dnsBHSJ1970RSUI-OLG Z√ºrich
 V(Zesiger Carola + Louise + Annasofia + Th"7261*¢©2∂:okBHLJ0RSUI-Z
 1Ä
 F
@@ -8198,4 +8205,4 @@ B
 1¢R
 ;
 MichelRegamey"7235*√ˇ:mpBHLJ1946RSUI-Z
-1¯Bõ
+1¯Bú
