@@ -459,9 +459,6 @@ M
 P
 PatriziaSieber"1175*Ø°2Ä:okBD16J2003RSUI-OLC WinterthurZ
 1¦
-P
-	Lea-GioiaGloor"1163*ˆÉ2Ý:okBD16J2003RSUI-OLG PfÃ¤ffikonZ
-1Á
 N
 AnnaHabegger"1180*È£2Ð:okBD16J2003RSUI-OLG RymenzburgZ
 1¹
@@ -572,6 +569,9 @@ K
 G
 Lea	StÃ¶cklin"1171*¨¶:mpBD16J2004RSUI-OLC KapreoloZ
 1Ë5
+K
+	Lea-GioiaGloor"1163*ˆÉ:aKBD16J2003RSUI-OLG PfÃ¤ffikonZ
+1Á
 >
 	EkaterinaGuseva"1200*È…:dnsBD16J2004RRUS-NORD WEST
 3
@@ -4459,12 +4459,13 @@ R
 N
 MoritzTorgau"2544*ü†2±4:okBHALJ1987RGER-TV OberbexbachZ
 1—4
->
-NoahLubasch"2546*ØÝ:okBHALJ2000RSUI-OLV Hindelbank
-;
+E
 Evgeny
 Maerkovich"2503*ˆç:okBHALJ1996R
-ISR-Carmel
+ISR-CarmelZ
+1°+
+>
+NoahLubasch"2546*ØÝ:okBHALJ2000RSUI-OLV Hindelbank
 :
 FelixBentz"2506*¬Û:dnsBHALJ1979RSUI-OLG StÃ¤fa
 A
@@ -6863,8 +6864,9 @@ F
 R
 FredrikHolmgren"3238*ÈÐ2Û@:okBH60J1956RSWE-BergnÃ¤sets AIKZ
 1ø?
-<
-ThomasMeier"3208*ˆç:okBH60J1959RSUI-OLG Wandfluh
+F
+ThomasMeier"3208*ˆç:okBH60J1959RSUI-OLG WandfluhZ
+1¯+
 9
 OthmarZemp"3205*ðé:okBH60J1958RSUI-OLV Luzern
 G
@@ -8559,4 +8561,4 @@ U(He Yaqing + Hongsong Yin + Huihong Zhang"5196:dnsBHLJ0RCHN-Learnjoy O Cl
 9
 PatriziaSeibel"5199:dnsBHLJ1973RSUI-OLG Hondrich
 3
-IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik£
+IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik¤
