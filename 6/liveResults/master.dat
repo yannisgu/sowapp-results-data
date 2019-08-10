@@ -504,11 +504,12 @@ FRA-O Jura
 A
 KimHadorn"1252*ä‰:okBD20J1999RSUI-ol norskaZ
 1©	
+?
+RosaLerf"1273*Œ…:okBD20J2000RSUI-OLG BernZ
+1Œ
 A
 MilaSaier"1254*´€:okBD20J1999RSUI-ol norskaZ
 1Ú
-5
-RosaLerf"1273*Œ…:okBD20J2000RSUI-OLG Bern
 C
 RoseRiby"1271*¼Ž:okBD20J2000RCZE-OOB TJ Lokomotiva Tepl
 ;
@@ -672,8 +673,9 @@ Maerkovich"1309*¼è:okBDALJ1996R
 ISR-Carmel
 <
 ElianaKÃ¶pfli"1308*àë:okBDALJ1986RSUI-OLV Luzern
-@
-ClaudineWeber"1344*Äþ:okBDAMJ1996RSUI-OLV Langenthal
+J
+ClaudineWeber"1344*Äþ:okBDAMJ1996RSUI-OLV LangenthalZ
+1Ö
 E
 Fabienne	Steinauer"1340*øÿ:okBDAMJ1997RSUI-ol.biel.seeland
 <
@@ -2060,8 +2062,8 @@ B
 G
 LizMulder"2085*”„2õ:okBD75J1943RSUI-OLG GoldauZ
 1Ä
-S
-Erika	Lemnitzer"2086*Äþ:okBD75J1942RGER-Kaulsdorfer OLV BerlinZ
+X
+Erika	Lemnitzer"2086*Äþ2â:okBD75J1942RGER-Kaulsdorfer OLV BerlinZ
 1ž
 8
 MaijaJansone"2084*ä‰:okBD75J1944RLAT-Seniors
@@ -2625,9 +2627,10 @@ A
 FlavioEhrler"2280*àë:okBH16J2004RSUI-OLV Luzern
 @
 	ChristianWyss"2354*”í:okBH16J2003RSUI-OLV Langenthal
-E
+O
 TobiasSterchi"2355*Ìý:okBH18J2002RSUI-ol norskaZ
-1æ
+1æZ
+2Ó
 3
 MatyasSiegl"2413*¼ÿ:okBH18J2001RCZE-MFP
 8
@@ -3750,19 +3753,21 @@ D
 H
 RobertHegi"2948*ˆþ:okBH50J1965RSUI-ol.biel.seelandZ
 1¦
+F
+GertLexen"3055*Øƒ:okBH50J1968RGER-TSV JetzendorfZ
+1á
 E
 LarsNordgren"2952*øÿ:okBH50J1967RSWE-EksjÃ¶ SOKZ
 1ï
+I
+LuziusPeter"2946*ð€:okBH50J1964RSUI-ol.biel.seelandZ
+1¾
 <
 BeatTrÃ¶sch"3060*€ÿ:okBH50J1968RSUI-OLG Hondrich
-?
-LuziusPeter"2946*ð€:okBH50J1964RSUI-ol.biel.seeland
 @
 ThomasJÃ¤ggi"2963*è:okBH50J1967RSUI-OLG Biberist SO
 @
 ClaudeRieder"2944*à‚:okBH50J1968RSUI-ol.biel.seeland
-<
-GertLexen"3055*Øƒ:okBH50J1968RGER-TSV Jetzendorf
 L
 UweBrettschneider"3052*Ð„:okBH50J1968RGER-Kaulsdorfer OLV Berlin
 E
@@ -4943,6 +4948,8 @@ HNiemi Toni + Titta + Timi"5019*ï:okBCSJ0RFIN-muurahaiskeko OK
 BeatHugi"5211*û:okBCSJ1949RSUI-OLG Oberwil
 :
 JuliaDalgren"5002*Ÿ’:okBCSJ1985RSWE-Centrum OK
+C
+FrankEdelhaeuser"5039*›“:okBCSJ1967RGER-Post SV Dresden
 ?
 Bettina KatyAndersen"5038:okBCSJ1963RDEN-SÃ¸llerÃ¸d OK
 ;
@@ -4955,8 +4962,6 @@ HNiemi Toni + Titta + Timi"5019*ï:okBCSJ0RFIN-muurahaiskeko OK
 <Bienz Susanne + Corina"5016:okBCSJ0RSUI-OLG SÃ¤uliamt
 (
 InesBisang"5034:okBCSJ1978RSUI-
-=
-FrankEdelhaeuser"5039:okBCSJ1967RGER-Post SV Dresden
 6
 	AnnemarieEglin"7155:okBCSJ1945RSUI-bussola ok
 6
@@ -5133,6 +5138,9 @@ C
 	BÃ©atriceLÃ¼tolf"5105*ò‘:okBCMJ1950RSUI-OLG Welsikon
 ;
 RenÃ©Wittwer"5106*Û’:okBCMJ1974RSUI-OLG Oberwil
+J
+Eliska
+Zejdlikova"7018*–“:okBCMJ2003RCZE-OOB TJ Lokomotiva Tepl
 9
 Kenneth	Antonsson"5107:okBCMJ1958RSWE-Vimmerby OK
 =
@@ -5306,9 +5314,6 @@ B
 MartinWeber"7160:okBCMJ1967RSUI-OLV Baselland
 +
 AdrianZehnder"5131:okBCMJ1971RSUI-
-D
-Eliska
-Zejdlikova"7018:okBCMJ2003RCZE-OOB TJ Lokomotiva Tepl
 X"Kapanen Jukka + Satu + Anna + Emma"5160*Öý2·:okBHSJ0RFIN-MS ParmaZ
 1“
 K
@@ -5320,9 +5325,9 @@ N
 ?
 BeatNussbaum"7346*™ý2¦:okBHSJ1962RSUI-Z
 1ö
-UAlthaus Julia + Marti Brigitte"5168*õÿ:okBHSJ0RSUI-OLV LangenthalZ
+ZAlthaus Julia + Marti Brigitte"5168*õÿ2§:okBHSJ0RSUI-OLV LangenthalZ
 1
-\%Althaus Kristina Sarah + Sommer Heidi"5175*ñÿ:okBHSJ0RSUI-OLV LangenthalZ
+a%Althaus Kristina Sarah + Sommer Heidi"5175*ñÿ2¸:okBHSJ0RSUI-OLV LangenthalZ
 1
 ;
 AsgerFolke"5185*Ëþ:okBHSJ2011RDEN-SÃ¸llerÃ¸d OK
@@ -5442,6 +5447,8 @@ Antoinette	Weitnauer"5184:okBHSJ1962RSUI-
 NataliaWinterberger"7231*©‘:okBHLJ1982RSUI-
 B
 Maja SchytteOlsen"5207*¢’:okBHLJ2002RDEN-SÃ¸llerÃ¸d OK
+H
+Petra	KleinovÃ¡"5208*š“:okBHLJ1975RCZE-OOB TJ Lokomotiva Tepl
 1
 DanielBechir"5197:okBHLJ1957RSUI-CO CERN
 2
@@ -5460,8 +5467,6 @@ T(He Yaqing + Hongsong Yin + Huihong Zhang"5196:okBHLJ0RCHN-Learnjoy O Clu
 9Horst Ulla + Heike"5205:okBHLJ0RGER-SC KÃ¶nigstein
 2
 RitaHug"7067:okBHLJ1963RSUI-OL Zimmerberg
-B
-Petra	KleinovÃ¡"5208:okBHLJ1975RCZE-OOB TJ Lokomotiva Tepl
 )
 ThomasMaier"5206:okBHLJ1975RSUI-
 .Meier Ruth + Matthias"5204:okBHLJ0RSUI-
@@ -5483,4 +5488,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
 )
-AndreaZingg"7846:okBHLJ1984RSUI-
+AndreaZingg"7846:okBHLJ1984RSUI-
