@@ -1294,6 +1294,9 @@ N
 G
 UrsulaWey"1686*ìˆ2“:okBD45J1971RSUI-OLG GoldauZ
 1÷
+G
+KatjaMjÃ¸sund"1682*œ’:okBD45J1971RFIN-BembÃ¶le OKZ
+1¦
 <
 MarketaPrusova"1692*¬:okBD45J1972RCZE-USK Praha
 ;
@@ -1307,8 +1310,6 @@ G
 Siri ThortveitMyhre"1683*¼Ž:okBD45J1970RNOR-Kristiansand OK
 G
 KaterinaRiby"1681*¬:okBD45J1972RCZE-OOB TJ Lokomotiva Tepl
-=
-KatjaMjÃ¸sund"1682*œ’:okBD45J1971RFIN-BembÃ¶le OK
 7
 Doris	GrÃ¼niger"1680*ü•:okBD45J1971RSUI-UBOL
 ;
@@ -1498,12 +1499,12 @@ A
 Boos-Braun"1696*¬ê:okBD45KJ1966RSUI-OLV Luzern
 A
 DianaSchmidli"1716*Øì:okBD45KJ1971RSUI-OLC Winterthur
+M
+Jarmila	Nemeckova"1818*ô‡2Ñ:okBD50J1966RCZE-USK PrahaZ
+1¦
 P
 ClaudiaRieder"1741*¼ÿ2ì:okBD50J1968RSUI-ol.biel.seelandZ
 1É
-H
-Jarmila	Nemeckova"1818*ô‡:okBD50J1966RCZE-USK PrahaZ
-1¦
 ;
 KarinFreyland"1786*ˆþ:okBD50J1966RSWE-SOK Aneby
 >
@@ -2785,13 +2786,14 @@ Z
 	JÃ©rÃ©mieWichoud"2408*ü†:okBH18J2001RSUI-CO Lausanne-JoratZ
 1ÝZ
 2ø
+N
+JakubBily"2404*œ’:okBH18J2001RCZE-OOB TJ Lokomotiva TeplZ
+1¢
 I
 LoÃ¯cBaud"2412*ÜŠ:okBH18J2002RSUI-CO Lausanne-JoratZ
 1‰
 8
 FlorinWey"2407*œƒ:okBH18J2002RSUI-OLG Goldau
-D
-JakubBily"2404*œ’:okBH18J2001RCZE-OOB TJ Lokomotiva Tepl
 >
 JanSchmuki"2402*Œ”:okBH18J2002RSUI-ol.biel.seeland
 7
@@ -3695,6 +3697,9 @@ V
 Arno	Schneider"2809*Ìý2¨:okBH45J1972RSUI-OLG CordobaZ
 1ÆZ
 2Š
+K
+RogerVogel"2877*¤‘:okBH45J1971RSUI-OLC OmstrÃ¶m SenseZ
+1
 C
 RolandasBackys"2881*ÌŒ:okBH45J1970R
 LTU-IgtisaZ
@@ -3722,8 +3727,6 @@ C
 JyrkiHaikonen"2882*Ä:okBH45J1971RFIN-Ulvilan Ura
 B
 PetrBoranek"2883*øŽ:okBH45J1970RCZE-Czech Trimtex team
-A
-RogerVogel"2877*¤‘:okBH45J1971RSUI-OLC OmstrÃ¶m Sense
 ;
 LaurentBaumgartner"2879*Œ”:okBH45J1972RSUI-UBOL
 E
@@ -3980,6 +3983,9 @@ O
 LarsNordgren"2952*øÿ:okBH50J1967RSWE-EksjÃ¶ SOKZ
 1ïZ
 2š"
+G
+MatthiasKobel"3032* ™:okBH50J1965RSUI-OLG SkandiaZ
+1Ÿ
 L
 DanielJungo"3045*øŽ:okBH50J1965RSUI-OLC OmstrÃ¶m SenseZ
 1§
@@ -4034,8 +4040,6 @@ A
 Magnus	Oscarsson"3034*¸–:okBH50J1966RDEN-SÃ¸llerÃ¸d OK
 C
 Jens AndersHansen"3028*¨˜:okBH50J1959RDEN-SÃ¸llerÃ¸d OK
-=
-MatthiasKobel"3032* ™:okBH50J1965RSUI-OLG Skandia
 ?
 AndersJonsson"3024*›:okBH50J1953RDEN-SÃ¸llerÃ¸d OK
 >
@@ -4229,6 +4233,9 @@ Q
 S
 MichaelHertin"3106*€ÿ2Ú":okBH55J1964RSWE-IK HakarpspojkarnaZ
 1¹"
+B
+DanielKobel"3069*¨‰:okBH55J1961RSUI-OLG BernZ
+1”
 <
 BretKraus"3094*ˆþ:okBH55J1961RSUI-OLC Winterthur
 7
@@ -4239,8 +4246,6 @@ A
 HansueliLocher"3153*À†:okBH55J1960RSUI-OLG Bern
 >
 Markus	Truttmann"3148*ô‡:okBH55J1963RSUI-OLG Goldau
-8
-DanielKobel"3069*¨‰:okBH55J1961RSUI-OLG Bern
 C
 IbrahimNaceur"3147* Š:okBH55J1962RSUI-CO Lausanne-Jorat
 :
@@ -5782,4 +5787,4 @@ UKR-Sirius
 5
 KÃ¤thyZbinden"5194:okBHLJ1941RSUI-OLG Kakowa
 5
-StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa9
+StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa:
