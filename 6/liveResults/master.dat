@@ -683,6 +683,9 @@ L
 CamilleJuhl"1243*¨˜2Š":okBD18J2002RDEN-SÃ¸llerÃ¸d OKZ
 1å!
 N
+Lene DorotheaNotni"1209*¬ê2´":okBD18J2002RGER-USV JenaZ
+1‘"
+N
 KatjaBolliger"1233*Ø¡2Ò":okBD18J2002RSUI-OLG KÃ¶llikenZ
 1²"
 Q
@@ -700,9 +703,6 @@ J
 K
 KajaHegi"1204*Äþ2Š7:okBD18J2002RSUI-ol.biel.seelandZ
 1Å6
-I
-Lene DorotheaNotni"1209*¬ê:okBD18J2002RGER-USV JenaZ
-1‘"
 :
 PaulaWichmann"1206*Ôå:okBD18J2001RGER-USV Jena
 :
@@ -2723,12 +2723,12 @@ R
 Margi
 Freemantle"1965*Ôš2‹&:okBD60J1957RAUS-Yarra Valley OCZ
 1Ä%
+Q
+	AlexandraWanner"1913*˜å2Å':okBD60J1958RGER-OLG SiegerlandZ
+1í&
 U
 Maria	Fekiacova"1929*ÜÕ2†*:okBD60J1958RSVK-SK VAZKA BratislavaZ
 1Ò)
-L
-	AlexandraWanner"1913*˜å:okBD60J1958RGER-OLG SiegerlandZ
-1í&
 N
 MonikaAmmann"1933*ÔÇ:mpBD60J1959RSUI-OLG St. Gallen/App.Z
 1¤
@@ -4296,13 +4296,14 @@ Z
 1š+Z
 2ñ<Z
 3âC
+Y
+ChristofRÃ¶thlisberger"2454*€è:okBHEJ1987RSUI-OLG SkandiaZ
+1»Z
+2ë$
 R
 MarvinGoericke"2480*Àà:okBHEJ1991RGER-Berliner TSCZ
 1ÞZ
 2×&
-O
-ChristofRÃ¶thlisberger"2454*€è:okBHEJ1987RSUI-OLG SkandiaZ
-1»
 J
 	AlexanderKlessen"2474*ðÚ:okBHEJ1990RGER-Berliner TSCZ
 1¼$
@@ -5425,6 +5426,10 @@ M
 SergeDudout"2862*„¤2í:okBH45J1972RFRA-COBSZ
 1°Z
 2Ì
+X
+LukasSpiess"2894*Øì2ú:okBH45J1970RSUI-ol.biel.seelandZ
+1±Z
+2Ó
 W
 OlegMaksimov"2863*¸¥2¼ :okBH45J1974RRUS-Kuzmolovo 110Z
 1½Z
@@ -5555,10 +5560,6 @@ Y
 GheorgheCionoiu"2839*„Â2ô8:okBH45J1961RGER-TV Coburg-NeusesZ
 1„/Z
 2Ë8
-S
-LukasSpiess"2894*Øì:okBH45J1970RSUI-ol.biel.seelandZ
-1±Z
-2Ó
 H
 Alvis	Lepiksons"2812*¬ê:okBH45J1971RLAT-Auseklis IKZ
 1ä
@@ -5568,8 +5569,9 @@ I
 S
 Kang KaiCheung"2818*äã:okBH45J1967RHKG-Scout Orienteering CluZ
 1²$
-C
-XiaopingTan"2830*¤Í:okBH45J1971RCHN-Learnjoy O Club  CN
+M
+XiaopingTan"2830*¤Í:okBH45J1971RCHN-Learnjoy O Club  CNZ
+1Â?
 E
 Tzs HinLui"2816*¸á:okBH45J1968RHKG-Scout Orienteering Clu
 L
@@ -8198,18 +8200,10 @@ D
 Kenneth	Antonsson"5107:okBCMJ1958RSWE-Vimmerby OK
 A
 ChristopherBayliss"5223:okBCMJ2001RGBR-wrekin orienteers
-6
-EvaBrabek"5111:okBCMJ1967RAUT-OC FÃ¼rstenfeld
-=
-MichaelaCionoiu"5084:okBCMJ1967RGER-TV Coburg-Neuses
 ;
 AnneFaivre"5078:okBCMJ1961RFRA-ACA Aix en Provence
 B
 	JaroslavaFremrova"5069:okBCMJ1979RCZE-OK Lokomotiva Plzen
-0
-BeatFrey"5088:okBCMJ1957RSUI-bussola ok
-8
-MonikaGeiser"5108:okBCMJ1957RSUI-OL Regio Olten
 7
 SonjaGerhard"5115:okBCMJ1967RGER-TGM Budenheim
 8
@@ -8265,12 +8259,20 @@ C
 BeatriceWalder"7335:dnsBCMJ1955RSUI-OLK Rafzerfeld
 3
 SimonKlaus"7043:dnsBCMJ2003RSUI-OLV Luzern
+>
+MichaelaCionoiu"5084:dnsBCMJ1967RGER-TV Coburg-Neuses
+7
+EvaBrabek"5111:dnsBCMJ1967RAUT-OC FÃ¼rstenfeld
 2
 RuditeSterna"7136:dnsBCMJ1949RLAT-Sigulda
 5
 UrsMoser"7169:dnsBCMJ1961RSUI-OLG Rymenzburg
 7
 HansMÃ¼ggler"6048:dnsBCMJ1950RSUI-OL Regio Wil
+1
+BeatFrey"5088:dnsBCMJ1957RSUI-bussola ok
+9
+MonikaGeiser"5108:dnsBCMJ1957RSUI-OL Regio Olten
 INiggli Anja + Lars"5190*á™2–	:okBHSJ0RSUI-ol norskaZ
 1ö
 S
@@ -8529,4 +8531,4 @@ T(He Yaqing + Hongsong Yin + Huihong Zhang"5196:okBHLJ0RCHN-Learnjoy O Clu
 9
 PatriziaSeibel"5199:dnsBHLJ1973RSUI-OLG Hondrich
 3
-IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik—
+IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik˜
