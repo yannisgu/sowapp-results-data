@@ -2707,6 +2707,9 @@ R
 O
 ElsbethHÃ¼nig"1911*ü†2â :okBD60J1956RSUI-OLV LangenthalZ
 1» 
+Q
+IrmaSchwarzkopf"1916*´é2Ñ!:okBD60J1955RGER-OLG SiegerlandZ
+1…!
 R
 Rita
 Pellegrini"1940*è½2÷#:okBD60J1955RSUI-C.O. Aget LuganoZ
@@ -2718,9 +2721,6 @@ Freemantle"1965*Ôš2‹&:okBD60J1957RAUS-Yarra Valley OCZ
 U
 Maria	Fekiacova"1929*ÜÕ2†*:okBD60J1958RSVK-SK VAZKA BratislavaZ
 1Ò)
-L
-IrmaSchwarzkopf"1916*´é:okBD60J1955RGER-OLG SiegerlandZ
-1…!
 B
 	AlexandraWanner"1913*˜å:okBD60J1958RGER-OLG Siegerland
 N
@@ -3717,9 +3717,6 @@ M
 J
 TimHofer"2351*¬ê2¨:okBH16J2004RSUI-OLV LangenthalZ
 1“
-M
-JÃ©rÃ´me	Tschenett"2350*¼Ù2¤:okBH16J2004RSUI-OLG ChurZ
-1ø
 E
 AndrÃ¡sCsontos"2325*„¤2Ø:okBH16J2003RHUN-BSCZ
 1º
@@ -3789,6 +3786,9 @@ E
 P
 MartinKlein"2330*ü•:mpBH16J2004RCZE-OOB TJ Lokomotiva TeplZ
 1Ä
+H
+JÃ©rÃ´me	Tschenett"2350*¼Ù:mpBH16J2004RSUI-OLG ChurZ
+1ø
 J
 SaschaBolliger"2312*Ø°:mpBH16J2004RSUI-OLG KÃ¶llikenZ
 1Ç
@@ -4290,10 +4290,11 @@ b
 1µ8Z
 2«VZ
 3™e
-L
+V
 SÃ¶renLÃ¶sch"2476* ä:okBHEJ1987RGER-USV JenaZ
 1ÑZ
-2¨!
+2¨!Z
+3Ú&
 R
 MarvinGoericke"2480*Àà:okBHEJ1991RGER-Berliner TSCZ
 1ÞZ
@@ -4602,8 +4603,8 @@ O
 G
 MarekSunda"2602*ð€2ê<:okBHAMJ1992RCZE-USK PrahaZ
 1Ç<
-F
-DenisFuger"2568*ÀÂ:okBHAMJ1991RSUI-OL ZimmerbergZ
+K
+DenisFuger"2568*ÀÂ2¯H:okBHAMJ1991RSUI-OL ZimmerbergZ
 1ÙG
 ?
 ValentinMÃ¼rner"2549*Ðí:okBHAMJ2000RSUI-OLG Skandia
@@ -5263,9 +5264,10 @@ V
 RogerEbert"2802*Äþ2œ5:okBH40J1975RGER-TSV JetzendorfZ
 1ûZ
 2ô4
-H
+R
 	SebastianPaul"2775*ØÝ:okBH40J1977RGER-Team SachsenZ
-1É
+1ÉZ
+2©-
 R
 ZhengLiang"2794*ˆœ:mpBH40J1978RCHN-Chu Jiao O ClubZ
 1„$Z
@@ -6162,6 +6164,10 @@ T
 MatthiasBaur"2950*øè:okBH50J1966RSUI-StÃ¤fa-KapreoloZ
 1¸Z
 2
+X
+Michael	Steinauer"3056*Ðí:okBH50J1964RSUI-ol.biel.seelandZ
+1 Z
+2
 Q
 JÃ¶rgHÃ¤nsel"2953*ˆç:okBH50J1969RGER-Team SachsenZ
 1¸Z
@@ -6178,9 +6184,6 @@ Q
 BeatTrÃ¶sch"3060*€ÿ:okBH50J1968RSUI-OLG HondrichZ
 1ÚyZ	
 2óˆ
-N
-Michael	Steinauer"3056*Ðí:okBH50J1964RSUI-ol.biel.seelandZ
-1 
 G
 EgonsSolmanis"2949*ðé:okBH50J1969RLAT-Auseklis IKZ
 1˜
@@ -8427,8 +8430,6 @@ C
 SilviaFuchs"5177:okBHSJ1950RSUI-OLG Galgenen
 >
 AnitaKreuz DÃ¤twyler"5153:okBHSJ1965RSUI-OLG Hondrich
->
-StefaniaPoggiati"5154:okBHSJ1962RSUI-C.O. Aget Lugano
 3
 LenaWestbom"5166:okBHSJ1951RSWE-Ockelbo OK
 A
@@ -8444,6 +8445,8 @@ A
 DortheLind"5143:dnsBHSJ1962RDEN-OK Fros
 (
 JaneWhite"7239:dnsBHSJ1942RGBR-
+?
+StefaniaPoggiati"5154:dnsBHSJ1962RSUI-C.O. Aget Lugano
 9
 Anne	M. Jensen"5187:dnsBHSJ1968RDEN-SÃ¸llerÃ¸d OK
 4
@@ -8516,4 +8519,4 @@ T(He Yaqing + Hongsong Yin + Huihong Zhang"5196:okBHLJ0RCHN-Learnjoy O Clu
 3
 RitaHug"7067:dnsBHLJ1963RSUI-OL Zimmerberg
 :
-CatrinStaudte"5201:dnsBHLJ1972RGER-OL-Team Filder“
+CatrinStaudte"5201:dnsBHLJ1972RGER-OL-Team Filder”
