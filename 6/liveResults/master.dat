@@ -502,12 +502,13 @@ FRA-O Jura
 :
 LauraEhrler"1205*Øì:okBD18J2002RSUI-OLV Luzern
 A
+KimHadorn"1252*ä‰:okBD20J1999RSUI-ol norskaZ
+1©	
+A
 MilaSaier"1254*´€:okBD20J1999RSUI-ol norskaZ
 1Ú
 5
 RosaLerf"1273*Œ…:okBD20J2000RSUI-OLG Bern
-7
-KimHadorn"1252*ä‰:okBD20J1999RSUI-ol norska
 C
 RoseRiby"1271*¼Ž:okBD20J2000RCZE-OOB TJ Lokomotiva Tepl
 ;
@@ -2056,11 +2057,12 @@ B
 MariaLuder"2066*€è:okBD70J1947RSUI-OLV Hindelbank
 >
 RosmarieGerber"2036*¤ë:okBD70J1947RSUI-OLG Skandia
-B
-LizMulder"2085*”„:okBD75J1943RSUI-OLG GoldauZ
+G
+LizMulder"2085*”„2õ:okBD75J1943RSUI-OLG GoldauZ
 1Ä
-I
-Erika	Lemnitzer"2086*Äþ:okBD75J1942RGER-Kaulsdorfer OLV Berlin
+S
+Erika	Lemnitzer"2086*Äþ:okBD75J1942RGER-Kaulsdorfer OLV BerlinZ
+1ž
 8
 MaijaJansone"2084*ä‰:okBD75J1944RLAT-Seniors
 @
@@ -3742,6 +3744,9 @@ A
 MarkusLÃ¼thi"2943*ðé:okBH45KJ1969RSUI-OLG Biberist SO
 C
 RichardSchmidli"2917*œì:okBH45KJ1974RSUI-OLC Winterthur
+D
+KaspiWipfli"3051*¸‡:okBH50J1968RSUI-OLG GoldauZ
+1Ý
 H
 RobertHegi"2948*ˆþ:okBH50J1965RSUI-ol.biel.seelandZ
 1¦
@@ -3764,8 +3769,6 @@ E
 HendrykWetzel"3053*È…:okBH50J1969RGER-SV Robotron Dresden
 F
 FrankMieske"3054*À†:okBH50J1967RGER-Kaulsdorfer OLV Berlin
-:
-KaspiWipfli"3051*¸‡:okBH50J1968RSUI-OLG Goldau
 F
 ErikSteiger"3062*¨‰:okBH50J1968RSUI-OLG Bern / OLV Basella
 A
@@ -5128,6 +5131,8 @@ C
 MartinaHarms"5086*õ:okBCMJ1971RGER-WOLF
 @
 	BÃ©atriceLÃ¼tolf"5105*ò‘:okBCMJ1950RSUI-OLG Welsikon
+;
+RenÃ©Wittwer"5106*Û’:okBCMJ1974RSUI-OLG Oberwil
 9
 Kenneth	Antonsson"5107:okBCMJ1958RSWE-Vimmerby OK
 =
@@ -5299,8 +5304,6 @@ B
 BeatriceWalder"7335:okBCMJ1955RSUI-OLK Rafzerfeld
 6
 MartinWeber"7160:okBCMJ1967RSUI-OLV Baselland
-5
-RenÃ©Wittwer"5106:okBCMJ1974RSUI-OLG Oberwil
 +
 AdrianZehnder"5131:okBCMJ1971RSUI-
 D
@@ -5317,10 +5320,12 @@ N
 ?
 BeatNussbaum"7346*™ý2¦:okBHSJ1962RSUI-Z
 1ö
+UAlthaus Julia + Marti Brigitte"5168*õÿ:okBHSJ0RSUI-OLV LangenthalZ
+1
+\%Althaus Kristina Sarah + Sommer Heidi"5175*ñÿ:okBHSJ0RSUI-OLV LangenthalZ
+1
 ;
 AsgerFolke"5185*Ëþ:okBHSJ2011RDEN-SÃ¸llerÃ¸d OK
-R%Althaus Kristina Sarah + Sommer Heidi"5175*ñÿ:okBHSJ0RSUI-OLV Langenthal
-KAlthaus Julia + Marti Brigitte"5168*õÿ:okBHSJ0RSUI-OLV Langenthal
 >Waeber Eric + Mathis + Arno"5182*«‰:okBHSJ0RSUI-ANCO
 :
 LauraLÃ¼scher"7840*¥Š:okBHSJ2000RSUI-OLK Argus
@@ -5478,4 +5483,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
 )
-AndreaZingg"7846:okBHLJ1984RSUI-
+AndreaZingg"7846:okBHLJ1984RSUI-
