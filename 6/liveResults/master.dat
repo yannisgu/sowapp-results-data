@@ -791,9 +791,10 @@ R
 AnjaScherrer"1274*ŒÐ2°0:okBD20J1999RSUI-OLG ChurZ
 1ÌZ
 2ˆ0
-D
+N
 MichelleAbeni"1272*œì:okBD20J1999RSUI-OLG ChurZ
-1‘
+1‘Z
+2†!
 L
 Clara CharlotteKilper"1255*Äç:okBD20J2000RGER-USV JenaZ
 1…
@@ -4215,6 +4216,11 @@ n
 1™Z
 2Â%Z
 3™,
+a
+MarvinGoericke"2480*Àà2í,:okBHEJ1991RGER-Berliner TSCZ
+1ÞZ
+2×&Z
+3Ò,
 ]
 ThomasGeiges"2462*àÍ2Œ-:okBHEJ1976RSUI-OLG StÃ¤faZ
 1àZ
@@ -4300,10 +4306,6 @@ Y
 ChristofRÃ¶thlisberger"2454*€è:okBHEJ1987RSUI-OLG SkandiaZ
 1»Z
 2ë$
-R
-MarvinGoericke"2480*Àà:okBHEJ1991RGER-Berliner TSCZ
-1ÞZ
-2×&
 J
 	AlexanderKlessen"2474*ðÚ:okBHEJ1990RGER-Berliner TSCZ
 1¼$
@@ -5700,10 +5702,11 @@ J
 K
 RicoHuber"2911*´Ë2Ó5:okBH45KJ1960RSUI-OL ZimmerbergZ
 1¬5
+H
+MichaelBially"2898*˜å:okBH45KJ1973RGER-TSV IpsheimZ
+1û'
 :
 StefanGasser"2902*¼Ù:okBH45KJ1972RSUI-O-Motion
->
-MichaelBially"2898*˜å:okBH45KJ1973RGER-TSV Ipsheim
 A
 MarkusLÃ¼thi"2943*ðé:okBH45KJ1969RSUI-OLG Biberist SO
 I
@@ -7928,6 +7931,9 @@ M
 I
 MarkusBeyeler"6019*å§2Ü+:okBCLJ1960RSUI-OLG BaselZ
 1µ+
+M
+StinaOlandersson"6184*ýà2¯,:okBCLJ1993RSWE-OK TyringeZ
+1,
 Z
 	TimothÃ©eDelcourt"6058*…Â2Š-:okBCLJ1997RSUI-OLG Rymenzburg/OLK WigZ
 1í,
@@ -7941,8 +7947,6 @@ U
 L
 ArianeAbegg"6180*¹Ã2Å8:okBCLJ1973RSUI-OLK RafzerfeldZ
 1‹8
->
-StinaOlandersson"6184*ýà:okBCLJ1993RSWE-OK Tyringe
 /
 IlmarsLindens"0:okBCLJ1948RLAT-Sigulda
 G
@@ -8196,12 +8200,8 @@ C
 D
 NicolasBaumann"5062*°®2Ò::okBCMJ1950RHKG-Y2YZ
 1ý9
-9
-Kenneth	Antonsson"5107:okBCMJ1958RSWE-Vimmerby OK
 A
 ChristopherBayliss"5223:okBCMJ2001RGBR-wrekin orienteers
-;
-AnneFaivre"5078:okBCMJ1961RFRA-ACA Aix en Provence
 B
 	JaroslavaFremrova"5069:okBCMJ1979RCZE-OK Lokomotiva Plzen
 7
@@ -8210,15 +8210,10 @@ B
 JohannaHaikonen"5117:okBCMJ1971RFIN-Ulvilan Ura
 9
 FlorianHaller"7249:okBCMJ1993RSUI-OLG Rymenzburg
-5
-ErwinKeller"5096:okBCMJ1963RSUI-thurgorienta
 3
 ManuelKlaus"6024:okBCMJ2000RSUI-OLV Luzern
 4
 LindaKokkila"5072:okBCMJ1987RFIN-Beach Boys
-M!Ma Weiwei + Yu Liu + Jinxuan Song"5080:okBCMJ0RCHN-Learnjoy O Club  CN
-?
-TÃ¢niaOlaio"5077:okBCMJ2000RPOR-COC - Clube de Orienta
 COlaio Paulo + CÃ¡tia"5075:okBCMJ0RPOR-COC - Clube de Orienta
 @
 SusanneSchmid-Schilter"5109:okBCMJ1970RSUI-OL Regio Wil
@@ -8255,12 +8250,19 @@ NLeutert Regula + Maurice"5089*‹«:mpBCMJ0RSUI-OLG SÃ¤uliamtZ
 C
 RitaRenger"7305*«Í:mpBCMJ1945RSUI-SV RobotronZ
 1ë-
+N!Ma Weiwei + Yu Liu + Jinxuan Song"5080:dnsBCMJ0RCHN-Learnjoy O Club  CN
 ;
 BeatriceWalder"7335:dnsBCMJ1955RSUI-OLK Rafzerfeld
+<
+AnneFaivre"5078:dnsBCMJ1961RFRA-ACA Aix en Provence
+@
+TÃ¢niaOlaio"5077:dnsBCMJ2000RPOR-COC - Clube de Orienta
 3
 SimonKlaus"7043:dnsBCMJ2003RSUI-OLV Luzern
 >
 MichaelaCionoiu"5084:dnsBCMJ1967RGER-TV Coburg-Neuses
+:
+Kenneth	Antonsson"5107:dnsBCMJ1958RSWE-Vimmerby OK
 7
 EvaBrabek"5111:dnsBCMJ1967RAUT-OC FÃ¼rstenfeld
 2
@@ -8273,6 +8275,8 @@ C
 BeatFrey"5088:dnsBCMJ1957RSUI-bussola ok
 9
 MonikaGeiser"5108:dnsBCMJ1957RSUI-OL Regio Olten
+6
+ErwinKeller"5096:dnsBCMJ1963RSUI-thurgorienta
 INiggli Anja + Lars"5190*á™2–	:okBHSJ0RSUI-ol norskaZ
 1ö
 S
@@ -8434,6 +8438,8 @@ F
 C
 YunqiLi"5231*Ç¼2¶':okBHSJ2003RCHN-SDSZ clubZ
 1Ó&
+,
+JaneWhite"7239*ŸÖ2¬(:okBHSJ1942
 <
 EunjungChoi"5142:okBHSJ1969RUSA-RMOC Rocky Mountain
 5
@@ -8453,8 +8459,6 @@ A
 ManuelaHeim"5148:dnsBHSJ1959RSUI-OLG St. Gallen/App.
 0
 DortheLind"5143:dnsBHSJ1962RDEN-OK Fros
-(
-JaneWhite"7239:dnsBHSJ1942RGBR-
 ?
 StefaniaPoggiati"5154:dnsBHSJ1962RSUI-C.O. Aget Lugano
 9
@@ -8531,4 +8535,4 @@ T(He Yaqing + Hongsong Yin + Huihong Zhang"5196:okBHLJ0RCHN-Learnjoy O Clu
 9
 PatriziaSeibel"5199:dnsBHLJ1973RSUI-OLG Hondrich
 3
-IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik˜
+IrenaBila"5200:dnsBHLJ1967RCZE-OK Rakovnik™
