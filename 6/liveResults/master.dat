@@ -8,11 +8,13 @@ T
 K
 SinaLexen"1033*¦‚2Ò:okBD10J2010RGER-TSV JetzendorfZ
 1¯
-D
-LindaPillat"1031*Úƒ:okBD10J2009RSUI-OLG GoldauZ
+I
+LindaPillat"1031*Úƒ2ñ:okBD10J2009RSUI-OLG GoldauZ
 1Ó
 5
 JeanneRenaud"1022*Ã†:okBD10J2010RSUI-ANCO
+3
+RuthLerjen"1027*¸:okBD10J2011RSUI-UBOL
 ;
 Signe	Albinsson"1007:okBD10J2009RSWE-OK Ã–sterÃ¥ker
 :
@@ -41,8 +43,6 @@ D
 MathildeKÃ¤rger"1002:okBD10J2009RGER-Team Sachsen
 4
 ElliKokkila"1005:okBD10J2010RFIN-Beach Boys
--
-RuthLerjen"1027:okBD10J2011RSUI-UBOL
 9
 LisaLÃ¶hning"1008:okBD10J2011RGER-USV TU Dresden
 A
@@ -70,8 +70,8 @@ A
 N
 EbbaSkullman"1049*€ÿ2¹	:okBD12J2007RSWE-LinkÃ¶pings OKZ
 1œ	
-F
-FinaBaath"1079*¬:okBD12J2008RGER-TSV JetzendorfZ
+K
+FinaBaath"1079*¬2:okBD12J2008RGER-TSV JetzendorfZ
 1ı
 ;
 SvenjaPillat"1076*Øƒ:okBD12J2007RSUI-OLG Goldau
@@ -2094,6 +2094,11 @@ F
 H
 MattiWilhelm"2089*Ïı2¨:okBH10J2009RSUI-OLG ChurZ
 1
+D
+LarsOkle"2132*…2½
+:okBH10J2009RSUI-OLG BernZ
+1œ
+
 K
 MarkKraus"2103*‡ÿ2Ø
 :okBH10J2009RSUI-OLC WinterthurZ
@@ -2108,10 +2113,6 @@ L
 I
 OskarStene"2107*üÿ2:okBH10J2011RNOR-Nydalens SKZ
 1
-?
-LarsOkle"2132*…:okBH10J2009RSUI-OLG BernZ
-1œ
-
 G
 SamuelMorris"2127*”ı:okBH10J2009RAUS-Bennelong Northside Or
 8
@@ -3405,12 +3406,14 @@ Fankhauser"2746*Àà:okBH35J1982RSUI-OLG Skandia
 MarkusAho"2753*Üä:okBH35J1980RFIN-Beach Boys
 >
 DanielSalzmann"2749*øè:okBH35J1982RSUI-OLG Skandia
+E
+JuhaPeltola"2800*Œ…:okBH40J1975RFIN-BembÃ¶le OKZ
+1Ş
+
 =
 RogerEbert"2802*Äş:okBH40J1975RGER-TSV Jetzendorf
 G
 Vincenzo	de Simone"2801*è:okBH40J1977RSUI-CO Lausanne-Jorat
-;
-JuhaPeltola"2800*Œ…:okBH40J1975RFIN-BembÃ¶le OK
 F
 
 ChristopheIngold"2803*°ˆ:okBH40J1979RSUI-CO Lausanne-Jorat
@@ -5296,12 +5299,12 @@ X"Kapanen Jukka + Satu + Anna + Emma"5160*Öı2·:okBHSJ0RFIN-MS ParmaZ
 K
 TobiasFolke"5181*ş2ö:okBHSJ2006RDEN-SÃ¸llerÃ¸d OKZ
 1Ö
+N
+Jessica	Arfwedson"5155*‰ÿ2È:okBHSJ1972RSWE-Frolunda OLZ
+1
 ?
 BeatNussbaum"7346*™ı2¦:okBHSJ1962RSUI-Z
 1ö
-I
-Jessica	Arfwedson"5155*‰ÿ:okBHSJ1972RSWE-Frolunda OLZ
-1
 ;
 AsgerFolke"5185*Ëş:okBHSJ2011RDEN-SÃ¸llerÃ¸d OK
 R%Althaus Kristina Sarah + Sommer Heidi"5175*ñÿ:okBHSJ0RSUI-OLV Langenthal
@@ -5463,4 +5466,4 @@ UKR-Sirius
 5
 StephanZeller"5193:okBHLJ1966RSUI-OLG StÃ¤fa
 )
-AndreaZingg"7846:okBHLJ1984RSUI-
+AndreaZingg"7846:okBHLJ1984RSUI-
